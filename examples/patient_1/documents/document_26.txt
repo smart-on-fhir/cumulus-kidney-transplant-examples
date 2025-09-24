@@ -1,0 +1,16 @@
+Nephrology Visit - Lab and Medication Review
+Date: 2025-12-10
+
+Subjective:
+No complaints. Home BP 126–134/74–82.
+
+Objective:
+BP 128/78, HR 70. Cr 1.5 mg/dL; Tac 6.8 ng/mL; Mg 2.0 mg/dL.
+Lipid panel: LDL 132 mg/dL, HDL 42, TG 168.
+A1c 6.9%.
+
+Assessment/Plan:
+- Stable graft function; tac at goal (6–8).
+- Dyslipidemia: Start pravastatin 20 mg PO nightly (minimal CYP3A4 interaction with tacrolimus). Counsel on myalgia reporting.
+- Diabetes management: Refer to Endocrinology for optimization; continue diet/exercise; monitor fasting glucose.
+- Continue prophylaxis (valganciclovir, TMP-SMX) and current immunosuppression.

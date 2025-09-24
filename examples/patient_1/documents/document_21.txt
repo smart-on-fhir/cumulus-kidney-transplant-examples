@@ -1,0 +1,19 @@
+Nephrology Visit - Immunosuppression Adjustment
+Date: 2025-11-12
+
+Reason:
+Review biopsy and adjust maintenance immunosuppression.
+
+Status:
+Patient well; tremor improved after tac dose reduction. No GI side effects.
+
+Labs:
+Cr 1.5 mg/dL; Tac 7.6 ng/mL; CBC WBC 4.7k (ANC 3.0k). CMV PCR: Not detected.
+
+Plan:
+- Set tacrolimus trough goal 6–8 ng/mL (weeks 8–12).
+- Adjust tacrolimus to 1.5 mg PO BID.
+- Continue MMF 1 g PO BID.
+- Prednisone taper to 7.5 mg daily starting 2025-11-15.
+- Continue valganciclovir 900 mg daily (D+/R-; continue to 6 months total) and TMP-SMX daily.
+- Routine labs weekly; clinic in 1 week.

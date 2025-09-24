@@ -1,0 +1,20 @@
+Renal Transplant Clinic Note - POD#10 Follow-up
+Date: 2025-09-24
+
+Interval History:
+Doing well at home; good urine output; mild hand tremor; no fever/dysuria. Full adherence reported.
+
+Vitals: BP 138/82, HR 88, T 36.8°C, Wt 74 kg.
+Exam: Incision well-healed, no graft tenderness.
+
+Labs:
+Cr 1.6 mg/dL (down from 3.2 at discharge), BUN 32, K 4.5, Mg 1.7.
+Tacrolimus trough 8.2 ng/mL (goal 8–10).
+CBC: WBC 5.8k, Hgb 11.0, Plt 198k.
+
+Assessment/Plan:
+- s/p DDKT POD#10 with improving graft function.
+- Tremor likely tac-related; continue current dose; reinforce hydration; continue Mg oxide.
+- Increase valganciclovir to 900 mg daily as eGFR now >60; continue TMP-SMX daily.
+- Prednisone 20 mg daily → taper to 15 mg on 2025-09-28 per protocol.
+- Repeat labs in 3 days; return in 1 week.

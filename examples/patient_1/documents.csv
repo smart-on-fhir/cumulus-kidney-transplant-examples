@@ -1,0 +1,28 @@
+encounter_num,encounter_date,document_num,document_title
+1,2025-09-14,1,Nephrology Admission MD
+1,2025-09-14,2,Renal Transplant Clinic Note - Pre-Op Assessment
+1,2025-09-15,3,Nephrology Inpatient MD - POD#0 Transplant Surgery
+1,2025-09-15,4,Urology Inpatient MD - Transplant Operative Note
+1,2025-09-16,5,MSICU Progress Attending MD
+1,2025-09-17,6,Nephrology Inpatient MD - POD#2
+1,2025-09-18,7,Pharmacy Transplant Inpatient - Medication Counseling
+1,2025-09-19,8,Infectious Diseases Consultation - CMV Prophylaxis
+1,2025-09-20,9,Social Work Assessment Outpatient (Discharge Planning)
+1,2025-09-21,10,Discharge Summary - Kidney Transplant Admission
+2,2025-09-24,11,Renal Transplant Clinic Note - POD#10 Follow-up
+2,2025-09-24,12,Nephrology Consultation - Tacrolimus Tremor
+3,2025-09-28,13,Phone Message/Call - Lab Result Review
+4,2025-10-01,14,Renal Transplant Clinic Note - Week 2 Follow-up
+5,2025-10-08,15,Renal Transplant Clinic Note - Week 3 Follow-up
+6,2025-10-15,16,Nephrology Visit - Routine BP/Medication Check
+7,2025-10-22,17,Renal Transplant Clinic Note - 5 Weeks Post-Op
+8,2025-10-29,18,Phone Message/Call - Elevated Creatinine Alert
+9,2025-11-05,19,Renal Transplant Clinic Note - Week 7 Follow-up
+9,2025-11-05,20,Pathology Report - Protocol Biopsy
+10,2025-11-12,21,Nephrology Visit - Immunosuppression Adjustment
+11,2025-11-19,22,Renal Transplant Clinic Note - 9 Weeks Post-Op
+12,2025-11-26,23,Phone Message/Call - Infection Symptoms
+12,2025-11-26,24,Infectious Diseases Consultation - Suspected UTI
+13,2025-12-03,25,Renal Transplant Clinic Note - 11 Weeks Follow-up
+14,2025-12-10,26,Nephrology Visit - Lab and Medication Review
+15,2025-12-17,27,Renal Transplant Clinic Note - 3 Months Post-Op

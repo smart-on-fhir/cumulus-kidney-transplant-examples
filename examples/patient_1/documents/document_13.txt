@@ -1,0 +1,10 @@
+Phone Message/Call - Lab Result Review
+Date: 2025-09-28
+
+Caller: Transplant RN to patient.
+Content:
+- Labs: Cr 1.7 mg/dL; tacrolimus trough 9.1 ng/mL; K 4.6; WBC 5.5k.
+- Assessment: Stable renal function; tac within goal.
+Plan:
+- No medication changes.
+- Confirm attendance at 2025-10-01 clinic visit.

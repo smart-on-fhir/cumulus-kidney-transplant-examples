@@ -1,0 +1,11 @@
+Phone Message/Call - Infection Symptoms
+Date: 2025-11-26
+
+Caller: Patient.
+Symptoms: 24 hours of urinary frequency, dysuria, and temperature up to 38.1°C. No flank pain.
+
+Plan:
+- Orders placed for STAT urinalysis and urine culture at local lab.
+- Same-day nurse visit for vitals and assessment.
+- After specimen collection, begin empiric cefpodoxime 200 mg PO BID × 7 days (pending culture/susceptibility).
+- Reinforce hydration; return precautions for fever >38.5°C, flank pain, nausea.

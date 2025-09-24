@@ -1,0 +1,14 @@
+Urology Inpatient MD - Transplant Operative Note
+Date: 2025-09-15
+
+Procedure: Right iliac fossa deceased donor kidney transplant.
+Surgeon: Dr. [Urology Attending]
+
+Findings:
+- Donor kidney right side, single artery, single vein, single ureter.
+- Vascular anastomosis to external iliac artery/vein performed without difficulty.
+- Warm ischemia time 32 minutes.
+- Immediate perfusion good, urine noted intra-op.
+
+Estimated Blood Loss: 250 mL
+Complications: None

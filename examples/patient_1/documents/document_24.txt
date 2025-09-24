@@ -1,0 +1,19 @@
+Infectious Diseases Consultation - Suspected UTI
+Date: 2025-11-26
+
+History:
+s/p DDKT 10 weeks ago; new dysuria and low-grade fever. On TMP-SMX prophylaxis.
+
+Exam:
+Afebrile in clinic, no CVA tenderness. Graft non-tender.
+
+Labs/UA:
+UA positive leukocyte esterase and nitrites; WBCs 20–30/hpf. CBC WBC 6.3k. Creatinine 1.6 mg/dL.
+
+Assessment:
+Likely uncomplicated lower UTI in immunosuppressed host.
+
+Plan:
+- Start cefpodoxime 200 mg PO BID × 7 days (avoid fluoroquinolone due to tendon risk; TMP-SMX already in use for prophylaxis).
+- Send urine culture and adjust therapy per susceptibilities.
+- No change to immunosuppression today; monitor for pyelonephritis signs.
