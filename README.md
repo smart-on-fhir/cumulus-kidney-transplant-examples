@@ -1,9 +1,9 @@
 # Kidney Transplant Examples
-### Not HIPAA 
-These are synthetic notes -- not PHI (protected health information).  
+### No PHI  
+These are synthetic notes -- **not** PHI (protected health information).  
  
 ### Clinical scope
-Kidney transplant subject matter experts(SME) for chart review 
+Kidney transplant subject-matter-experts (SME) for chart review 
 * MD / providers
 * PhD / researchers
 * Medical school students
