@@ -1,0 +1,28 @@
+Progress Note
+Date of Visit: 2025-01-07
+Service: Transplant Nephrology
+
+Chief Complaint:
+Routine post-transplant follow-up, monitoring for graft function, rejection, and infection.
+
+Interval History:
+Patient reports ongoing nausea interfering with medication adherence. Missed one tacrolimus dose in past week. Denies fever, chills, dysuria, or cough. Reports fatigue and mild hand tremors.
+
+Objective:
+Vital signs stable. Exam unremarkable except for mild tremor. 
+Labs: Creatinine 1.9 mg/dL, tacrolimus trough 4.8 (low therapeutic range), WBC 6.1, hemoglobin 11.2. Urinalysis negative for infection. 
+DSA screen pending. 
+Patient continues on triple therapy immunosuppression plus prophylactic antimicrobials.
+
+Assessment:
+1. Kidney transplant recipient at high immunologic risk due to HLA mismatch.
+2. Concern for nonadherence with immunosuppressive therapy.
+3. Tacrolimus level subtherapeutic – risk of rejection and DSA formation.
+4. At risk for infection – no current clinical signs.
+
+Plan:
+- Reinforce medication adherence, address nausea with ondansetron PRN
+- Increase tacrolimus dose to target trough 6–8
+- Repeat labs in 3–4 days
+- Continue prophylaxis (TMP-SMX, valganciclovir)
+- Monitor for DSA results and adjust therapy if positive.

@@ -1,0 +1,25 @@
+Discharge Summary
+Date of Admission: 2024-09-27
+Date of Discharge: 2024-09-27
+Service: Transplant Surgery
+
+Hospital Course:
+Patient admitted for kidney transplant as outlined in prior notes. Course notable for initial delayed graft function with improving creatinine trend. No wound complications. JP drain removed on POD#6, Foley catheter removed POD#4. Pain controlled with acetaminophen and oxycodone. Mobilizing independently. Nutrition consult completed for renal diet and medication adherence education.
+
+Infectious Monitoring:
+No febrile episodes. CMV and BK viral loads obtained at baseline, negative. Blood and urine cultures remained negative. Vaccination history reviewed.
+
+Immunosuppression at Discharge:
+- Tacrolimus 4 mg PO BID (goal trough 6-8)
+- Mycophenolate mofetil 1 g PO BID
+- Prednisone taper, currently 20 mg daily
+- Prophylaxis: TMP-SMX single strength daily, valganciclovir 900 mg daily, fluconazole weekly
+
+Follow-up:
+- Transplant clinic visit in 1 week with labs
+- Tacrolimus troughs every 2-3 days until stable
+- DSA monitoring at 1, 3, 6, 12 months
+- Patient educated extensively on importance of medication adherence given high-risk donor-recipient mismatch.
+
+Condition on Discharge:
+Ambulatory, stable, creatinine at discharge 2.1 mg/dL, urine output adequate. No signs of acute rejection or infection at this time.

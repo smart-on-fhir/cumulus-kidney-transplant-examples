@@ -1,0 +1,16 @@
+Pathology Report – Allograft Biopsy
+Date: 2025-03-24
+Specimen: Percutaneous renal allograft biopsy
+
+Microscopic Description:
+Cores of renal parenchyma obtained showing glomerulitis, peritubular capillaritis, and endothelial swelling. Interstitial inflammation minimal, tubular injury present. Immunofluorescence demonstrates diffuse C4d positivity in peritubular capillaries. No evidence of viral inclusions. Mild arteriosclerosis consistent with chronic changes.
+
+Banff Classification:
+- g2 (moderate glomerulitis)
+- ptc2 (moderate peritubular capillaritis)
+- C4d positive
+- i0, t1
+Interpretation: Active antibody-mediated rejection, moderate severity.
+
+Final Diagnosis:
+Kidney allograft biopsy with features consistent with active ABMR, moderate severity. No significant interstitial fibrosis/tubular atrophy.
