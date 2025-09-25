@@ -1,0 +1,12 @@
+Pathology Report – Chronic Active ABMR (g1 ptc1 cg1, C4d positive)
+Encounter: 16 | Document: 4 | Date: 2022-08-18
+
+Findings
+- Banff scores: g1, ptc1, cg1, ci1, ct1. C4d positive in peritubular capillaries.
+- Features of chronic active antibody-mediated rejection.
+
+Diagnosis
+- Chronic active ABMR with transplant glomerulopathy.
+
+Comment
+- Findings correlate with high DSA and worsening renal function. Poor long-term prognosis. Recommend aggressive immunomodulation.

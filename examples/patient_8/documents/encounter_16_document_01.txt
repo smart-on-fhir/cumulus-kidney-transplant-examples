@@ -1,0 +1,14 @@
+Nephrology Visit – Rising creatinine; proteinuria 1.2 g/day
+Encounter: 16 | Document: 1 | Date: 2022-08-18
+
+HPI
+- Mr. J.D. presents at nearly 5 years post-DDKT with gradual rise in creatinine (2.0 → 2.6 mg/dL over 6 months). Reports foamy urine. No fever or systemic illness.
+
+Exam
+- BP 144/76, HR 74. Trace pedal edema. Graft mildly tender. Otherwise benign.
+
+Labs
+- Cr 2.6 mg/dL, BUN 36. UPCR 1.2 g/g. Tacrolimus trough 8.9 ng/mL. CBC and LFTs stable.
+
+Assessment & Plan
+- Concerning for chronic rejection vs recurrent diabetic nephropathy vs CNI toxicity. Ordered DSA and biopsy for evaluation. Maintain immunosuppression pending results.

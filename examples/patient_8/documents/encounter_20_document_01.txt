@@ -1,0 +1,11 @@
+Vascular Surgery Consult – AV Fistula Planning (left radiocephalic)
+Encounter: 20 | Document: 1 | Date: 2024-03-14
+
+HPI
+- Consult requested for vascular access creation as eGFR 18 and progressive CKD. Right-handed patient.
+
+Exam
+- Good left radial and cephalic veins by physical exam and duplex.
+
+Plan
+- Schedule left radiocephalic AV fistula creation. Patient counseled re: procedure, risks, and need for early access planning. Proceed with surgery in April.

@@ -1,0 +1,8 @@
+Interventional Radiology Procedure Note – Tunneled dialysis catheter placement
+Encounter: 24 | Document: 2 | Date: 2025-02-12
+
+Procedure
+- Right IJ tunneled dialysis catheter placed under US and fluoroscopy guidance. Tip in RA/SVC junction. No complications.
+
+Disposition
+- Ready for immediate hemodialysis use.

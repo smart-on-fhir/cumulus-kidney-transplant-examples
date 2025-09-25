@@ -1,0 +1,9 @@
+Treatment Plan – Methylpred pulse; MMF increase; consider IVIG
+Encounter: 12 | Document: 4 | Date: 2020-06-01
+
+Plan
+- Borderline TCMR with new DSA. Start IV methylprednisolone 500 mg x3 days, then taper oral prednisone.
+- Increase MMF to 1.25 g BID (as tolerated).
+- Tacrolimus target trough adjusted upward to 9–11 ng/mL.
+- Consider IVIG if DSA persists or MFI increases.
+- Close monitoring: repeat creatinine and DSA in 4–6 weeks.

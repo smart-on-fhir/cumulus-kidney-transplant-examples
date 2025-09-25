@@ -1,0 +1,29 @@
+Transplant Surgery Operative Note – Deceased Donor Kidney Transplant (right iliac fossa)
+Encounter: 1 | Document: 2 | Date: 2017-10-12
+Surgeon: Attending Transplant Surgeon; Assistants: Fellow, Resident; Anesthesia: General.
+
+Pre-Op Dx: ESRD due to diabetic nephropathy. Post-Op Dx: Same.
+
+Procedure
+- Deceased donor kidney transplant to right iliac fossa.
+- Donor left kidney; single artery, single vein, single ureter.
+- Back-table prep performed; perigraft fat removed; vessel length adequate.
+
+Ischemia Times
+- Cold ischemia time: 13 hours 42 minutes.
+- Warm ischemia time: 34 minutes.
+
+Technique
+- External iliac vein exposed; end-to-side anastomosis with renal vein using 5-0 Prolene (running).
+- External iliac artery exposed; end-to-side anastomosis with renal artery using 6-0 Prolene (running).
+- Reperfusion: graft pinked immediately with turgor; immediate urine noted.
+- Ureteroneocystostomy with Lich-Gregoir; 6 Fr double-J ureteral stent placed.
+
+Intraoperative Details
+- EBL 250 mL; crystalloids 2 L; UOP 120 mL while in OR.
+- No intraoperative complications.
+
+Disposition
+- Transferred intubated to SICU in stable condition.
+- Foley catheter and JP drain in situ.
+- Plan: extubation in SICU when awake; standard immunosuppression protocol.

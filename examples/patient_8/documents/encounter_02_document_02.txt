@@ -1,0 +1,19 @@
+Immunosuppression Initiation & Dosing Plan – Tacrolimus/MMF/Prednisone
+Encounter: 2 | Document: 2 | Date: 2017-10-13
+Induction
+- Basiliximab 20 mg IV day 0 and planned day 4.
+- Methylprednisolone 500 mg IV intra-op.
+
+Maintenance (initial)
+- Tacrolimus 2 mg PO BID; target trough 8–10 ng/mL for first 3 months; first level tomorrow AM prior to dose.
+- Mycophenolate mofetil 1,000 mg PO BID.
+- Prednisone taper: 60 mg daily → gradual taper to 5 mg daily by ~3 months.
+
+Infection Prophylaxis
+- Valganciclovir 450 mg PO daily x3 months (CMV D+/R+; adjust per eGFR).
+- TMP-SMX SS PO daily x6 months (PCP).
+- Fluconazole 100 mg PO weekly x3 months (if endemic risk).
+
+Monitoring
+- Tacrolimus trough daily while inpatient; then 2–3x/week outpatient initially.
+- CBC, CMP, Mg, Phos at each draw; watch for leukopenia and nephrotoxicity.

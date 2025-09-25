@@ -1,0 +1,12 @@
+DSA Monitoring Report – Baseline screen (negative)
+Encounter: 5 | Document: 2 | Date: 2017-11-10
+
+Method
+- Single-antigen bead assay for HLA class I and II.
+
+Results
+- No detectable donor-specific antibodies.
+- All MFI values < 1000 (lab threshold for positivity).
+
+Interpretation
+- Baseline post-transplant DSA screen negative. Routine surveillance per protocol.

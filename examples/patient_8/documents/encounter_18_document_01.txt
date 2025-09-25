@@ -1,0 +1,14 @@
+Transplant Nephrology Clinic – CKD Stage 3b; eGFR 32
+Encounter: 18 | Document: 1 | Date: 2023-04-05
+
+Interval
+- Post ABMR treatment. Reports fatigue, stable weight. No rejection symptoms.
+
+Exam
+- BP 136/72. Trace edema. Graft palpable, nontender.
+
+Labs
+- Cr 2.1 mg/dL, eGFR 32. UPCR 0.9 g/g. Tacrolimus trough 6.7 ng/mL. CBC: mild anemia (Hgb 10.8).
+
+Assessment & Plan
+- CKD 3b with residual proteinuria post-ABMR. Continue IS (tacro/MMF/pred). Continue ACE-I. Counsel on CKD progression. Dietitian referral for low-sodium/protein moderation.

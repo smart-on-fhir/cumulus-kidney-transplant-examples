@@ -1,0 +1,11 @@
+Pathology Report – 12-Month Biopsy (Banff i0 t0 g0 ptc0, C4d negative)
+Encounter: 9 | Document: 2 | Date: 2018-10-12
+
+Findings
+- Light microscopy: 14 glomeruli, no sclerosis. Interstitium without inflammation. Tubules without tubulitis.
+- Banff scores: i0, t0, v0, g0, ptc0, cg0, ci0, ct0, cv0.
+- C4d negative.
+- No evidence of rejection. Minimal chronic changes.
+
+Diagnosis
+- Normal allograft with no evidence of acute or chronic rejection.

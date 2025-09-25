@@ -1,0 +1,8 @@
+DSA Monitoring Report – New Class II DSA (DQ7 MFI ~3200)
+Encounter: 12 | Document: 1 | Date: 2020-06-01
+
+Result
+- Single-antigen bead assay reveals new Class II DSA against HLA-DQ7 with MFI ~3200. Other specificities negative.
+
+Interpretation
+- New moderate strength Class II DSA, potentially clinically significant. Correlation with graft function and biopsy recommended.

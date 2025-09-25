@@ -1,0 +1,11 @@
+Allograft Biopsy Procedure Note
+Encounter: 16 | Document: 3 | Date: 2022-08-18
+
+Indication
+- Rising creatinine, proteinuria, positive DSA.
+
+Procedure
+- US-guided transplant kidney biopsy. 2 cores obtained. No complications.
+
+Disposition
+- Observed 4 hours, stable. Await pathology.

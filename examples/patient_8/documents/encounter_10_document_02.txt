@@ -1,0 +1,12 @@
+Antiviral Therapy Plan & Monitoring – valganciclovir dosing
+Encounter: 10 | Document: 2 | Date: 2019-02-15
+
+Therapy
+- Initiated valganciclovir 900 mg PO BID, renally adjusted to 450 mg BID (CrCl ~55 mL/min).
+
+Monitoring
+- Weekly CMV PCR until two consecutive negatives, then monthly x3 months.
+- Weekly CBC to monitor for leukopenia.
+
+Plan
+- Communicate with transplant nephrology re: monitoring. Consider reducing MMF if leukopenia develops.

@@ -1,0 +1,7 @@
+Immunosuppression Adjustment Note – Hold MMF; lower tacrolimus
+Encounter: 14 | Document: 2 | Date: 2021-03-10
+
+Plan
+- BK viremia detected. MMF held. Tacrolimus dose decreased from 4 mg BID to 3 mg BID (goal trough 5–7).
+- Continue prednisone 10 mg daily.
+- Weekly BK PCR monitoring initiated.

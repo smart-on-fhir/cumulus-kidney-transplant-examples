@@ -1,0 +1,11 @@
+Pharmacy Note – Rituximab infusion and premedication
+Encounter: 17 | Document: 2 | Date: 2022-09-20
+
+Summary
+- Rituximab 375 mg/m2 IV given with premeds (acetaminophen, diphenhydramine, methylpred 100 mg). Infusion rate titrated per protocol.
+
+Tolerance
+- No infusion reactions. Post-infusion monitoring uneventful.
+
+Plan
+- Monitor CBC and IgG levels. Reinforce infection precautions. Coordinate vaccinations deferred >6 months post-rituximab.

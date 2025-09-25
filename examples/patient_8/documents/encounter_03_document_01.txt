@@ -1,0 +1,25 @@
+Discharge Summary – Post-Kidney Transplant (DDKT)
+Encounter: 3 | Document: 1 | Date: 2017-10-16
+
+Admission: 2017-10-12 for DDKT. Discharge: 2017-10-16.
+
+Hospital Course
+- Uneventful DDKT on 10/12. Immediate graft perfusion and urine production.
+- Creatinine down-trended: 9.8 pre-op → 5.9 (POD1) → 4.1 (POD2) → 3.4 mg/dL (POD4/discharge).
+- Tacrolimus initiated POD1; latest trough 8.6 ng/mL.
+- Foley removed morning of discharge; voiding adequately.
+- No surgical complications; incision dry/intact; JP removed POD3.
+
+Discharge Medications
+- Tacrolimus 3 mg PO BID (goal trough 8–10).
+- Mycophenolate mofetil 1,000 mg PO BID.
+- Prednisone 20 mg PO daily (taper plan provided).
+- Valganciclovir 450 mg PO daily x3 months.
+- TMP-SMX SS PO daily x6 months.
+- Fluconazole 100 mg PO weekly x3 months.
+- Insulin regimen continued; antihypertensives adjusted as tolerated.
+
+Follow-Up / Instructions
+- Transplant clinic in 1 week (10/20/2017).
+- Labs Mon/Thu for first month: BMP, tacrolimus trough, CBC, Mg, Phos.
+- Wound care reviewed; activity restrictions; fever precautions; call parameters provided.

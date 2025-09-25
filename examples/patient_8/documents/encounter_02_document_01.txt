@@ -1,0 +1,26 @@
+Nephrology Inpatient Progress Note – POD#1, urine output improving
+Encounter: 2 | Document: 1 | Date: 2017-10-13
+Attending: Transplant Nephrology
+
+Subjective
+- Extubated early AM; pain controlled; no chest pain or dyspnea; tolerating sips.
+
+Objective
+- Vitals: BP 128/68, HR 86, afebrile.
+- I/O last 24h: UOP 2.1 L; JP drain 65 mL.
+- Exam: incision clean; graft bruit present; lungs clear; no edema.
+
+Labs
+- Cr 7.6 mg/dL (↓ from 9.8), BUN 52, K 4.5, CO2 23.
+- Hgb 8.9 g/dL, WBC 9.2, Plt 188.
+
+Assessment
+- Early graft function with improving Cr and robust UOP. Hemodynamically stable.
+
+Plan
+- Start tacrolimus 2 mg PO BID today; trough daily (goal 8–10 ng/mL).
+- Continue MMF 1 g PO BID; steroid taper per protocol.
+- Basiliximab D0/D4.
+- Fluids: NS 75 mL/hr; strict I/O.
+- Prophylaxis: TMP-SMX daily, valganciclovir 450 mg daily (D+/R+), fluconazole weekly.
+- Labs BID x48h, then daily as appropriate.
