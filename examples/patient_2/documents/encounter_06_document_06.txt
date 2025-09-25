@@ -1,0 +1,26 @@
+Medication Reconciliation & Immunosuppression Initiation – Induction & Maintenance Plan
+Date: 2025-06-06
+Author: Clinical Pharmacist – Jennifer Morales, PharmD
+
+Patient: 52-year-old male, POD#3 s/p deceased donor kidney transplant.
+
+Induction Immunosuppression:
+- Antithymocyte Globulin (Thymoglobulin) 1.5 mg/kg x3 doses (completed POD#3)
+- Methylprednisolone 500 mg IV intra-op, tapering to oral prednisone
+
+Maintenance Immunosuppression:
+- Tacrolimus (Prograf): started POD#1, current dose 3 mg BID (trough goal 8–10 ng/mL)
+- Mycophenolate mofetil (CellCept): 1000 mg PO BID
+- Prednisone taper: 40 mg PO daily → taper to 5 mg daily by 2 months
+
+Prophylaxis:
+- TMP-SMX SS PO daily for PCP
+- Valganciclovir 900 mg PO daily (dose adjusted for renal function) for CMV
+- Fluconazole 100 mg PO daily x1 month for fungal prophylaxis
+
+Other Home Medications Reconciled:
+- Amlodipine 5 mg daily for HTN
+- Insulin glargine + lispro for DM2
+
+Patient Education:
+Reviewed purpose of each immunosuppressant, side effects (tremor, nephrotoxicity, GI upset, infection risk), and importance of strict adherence. Patient verbalized understanding.

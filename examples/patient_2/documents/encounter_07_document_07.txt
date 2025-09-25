@@ -1,0 +1,35 @@
+Transplant Discharge Summary – Hospital Day 5
+Date of Discharge: 2025-06-07
+Attending: Dr. Jonathan R. Patel, MD
+Service: Transplant Surgery
+
+Admission Diagnosis:
+End-stage renal disease, s/p deceased donor kidney transplant
+
+Hospital Course:
+- 52-year-old male admitted for kidney transplant on 2025-06-03. Underwent successful deceased donor renal transplant (KDPI 42%). Intra-op course uncomplicated.
+- Post-op course notable for excellent graft function with prompt urine output. Creatinine decreased from 9.2 pre-op to 2.8 at discharge.
+- Immunosuppression: Thymoglobulin x3 doses, prednisone taper, MMF, tacrolimus (goal 8–10, level at discharge 9.1).
+- No evidence of infection, rejection, or surgical complication.
+- Foley removed POD#3, patient voiding spontaneously.
+- Pain controlled with acetaminophen and oxycodone PRN.
+
+Discharge Medications (selected):
+- Tacrolimus 3 mg PO BID
+- Mycophenolate mofetil 1000 mg PO BID
+- Prednisone taper: 30 mg PO daily → taper per protocol
+- TMP-SMX SS daily
+- Valganciclovir 450 mg daily
+- Amlodipine 5 mg daily
+- Insulin regimen continued
+
+Follow-Up:
+- First transplant clinic visit: 2025-06-12
+- Labs twice weekly for first month (CBC, CMP, Mg, Phos, tacrolimus trough, viral PCR surveillance)
+- Nurse coordinator phone call scheduled for 2025-06-10
+
+Disposition:
+Discharged home in stable condition, good graft function, excellent urine output. Patient and family received education regarding medications, warning signs (fever, decreased urine, swelling, SOB), and contact information.
+
+Signature: _________________________
+Dr. Jonathan R. Patel, MD
