@@ -1,0 +1,41 @@
+encounter_num,encounter_date,document_num,document_title
+1,2025-01-15,1,Operative Note – Deceased Donor Kidney Transplant (right iliac fossa)
+1,2025-01-15,2,"Immediate Post‑Anesthesia Care Unit Note – Extubated, hemodynamically stable"
+1,2025-01-15,3,Admission H&P – Induction with anti‑thymocyte globulin; methylprednisolone taper planned
+1,2025-01-15,4,Medication Reconciliation – Start tacrolimus + mycophenolate mofetil + prednisone
+2,2025-01-16,1,"Transplant Inpatient Progress Note – POD#1, urine output improving"
+2,2025-01-16,2,Pharmacy Note – Tacrolimus initiation; target trough 8–10 ng/mL
+3,2025-01-20,1,Discharge Summary – Uncomplicated course; creatinine improving
+3,2025-01-20,2,Patient Education – Medication adherence & infection precautions
+4,2025-01-27,1,Transplant Nephrology Clinic Visit – Early post‑op follow‑up
+4,2025-01-27,2,Laboratory Review – Creatinine/tacrolimus levels; electrolytes
+4,2025-01-27,3,HLA Antibody Screen – DSA not detected
+5,2025-02-10,1,Transplant Surgery Wound Check – Staples removed
+5,2025-02-10,2,Viral Surveillance – CMV & EBV PCR baseline (negative)
+6,2025-02-24,1,Transplant Nephrology Visit – BP optimization; tacrolimus adjustment
+6,2025-02-24,2,"Laboratory Review – Electrolytes, magnesium, phosphorus; UPCR"
+7,2025-03-17,1,Clinic Visit – Stable graft function; adherence counseling
+7,2025-03-17,2,HLA Antibody Screen – DSA negative; BK PCR negative
+8,2025-04-14,1,Interventional Radiology – Protocol Allograft Biopsy
+8,2025-04-14,2,Pathology Report – Banff i0 t0 v0; mild IFTA; no rejection
+8,2025-04-14,3,Clinic Visit – Review of biopsy; maintain IS; BK/CMV PCR negative
+9,2025-05-12,1,Clinic Visit – Low‑level CMV viremia; start valganciclovir
+9,2025-05-12,2,Laboratory Review – Tacrolimus trough 7.9; creatinine 1.5 mg/dL
+10,2025-06-09,1,"Clinic Visit – Fatigue; EBV PCR rising (5,000 IU/mL); reduce MMF 50%"
+10,2025-06-09,2,HLA Antibody Screen – DSA negative; dd‑cfDNA 0.28%
+11,2025-07-07,1,Transplant Nephrology Urgent Visit – Fevers & cervical nodes
+11,2025-07-07,2,"Infectious Disease Consult – EBV PCR 45,000 IU/mL; imaging ordered"
+12,2025-07-10,1,CT Neck/Chest with Contrast – Generalized lymphadenopathy
+12,2025-07-10,2,Hematology/Oncology Consult – Concern for PTLD; MMF held; tacrolimus goal 4–6
+13,2025-07-15,1,Excisional Lymph Node Biopsy – Pathology: EBV+ monomorphic PTLD (DLBCL‑like)
+13,2025-07-15,2,PET‑CT Staging – Nodal disease above/below diaphragm (Deauville 4)
+13,2025-07-15,3,Oncology Plan – Rituximab weekly ×4; tumor lysis monitoring; IS minimization
+14,2025-07-22,1,Oncology Infusion Note – Rituximab Cycle 1 Day 1; tolerated well
+15,2025-08-05,1,"Oncology Infusion Note – Rituximab Cycle 2 Day 1; EBV PCR down‑trending (2,000 IU/mL)"
+15,2025-08-05,2,Transplant Nephrology Co‑Management – IS minimized; PJP prophylaxis adjusted
+16,2025-08-19,1,Oncology Infusion Note – Rituximab Cycle 3 Day 1; stable graft function
+16,2025-08-19,2,Interim PET‑CT – Partial response (Deauville 3)
+17,2025-09-02,1,Oncology Infusion Note – Rituximab Cycle 4 Day 1; course complete
+17,2025-09-02,2,Laboratory Review – EBV PCR <500 IU/mL (undetectable)
+18,2025-09-16,1,Transplant Nephrology Follow‑up – Post‑PTLD response; cautious IS re‑titration
+19,2025-09-20,1,HLA Antibody Screen – DSA not detected; dd‑cfDNA 0.35%; BK PCR negative

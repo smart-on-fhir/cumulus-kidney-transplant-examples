@@ -1,7 +1,0 @@
-Encounter: 14  Date: 2025-09-24
-Document: Pathology Report
-
-Renal allograft biopsy performed at 1 year. 
-Findings: evidence of antibody-mediated rejection with C4d positivity. 
-Banff classification: Acute AMR, moderate severity. 
-Recommendation: augmented immunosuppression and consideration of plasmapheresis/IVIG. 

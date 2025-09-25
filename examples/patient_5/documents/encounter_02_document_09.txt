@@ -1,13 +1,13 @@
-Date of Service: 2025-06-03
-Encounter #: 01
-Document #: 01
-Document Title: Transplant Surgery Operative Report – Living Donor Kidney Transplant
+Date of Service: 2025-06-10
+Encounter #: 02
+Document #: 09
+Document Title: DSA Single Antigen Bead – Baseline
 ================================================================================
 
-Chief Complaint: End-stage renal disease requiring renal transplant.
+Chief Complaint: Follow-up evaluation.
 
 History of Present Illness:
-Living donor left kidney transplanted into right iliac fossa. Cold ischemia time approximately 1 hour. Warm ischemia 35 minutes. Immediate graft perfusion with prompt urine output noted intraoperatively.
+The patient is a kidney transplant recipient who presents for follow-up. They report adherence to immunosuppression with occasional missed doses. No new constitutional symptoms unless otherwise specified. Recent labs and imaging reviewed in chart. Monitoring for infection, rejection, and donor specific antibodies ongoing.
 
 Past Medical History: End-stage renal disease secondary to hypertensive nephrosclerosis. Hypertension, anemia of CKD. No history of diabetes. No prior organ transplants.
 Past Surgical History: Living donor kidney transplant (2025). Arteriovenous fistula (2023). Appendectomy as a child.
@@ -35,7 +35,7 @@ Extremities: No edema.
 Skin: No rash.
 
 Laboratory / Imaging:
-Labs: Stable creatinine, tacrolimus level within target range.
+DSA single antigen bead testing: No donor specific antibodies detected.
 
 Impression / Assessment & Plan:
-Successful living donor kidney transplant without intraoperative complications. Immediate graft function achieved.
+Stable post-kidney transplant course with ongoing immunosuppression. Monitoring for infection, rejection, and drug toxicity. Plan includes continued immunosuppressive therapy, prophylaxis, and surveillance labs.

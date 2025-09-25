@@ -1,13 +1,13 @@
-Date of Service: 2025-06-03
-Encounter #: 01
-Document #: 01
-Document Title: Transplant Surgery Operative Report – Living Donor Kidney Transplant
+Date of Service: 2025-08-19
+Encounter #: 07
+Document #: 20
+Document Title: Emergency Department Note – Febrile UTI in Kidney Transplant Recipient
 ================================================================================
 
-Chief Complaint: End-stage renal disease requiring renal transplant.
+Chief Complaint: Fever and dysuria in kidney transplant recipient.
 
 History of Present Illness:
-Living donor left kidney transplanted into right iliac fossa. Cold ischemia time approximately 1 hour. Warm ischemia 35 minutes. Immediate graft perfusion with prompt urine output noted intraoperatively.
+Patient presented to the ED with fever, dysuria, and suprapubic discomfort. History notable for recent transplant two months prior. No flank pain but reports increased urinary frequency. No missed doses of immunosuppression. No sick contacts.
 
 Past Medical History: End-stage renal disease secondary to hypertensive nephrosclerosis. Hypertension, anemia of CKD. No history of diabetes. No prior organ transplants.
 Past Surgical History: Living donor kidney transplant (2025). Arteriovenous fistula (2023). Appendectomy as a child.
@@ -38,4 +38,4 @@ Laboratory / Imaging:
 Labs: Stable creatinine, tacrolimus level within target range.
 
 Impression / Assessment & Plan:
-Successful living donor kidney transplant without intraoperative complications. Immediate graft function achieved.
+Febrile urinary tract infection in kidney transplant recipient. Plan: Admit for IV antibiotics, maintain immunosuppression, monitor renal function.

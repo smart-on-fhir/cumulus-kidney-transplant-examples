@@ -1,6 +1,0 @@
-Encounter: 4  Date: 2024-10-22
-Document: Consult Note
-
-Transplant nephrology consulted for concern of rising creatinine. 
-Creatinine increased from baseline 1.6 mg/dL to 2.3 mg/dL. 
-Plan: check donor-specific antibodies (DSA), allograft ultrasound, consider biopsy. 

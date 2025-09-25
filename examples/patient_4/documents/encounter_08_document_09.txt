@@ -1,8 +1,0 @@
-Encounter: 8  Date: 2025-03-11
-Document: Progress Note
-
-Patient seen in outpatient transplant clinic. 
-Stable vital signs, incision healing well. 
-Immunosuppressive regimen continued. 
-Creatinine stable around 1.5–1.8 mg/dL. 
-Patient counseled on medication adherence. 

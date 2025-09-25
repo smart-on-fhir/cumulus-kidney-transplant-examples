@@ -1,0 +1,35 @@
+Nephrology Attending Plan – Methylpred pulse; increase MMF; maintain tacrolimus given DSA
+
+HISTORY OF PRESENT ILLNESS:
+This kidney transplant recipient is being followed closely due to donor-positive/recipient-negative CMV serostatus and baseline low-level DSA. Management has been challenging due to poor kidney function, necessitating a balance between infection prophylaxis and rejection risk.
+
+PAST MEDICAL HISTORY:
+- End-stage renal disease secondary to hypertensive nephrosclerosis
+- Hypertension
+- Anemia of chronic kidney disease
+- Secondary hyperparathyroidism
+
+
+CURRENT MEDICATIONS:
+- Tacrolimus 3 mg BID (goal trough 8–10 ng/mL)
+- Mycophenolate mofetil 1 g BID
+- Prednisone 20 mg daily, tapering
+- Valganciclovir (adjusted for renal function)
+- TMP-SMX SS daily
+- Amlodipine 10 mg daily
+- Sevelamer with meals
+
+
+LABORATORY DATA:
+- Serum creatinine: 6.0 mg/dL
+- Tacrolimus trough: 7.6 ng/mL
+- CBC: mild leukopenia, Hgb ~9.5 g/dL
+- CMV PCR: monitored weekly
+- DSA: trended by MFI values
+
+
+
+
+ASSESSMENT & PLAN:
+This patient continues to require close monitoring. Immunosuppression maintained given rejection risk, with vigilant infectious disease surveillance due to CMV risk. Reinforced adherence. Plan for ongoing DSA monitoring, weekly CMV PCR, and creatinine checks.
+
