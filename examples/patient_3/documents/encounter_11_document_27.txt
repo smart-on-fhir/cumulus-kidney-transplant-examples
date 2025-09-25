@@ -1,0 +1,4 @@
+Digital Adherence Tool Setup
+Date: 2025-08-19
+
+Patient enrolled in smart pill cap program. Data to be monitored by transplant clinic for adherence support.
