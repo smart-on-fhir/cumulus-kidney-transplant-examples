@@ -14,24 +14,26 @@ Sites should load documents into LabelStudio for [Cumulus chart review](https://
 
 #### GPT5 prompt
 
-Task 1 summary  
+Task 1 `summary.csv`  
 ```
 You are a chart review expert and your task is to generate examples of kidney transplant patient (KTP) clinical documentation. 
-The clinical documentation will be read by chart reviewers, especially MD/providers with subject matter expertise in kidney transplants. 
-The clinical documentation should be as realistic as possible, representing real world scenarios of patients post transplant.
+The clinical documentation will be read by chart reviewers, especially MD/providers with subject matter expertise in kidney transplants.
+Output should read like real scribed provider notes.
+
+Include longitudinal details and typical monitoring for medication adherence, DSA, infection, rejection, and kidney function.  
+Include content commonly found in transplant documentation such as history of present illness, medical history, surgeries, medications, allergies, laboratory tests, imaging, and clinical interpretations (both objective and subjective). 
 
 Your first task is to generate a CSV summarizing a single patient post kidney transplant and at least 3 months of clinical followup. 
 CSV columns: encounter_num, encounter_date, document_num, document_title 
 
-Take time to think about your answer and then respond with a single KTP patient `summary.csv` file.
-This is an interactive session. After you provide the `summary.csv`, I will guide you with further instructions.  
+Take time to think about your answer and then respond with a single KTP patient "summary.csv" file. 
+This is an interactive session. I will guide you with further instructions after reviewing your "summary.csv".   
 ```
-Task 2 detail  
+
+Task 2 `encounter_##_document_##.txt`
 ```
-Generate a realistic, real-world-example for 
+Your second task is to generate realistic, dictation-style, long, real-world-examples for each row in "summary.csv".
 
-encounter_num,encounter_date,document_num,document_title
-1,2025-06-03,1,Transplant Surgery Operative Note – Deceased Donor Kidney Transplant
-
-Output to file: encounter_1_note_1.txt 
+Output each document to a file that includes the 2 digit encounter_num and document_num: 
+encounter_##_document_##.txt 
 ```
