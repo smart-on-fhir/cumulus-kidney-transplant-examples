@@ -1,0 +1,8 @@
+Encounter: 1  Date: 2024-09-24
+Document: Inpatient Hospitalization
+
+Patient admitted for kidney transplant procedure from a poorly matched deceased donor. 
+Induction immunosuppression started (Thymoglobulin, steroids, tacrolimus). 
+Initial labs notable for creatinine 9.2 mg/dL pre-op. 
+Allograft perfused appropriately intra-operatively. 
+Patient monitored closely post-op in surgical floor. 

@@ -1,0 +1,7 @@
+Encounter: 1  Date: 2024-09-24
+Document: Discharge Summary
+
+Patient discharged post-kidney transplant in stable condition. 
+Discharge meds: tacrolimus, mycophenolate, prednisone taper, TMP-SMX, valganciclovir. 
+Creatinine improved to 1.6 mg/dL at discharge. 
+Follow up in transplant clinic arranged in 1 week. 
