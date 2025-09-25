@@ -1,0 +1,18 @@
+Pathology Report – 2025-08-29
+
+Specimen:
+Renal allograft core biopsy.
+
+Findings (Banff criteria):
+- Interstitial inflammation (i1).  
+- Tubulitis (t1).  
+- Glomerulitis absent.  
+- C4d staining negative.  
+- No vascular involvement.  
+- Mild interstitial fibrosis and tubular atrophy (<10%).  
+
+Diagnosis:
+Borderline acute T-cell mediated rejection, C4d negative.  
+
+Comment:
+Findings may reflect under-immunosuppression in setting of recent subtherapeutic tacrolimus levels. Recommend correlation with clinical and serologic findings.

@@ -1,0 +1,16 @@
+DSA Monitoring Panel – 2025-08-05
+
+Summary:
+HLA antibody testing performed in the setting of recent adherence issues.
+
+Results:
+- Class I: Negative.  
+- Class II: New low-level donor-specific antibodies detected (DQ7, MFI ~2000).  
+
+Interpretation:
+Development of new Class II DSAs, low-level. Indicates possible early sensitization, potentially related to variable immunosuppression adherence. Requires close follow-up.
+
+Plan:
+- Intensify immunosuppressive regimen.  
+- Schedule allograft biopsy if creatinine rises further.  
+- Repeat DSA in 2 weeks.
