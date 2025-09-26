@@ -15,7 +15,9 @@ Intended for **Kidney Transplant** subject-matter-experts (SME) chart review pra
 ## Technical Users
 Sites should load documents into LabelStudio for [Cumulus chart review](https://docs.smarthealthit.org/cumulus/chart-review/).
 
-### GPT5 prompt
-
-1. [prompt_task_1.txt](prompt_task_1.txt)
-2. [prompt_task_2.txt](prompt_task_2.txt)
+### Steps to DIY (optional)
+ChatGPT interactive prompt steps
+1. [step_1_prompt.txt](step_1_prompt.txt)
+2. [step_2_download.txt](step_2_download.txt)
+3. [step_3_crosscheck.py](step_3_crosscheck.py)
+4. [step_4_batch.txt](step_4_batch.txt) 
