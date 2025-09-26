@@ -1,0 +1,27 @@
+|   encounter_num | encounter_date   | encounter_summary                                                                                      |
+|----------------:|:-----------------|:-------------------------------------------------------------------------------------------------------|
+|               1 | 2020-06-10       | Pre-op H&P – ESRD from IgA nephropathy; cleared for DDKT; baseline Cr 6.2 mg/dL, PRA 12%, DSA negative |
+|               2 | 2020-06-15       | Transplant operative day – DDKT placed right iliac fossa; CIT 13 h; immediate graft perfusion          |
+|               3 | 2020-06-16       | ICU POD#1 – urine output brisk; tacrolimus started, target 8–10 ng/mL                                  |
+|               4 | 2020-06-20       | Discharge – Tac/MMF/Pred; prophylaxis TMP-SMX and valganciclovir; creatinine 2.0 mg/dL                 |
+|               5 | 2020-07-02       | Clinic – creatinine 1.6 mg/dL; tac 7.8; DSA negative; adherence reinforced                             |
+|               6 | 2020-07-20       | Pharmacy – reports missed evening doses; pillbox issued, phone reminders set                           |
+|               7 | 2020-08-05       | Lab-only – tac 4.5 (subtherapeutic), creatinine 1.9; nurse call placed                                 |
+|               8 | 2020-09-15       | Clinic – admits nonadherence; de novo DSA anti-DQ7 MFI 3400; plan biopsy                               |
+|               9 | 2020-10-01       | Biopsy – microvascular inflammation g1/ptc2, C4d positive; AMR diagnosed                               |
+|              10 | 2020-10-02       | Inpatient – PLEX x5 and IVIG initiated; rituximab authorized                                           |
+|              11 | 2020-10-20       | Discharge – AMR therapy completed; rituximab given; tac goal 8–12                                      |
+|              12 | 2021-01-12       | Clinic – creatinine 1.8; tac 6.2; DSA DQ7 MFI 1500; BK and CMV PCR negative                            |
+|              13 | 2021-06-25       | Clinic – tac 3.2; refill gaps noted; DSA rebound DQ7 MFI 5200; adherence concerns                      |
+|              14 | 2021-07-10       | ED – hypertensive urgency; seen at outside hospital, limited records                                   |
+|              15 | 2021-07-12       | Biopsy – C4d+, cg1a; AMR persistent; plan IVIG and steroids                                            |
+|              16 | 2021-07-15       | Infusion center – IVIG completed; missed 1 session, rescheduled                                        |
+|              17 | 2022-02-03       | Clinic – creatinine 2.4; proteinuria 1.2 g/day; persistent DSA; BK negative                            |
+|              18 | 2022-09-08       | Pharmacy review – tac refill gaps >14 days in past 3 mo; adherence counseling                          |
+|              19 | 2023-03-21       | Clinic – eGFR 32; DSA DQ7 MFI 7800; consideration of additional therapy                                |
+|              20 | 2023-04-05       | Biopsy – chronic active AMR with transplant glomerulopathy; variable C4d                               |
+|              21 | 2023-04-06       | Care plan – IVIG and pulse steroids; patient declined PLEX due to work constraints                     |
+|              22 | 2023-12-14       | Lab-only – creatinine 3.1; tac 2.8; CMV and BK PCR undetectable                                        |
+|              23 | 2024-07-30       | Telemedicine – relocated; insurance lapse, limited access; misses doses 3–4/wk                         |
+|              24 | 2025-02-18       | Clinic – eGFR 25; persistent DSA; discuss retransplant evaluation                                      |
+|              25 | 2025-08-20       | Clinic – eGFR 18; plan fistula referral; outside nephrology notes unavailable                          |
