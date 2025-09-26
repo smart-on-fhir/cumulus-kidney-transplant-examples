@@ -1,0 +1,16 @@
+Thank you. I approve of your KTP patient example.
+Please provide a downloadable ZIP containing "patient.csv", "encounters.csv", and "documents.csv".
+
+Then generate realistic, real-world, EHR clinical text for each document in "documents.csv".
+
+Output each document to a txt file using the naming convention: encounter_num-document_num.txt
+Each txt file will be named like this:
+encounter_1-document_1.txt
+encounter_1-document_2.txt
+encounter_2-document_3.txt
+encounter_num-document_num.txt
+
+If necessary, use stepwise generation to generate batches of 5 notes at a time.
+
+
+
