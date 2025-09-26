@@ -48,4 +48,4 @@ def prepare(output_path: Path | str) -> pd.DataFrame:
     return df
 
 if __name__ == "__main__":
-    prepare('docref-data-uuid.csv')
+    prepare('docref-data.csv')

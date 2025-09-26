@@ -34,7 +34,7 @@ def str_document(document_num) -> str:
     return document_num
 
 def dir_examples() -> Path:
-    return Path(os.path.dirname(__file__)) / 'examples'
+    return Path(os.path.dirname(__file__)).parent / 'examples'
 
 def dir_patient(patient_num) -> Path:
     return dir_examples() / str_patient(patient_num)

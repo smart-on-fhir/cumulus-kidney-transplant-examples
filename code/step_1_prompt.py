@@ -1,3 +1,4 @@
+from pathlib import Path
 import examples
 
 EXAMPLE_PROMPT = '@@@EXAMPLE_PROMPT@@@'
