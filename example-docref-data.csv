@@ -1,0 +1,6 @@
+subject_id,documentref_id,encounter_id,date,type_display,path
+1,123,456,2025-09-14,"Nephrology Admission MD",examples/patient_1/documents/encounter_01_document_01.txt
+1,abc,456,2025-09-14,"Renal Transplant Clinic Note - Pre-Op Assessment",examples/patient_1/documents/encounter_01_document_02.txt
+1,def,456,2025-09-14,"Nephrology Inpatient MD - POD#0 Transplant Surgery",examples/patient_1/documents/encounter_01_document_03.txt
+2,ghi,enc-2,2025-06-03,"Transplant Surgery Operative Note – Deceased Donor Kidney Transplant",examples/patient_2/documents/encounter_01_document_01.txt
+2,jkl,enc-33,2025-06-03,"Immediate Post-Anesthesia Care Unit (PACU) Note – Stable to Surgical Floor",examples/patient_2/documents/encounter_01_document_02.txt
