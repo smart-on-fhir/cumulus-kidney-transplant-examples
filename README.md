@@ -3,7 +3,7 @@
 These are synthetic notes -- **not** PHI (protected health information).
  
 ## Clinical Research Users
-See [README](examples/README.md) example patients.
+See `examples` [README](examples/README.md) for kidney transplant patient (KTP) examples.
 
 Intended for **Kidney Transplant** subject-matter-experts (SME) chart review practice/tutorials 
 * MD / providers
@@ -11,13 +11,5 @@ Intended for **Kidney Transplant** subject-matter-experts (SME) chart review pra
 * Medical school students
 * Other chart reviewers
 
-
 ## Technical Users
-Sites should load documents into LabelStudio for [Cumulus chart review](https://docs.smarthealthit.org/cumulus/chart-review/).
-
-### Steps to DIY (optional)
-ChatGPT interactive prompt steps
-1. [step_1_prompt.txt](step_1_prompt.txt)
-2. [step_2_download.txt](step_2_download.txt)
-3. [step_3_crosscheck.py](step_3_crosscheck.py)
-4. [step_4_batch.txt](step_4_batch.txt) 
+See `code` [README.md](code/README.md) for steps to update/recreate KTP examples.  
