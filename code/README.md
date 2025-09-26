@@ -18,7 +18,7 @@ $ `python3` [step_1_prompt.py](step_1_prompt.py)
 
 Will generate prompts for each patient in [patients.csv](../examples/patients.csv). 
 
-The prompt will use the template from [step_1_prompt.txt](code/step_1_prompt.txt) . 
+The prompt will use the template from [step_1_prompt.txt](step_1_prompt.txt) . 
 
 Paste your `examples`/**patient_num**/`step1_prompt.txt` into https://chatgpt.com/
 
