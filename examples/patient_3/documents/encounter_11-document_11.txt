@@ -1,0 +1,33 @@
+Outpatient Clinic – Month 4: BK suppressed, stable function, vaccinations and ongoing prophylaxis
+
+Patient: Noah Patel
+Date: 2025-09-23
+Encounter: Post-transplant follow-up, Month 4
+
+Interval History:
+Patient presents with parents for 4-month follow-up. No fevers, urinary symptoms, or GI upset. Parents report excellent adherence to medication schedule. Patient received influenza vaccination at this visit. Energy and appetite good. No school absences.
+
+Medications:
+- Tacrolimus 0.07 mg/kg BID
+- MMF reduced dose 450 mg/m2 BID (adjusted for BK viremia)
+- Prednisone 5 mg daily
+- Valganciclovir (CMV prophylaxis, D+/R-)
+- TMP-SMX (PCP prophylaxis)
+
+Vitals:
+BP 108/72, HR 80, afebrile.
+
+Physical Exam:
+Well-appearing. Incision fully healed. No tenderness over graft. No edema. Normal cardiovascular and pulmonary exam.
+
+Labs:
+- Creatinine 1.0 mg/dL
+- Tacrolimus trough 7.9 ng/mL (goal range)
+- CBC stable
+- Electrolytes normal
+- BK PCR: <500 copies/mL (not detected)
+- CMV PCR: negative
+- EBV PCR: negative
+
+Assessment/Plan:
+Month 4 follow-up. Graft function remains excellent. BK viremia has resolved with MMF dose reduction. Continue tacrolimus, reduced MMF, prednisone, and prophylaxis. Influenza vaccine administered. Plan to continue valganciclovir for total of 6 months post-transplant given D+/R- status. RTC in 4 weeks with labs and viral PCRs.

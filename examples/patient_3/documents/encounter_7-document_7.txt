@@ -1,0 +1,30 @@
+Outpatient Clinic – Week 2: stable graft function, BK PCR not detected
+
+Patient: Noah Patel
+Date: 2025-06-17
+Encounter: Post-transplant follow-up, Week 2
+
+Interval History:
+Patient presents with parents for routine follow-up. Doing well, denies fever, abdominal pain, or urinary complaints. Reports full adherence to immunosuppression with parental supervision. Appetite good, normal schoolwork and energy level.
+
+Medications:
+- Tacrolimus 0.09 mg/kg BID (current trough within range)
+- MMF 600 mg/m2 BID
+- Prednisone taper (10 mg daily)
+- Valganciclovir, TMP-SMX, Nystatin
+
+Vitals:
+BP 102/68, HR 82, afebrile, weight stable.
+
+Physical Exam:
+Incision healed, no erythema. Normal cardiopulmonary exam. No edema.
+
+Labs:
+- Creatinine 1.1 mg/dL
+- Tacrolimus trough 7.2 ng/mL (goal range)
+- CBC and electrolytes normal
+- BK PCR: not detected
+- CMV and EBV PCR: negative
+
+Assessment/Plan:
+Stable graft function with therapeutic tacrolimus trough. No evidence of infection or rejection. Continue current regimen. Recheck labs in 2 weeks. Reinforced adherence and infection precautions.
