@@ -1,0 +1,25 @@
+encounter_num,encounter_date,document_num,document_title
+1,2025-05-29,1,Preop History and Physical ESRD due to hypertensive nephrosclerosis
+1,2025-05-29,2,Transplant Surgery Operative Note deceased donor kidney right iliac fossa
+2,2025-05-30,3,ICU Progress Note POD 1 reperfusion stable hemodynamics adequate
+2,2025-05-30,4,Immunosuppression Initiation Plan tacrolimus MMF prednisone with taper
+2,2025-05-30,5,Pharmacy Medication Reconciliation and Education adherence counseling and pillbox setup
+3,2025-06-02,6,Discharge Summary post kidney transplant hospital course and followup
+3,2025-06-02,7,Nursing Discharge Teaching drain care wound care warning signs reviewed
+4,2025-06-05,8,Transplant Nephrology Clinic Note week 1 followup labs reviewed
+4,2025-06-05,9,Laboratory Results tacrolimus trough CMP CBC urinalysis
+5,2025-06-12,10,Transplant Clinic Note week 2 blood pressure management and home readings
+5,2025-06-12,11,DSA Screen Report HLA antibody single antigen beads class I and II
+6,2025-06-26,12,Transplant Clinic Note week 4 DSA negative plan continue prophylaxis
+6,2025-06-26,13,Viral Monitoring Panel CMV EBV BK quantitative PCR
+7,2025-07-10,14,Transplant Clinic Note week 6 BK negative tacrolimus dose adjustment
+7,2025-07-10,15,Nutrition Followup low sodium diet and fluid goals
+8,2025-07-24,16,Transplant Clinic Acute Visit mild creatinine rise tacrolimus supratherapeutic
+8,2025-07-24,17,Ultrasound Renal Allograft with Doppler patent vessels no hydronephrosis
+9,2025-08-07,18,Transplant Clinic Note week 10 stable graft function adherence reinforced
+9,2025-08-07,19,Pharmacy MTM followup pillbox check refill synchronization
+10,2025-08-21,20,Protocol Biopsy Procedure Note three month ultrasound guided
+10,2025-08-21,21,Pathology Report allograft biopsy Banff scores and interpretation
+11,2025-09-04,22,Telemedicine Followup labs reviewed DSA negative stable plan
+12,2025-09-18,23,Transplant Clinic Note week 16 vaccines updated CMV PCR negative
+12,2025-09-18,24,Social Work Note return to work planning support and transportation
