@@ -1,0 +1,3 @@
+| dob        | sex   | first_name   | last_name   |
+|:-----------|:------|:-------------|:------------|
+| 1968-03-14 | Male  | Anthony      | Delgado     |
