@@ -1,0 +1,14 @@
+HLA Antibody (DSA) Monitoring – no DSA detected; all MFI < 500
+
+Date: 07/11/2025
+
+Specimen: Serum
+Method: Luminex single antigen bead assay
+
+Results:
+- No donor-specific antibodies detected.
+- All MFI < 500.
+- cPRA remains 0%.
+
+Interpretation:
+No alloantibody development at 5 weeks post-transplant.
