@@ -1,8 +1,0 @@
-Dialysis Access Note – First successful AVF cannulation; plan catheter removal
-Encounter: 26 | Document: 1 | Date: 2025-04-10
-
-Summary
-- AVF successfully cannulated with two needles, good flow, no recirculation.
-
-Plan
-- Continue to use AVF. Plan for tunneled catheter removal in 2 weeks if function remains reliable.
