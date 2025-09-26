@@ -1,26 +1,27 @@
 import argparse
 import base64
 import pandas as pd
+import json
 from pathlib import Path
-from typing import Dict, Any
+from typing import Any
 
-def generate_document_reference(row: pd.Series, csv_path: Path) -> Dict[str, Any]:
+def generate_document_reference(row: pd.Series, csv_path: Path) -> dict[str, Any]:
     with open(csv_path.parent.joinpath(row['path']), "rb") as f:
         file_content = f.read()
 
     mimetype = "text/plain"
     encoding = "utf-8"
-    attachment: Dict[str, Any] = {
+    attachment: dict[str, Any] = {
         "data": base64.standard_b64encode(file_content).decode("ascii"),
         "contentType": f"{mimetype}; charset={encoding}",
         "title": Path(row['path']).name
     }
 
-    doc_ref: Dict[str, Any] = {
+    doc_ref: dict[str, Any] = {
         "resourceType": "DocumentReference",
-        "id": str(row['documentref_ref']),
-        "subject": {"reference": f"Patient/{row['subject_ref']}"},
-        "encounter": {"reference": f"Encounter/{row['encounter_ref']}"},
+        "id": str(row['documentref_id']),
+        "subject": {"reference": f"Patient/{row['subject_id']}"},
+        "encounter": {"reference": f"Encounter/{row['encounter_id']}"},
         "date": row['date'],
         "type": {
             "coding": [
@@ -65,10 +66,9 @@ def validate_args(args) -> tuple[Path, Path] | None:
 def generate_doc_refs(csv_path: Path, output_dir: Path) -> None:
     df: pd.DataFrame = pd.read_csv(csv_path)
     for _, row in df.iterrows():
-        resource: Dict[str, Any] = generate_document_reference(row, csv_path)
-        out_file: Path = output_dir / f"{row['subject_ref']}_{row['documentref_ref']}.ndjson"
+        resource: dict[str, Any] = generate_document_reference(row, csv_path)
+        out_file: Path = output_dir / f"{row['subject_id']}_{row['documentref_id']}.ndjson"
         with open(out_file, "w", encoding="utf-8") as f:
-            import json
             json.dump(resource, f)
 
 def main() -> None:
