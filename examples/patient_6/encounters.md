@@ -1,0 +1,21 @@
+|   encounter_num | encounter_date   | encounter_summary                                                               |
+|----------------:|:-----------------|:--------------------------------------------------------------------------------|
+|               1 | 2024-07-18       | Preop H and P for deceased donor kidney transplant; ESRD due to IgA nephropathy |
+|               2 | 2024-07-19       | POD1 inpatient nephrology; tacrolimus to start POD2; good urine output          |
+|               3 | 2024-07-21       | POD3 inpatient; wean IV fluids; improving creatinine                            |
+|               4 | 2024-07-24       | Discharge to home with education; stable graft function                         |
+|               5 | 2024-07-29       | Early post transplant clinic; dose adjust tacrolimus; med reconciliation        |
+|               6 | 2024-08-05       | Telephone lab review; continue current plan                                     |
+|               7 | 2024-08-19       | Clinic follow up; DSA negative; start amlodipine                                |
+|               8 | 2024-09-02       | Outside nephrology clinic; records not in system; encounter censored            |
+|               9 | 2024-09-09       | Clinic follow up; BK and CMV PCR negative                                       |
+|              10 | 2024-10-14       | Protocol 3 month biopsy; borderline TCMR; plan steroid pulse                    |
+|              11 | 2024-10-21       | Steroid pulse completed; monitor labs and BP                                    |
+|              12 | 2024-11-18       | Monthly labs; renal function stable                                             |
+|              13 | 2025-01-06       | Six month visit; low level DSA; consider IVIG                                   |
+|              14 | 2025-02-03       | IVIG infusion series; monitor CMV and renal function                            |
+|              15 | 2025-03-17       | Clinic follow up; mild BK viremia; reduce MMF                                   |
+|              16 | 2025-04-14       | Outside urgent care visit; GI illness; encounter censored                       |
+|              17 | 2025-05-12       | Clinic follow up; BK PCR cleared; increase MMF                                  |
+|              18 | 2025-07-21       | Annual visit; stable graft; preventive care                                     |
+|              19 | 2025-09-10       | Telehealth; stable vitals and labs; shared care with local nephrology           |
