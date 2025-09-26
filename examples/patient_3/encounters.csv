@@ -1,0 +1,12 @@
+encounter_num,encounter_date,encounter_summary
+1,2025-06-01,"Pre-op H&P for DDKT; X-linked Alport syndrome; ABO O+, cPRA 0%; T/B-cell flow crossmatch negative"
+2,2025-06-01,"Operative + immediate post-op: DDKT to left iliac fossa; CIT 18 h; WIT 32 min; immediate urine output"
+3,2025-06-02,"Inpatient POD#1: creatinine falling 6.8→2.9 mg/dL; tacrolimus initiation; MMF; steroid taper; CMV/PCP prophylaxis started; baseline CMV/EBV/BK PCR negative"
+4,2025-06-04,"Inpatient POD#3: tac trough 4.3 ng/mL (goal 7–9) → dose increased; renal ultrasound normal RI 0.65; plan discharge tomorrow"
+5,2025-06-05,"Discharge summary: uncomplicated course; Foley out; ureteral stent in place; home with tacrolimus/MMF/prednisone; valganciclovir and TMP-SMX"
+6,2025-06-10,"Outpatient week 1: creatinine 1.2 mg/dL; tac trough 5.8 → dose increased; BP controlled; DSA screen negative; CMV D+/R-, EBV D+/R-"
+7,2025-06-17,"Outpatient week 2: creatinine 1.1; tac trough 7.2 (in range); BK PCR not detected; adherence reviewed with family"
+8,2025-07-01,"Outpatient month 1: stent removed without complication; ultrasound normal; DSA negative; mild MMF GI upset → divided dosing"
+9,2025-07-29,"Outpatient month 2: creatinine 1.0; tremor with tac trough 11.5 → dose reduced; BK PCR 800 copies/mL → monitor"
+10,2025-08-26,"Outpatient month 3: creatinine 1.0; BK PCR 3,200 copies/mL → reduce MMF by 25%; DSA negative; no proteinuria"
+11,2025-09-23,"Outpatient month 4: BK PCR <500 (not detected); creatinine 1.0; EBV PCR negative; influenza vaccine given; continue valganciclovir"

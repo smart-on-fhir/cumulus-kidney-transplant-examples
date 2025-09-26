@@ -1,0 +1,31 @@
+Outpatient Clinic – Week 1: labs, tacrolimus adjustment, DSA negative
+
+Patient: Noah Patel
+Date: 2025-06-10
+Encounter: Post-transplant follow-up, Week 1
+
+Interval History:
+Patient doing well at home. Parents report excellent adherence to medications. No fevers, nausea, or wound concerns. Normal appetite. No missed doses.
+
+Medications:
+- Tacrolimus 0.08 mg/kg BID
+- MMF 600 mg/m2 BID
+- Prednisone taper
+- Valganciclovir, TMP-SMX, Nystatin
+
+Vitals:
+BP 104/70, HR 84, afebrile.
+
+Physical Exam:
+Incision well healed. No edema. Normal cardiovascular and pulmonary exam.
+
+Labs:
+- Creatinine 1.2 mg/dL
+- Tacrolimus trough 5.8 ng/mL (slightly low → dose increased)
+- CBC stable
+- Electrolytes normal
+- DSA screen negative
+- CMV PCR negative, EBV PCR negative
+
+Assessment/Plan:
+Stable graft function, excellent urine output, no signs of rejection or infection. Increase tacrolimus dose to target trough. Continue prophylaxis. Reinforced adherence. RTC in 1 week with labs.

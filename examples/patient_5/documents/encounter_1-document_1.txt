@@ -1,0 +1,13 @@
+Encounter 1 - Document 1: Preop History and Physical
+
+Patient: Daniel Ortiz, 48M
+Indication: ESRD secondary to hypertensive nephrosclerosis
+HPI: Longstanding hypertension, progressive CKD, dialysis x 2 years. No active infection. Optimized BP control prior to surgery.
+PMH: Hypertension, LVH, anemia of CKD. 
+PSH: AV fistula placement.
+Medications: Amlodipine, labetalol, erythropoietin, sevelamer.
+Allergies: NKDA.
+Exam: BP 148/92, HR 82. No edema. Clear lungs, regular heart sounds.
+Labs: Cr 9.2, K 4.7, Hgb 9.8. 
+Assessment: Suitable candidate for deceased donor kidney transplant today.
+Plan: Proceed with transplant. Induction with basiliximab. Admit to OR.

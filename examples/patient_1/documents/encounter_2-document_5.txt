@@ -1,0 +1,26 @@
+Immunosuppression Initiation & Dosing – tacrolimus, mycophenolate, prednisone
+Encounter: 2 | Document: 5 | Date: 2025-06-04
+Patient: Mason Rivers (Male, DOB 2016-11-08)
+-------------------------------------------------------------------------------
+
+Regimen
+-------
+Tacrolimus 2.0 mg PO BID (target trough 8–10 ng/mL)
+Mycophenolate mofetil 500 mg PO BID (~600 mg/m²)
+Prednisone 0.2 mg/kg PO daily (taper plan over 3–6 months)
+Valganciclovir 450 mg PO daily (CMV D+/R+ prophylaxis; dose renally adjusted)
+TMP‑SMX (sulfamethoxazole‑trimethoprim) 80 mg TMP PO daily (PJP prophylaxis; M‑W‑F after 1 month)
+Nystatin oral suspension 5 mL swish and swallow QID (oral candidiasis prophylaxis)
+Amlodipine 2.5 mg PO daily (hypertension)
+Famotidine 10 mg PO BID (GI prophylaxis)
+Cholecalciferol 1000 IU PO daily
+
+Therapeutic Drug Monitoring Plan
+--------------------------------
+- Tacrolimus trough daily at 06:00 until two consecutive values within target, then 2–3x/week for month 1.
+- CBC/CMP twice weekly x 2 weeks, then weekly until month 3.
+- BK and CMV PCR baseline today, then monthly x 6 months or as indicated.
+
+Education
+---------
+Discussed adherence, food/drug interactions (e.g., avoid grapefruit), and infection precautions.

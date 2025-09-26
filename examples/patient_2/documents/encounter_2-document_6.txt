@@ -1,0 +1,12 @@
+Immunosuppression Initiation Plan
+
+Date: 2025-06-04
+
+Induction:
+- Basiliximab IV POD#0 and POD#4
+- Methylprednisolone IV taper
+
+Maintenance:
+- Prednisone taper starting POD#1 (20 mg daily)
+- Mycophenolate mofetil 600 mg/m2 BID
+- Tacrolimus to start POD#2, goal trough 8–10 ng/mL

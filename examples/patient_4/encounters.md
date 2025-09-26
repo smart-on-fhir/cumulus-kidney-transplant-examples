@@ -1,0 +1,17 @@
+|   encounter_num | encounter_date   | encounter_summary                                                                                                                                        |
+|----------------:|:-----------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
+|               1 | 2025-06-10       | Pre-op H&P for deceased donor kidney transplant, ESRD secondary to type 2 diabetes mellitus with hypertension and diabetic retinopathy, consent obtained |
+|               2 | 2025-06-11       | Deceased donor kidney transplant surgery, left donor kidney to right iliac fossa, immediate graft perfusion and urine output                             |
+|               3 | 2025-06-12       | Inpatient POD#1, tacrolimus started with target trough 8–10 ng/mL, creatinine 2.2 mg/dL down-trending, Doppler signals present                           |
+|               4 | 2025-06-14       | Inpatient POD#3, creatinine 1.9 mg/dL with good urine output, DSA screen and BK PCR sent, CMV prophylaxis started                                        |
+|               5 | 2025-06-16       | Discharge home, tacrolimus mycophenolate prednisone regimen with TMP-SMX and valganciclovir prophylaxis, glucose management intensified                  |
+|               6 | 2025-06-20       | Clinic follow-up 1 week, tacrolimus trough 7.5 ng/mL and creatinine 1.8 mg/dL, adherence counseling performed                                            |
+|               7 | 2025-06-27       | Outpatient cystoscopy for ureteral stent removal, uncomplicated                                                                                          |
+|               8 | 2025-07-05       | Clinic follow-up 3 weeks, creatinine 1.6 mg/dL, continuous glucose monitor initiated for brittle diabetes                                                |
+|               9 | 2025-07-18       | One-month DSA and infection monitoring, DSA negative and BK PCR not detected, tacrolimus trough 7.8 ng/mL                                                |
+|              10 | 2025-07-25       | Renal Doppler ultrasound, normal resistive indices and no hydronephrosis                                                                                 |
+|              11 | 2025-08-08       | Clinic follow-up 2 months, creatinine 1.5 mg/dL, valganciclovir dose adjusted to eGFR                                                                    |
+|              12 | 2025-08-22       | ED visit for dysuria and fever, urine culture E coli, ciprofloxacin started with drug–drug interaction review                                            |
+|              13 | 2025-08-29       | Post-UTI follow-up, symptoms resolved and creatinine 1.6 mg/dL, adherence reinforced with pillbox and reminders                                          |
+|              14 | 2025-09-12       | Three-month protocol kidney biopsy, borderline changes i1 t1 and C4d negative, no DSA                                                                    |
+|              15 | 2025-09-19       | Post-biopsy clinic visit, increased mycophenolate dose and continued monitoring, kidney function stable around creatinine 1.5–1.6 mg/dL                  |

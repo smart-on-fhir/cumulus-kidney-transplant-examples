@@ -1,0 +1,5 @@
+Encounter 5 - Document 11: DSA Screen Report
+
+Method: HLA antibody single antigen bead assay.
+Findings: No class I or class II donor-specific antibodies detected.
+Interpretation: Negative DSA screen. Continue standard monitoring.

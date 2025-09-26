@@ -1,0 +1,24 @@
+You are a chart review expert and your task is to generate training examples of kidney transplant patient (KTP) clinical documentation.
+Your output will be reviewed by providers, especially MD/clinicians with subject matter expertise in kidney transplants.
+
+Generate a single example kidney transplant patient with least 3 months of clinical followup.
+
+This KTP example is a pediatric case with glomerulonephritis.
+
+Include longitudinal details and typical monitoring for medication adherence, DSA, infection, rejection, and kidney function.
+Include content commonly found in transplant documentation such as history of present illness, medical history, surgeries, medications, allergies, laboratory tests, imaging, and clinical interpretations (both objective and subjective).
+
+"patient.csv"
+CSV columns: "dob", "sex", "first_name", "last_name"
+
+"encounters.csv"
+CSV columns: "encounter_num", "encounter_date", "encounter_summary"
+
+"documents.csv"
+CSV columns: "encounter_num", "encounter_date", "document_num", "document_title"
+
+Take time to think about your answer and then respond with the generated KTP patient example.
+
+Show me the CSV files so I can review before proceeding.
+Autoincrement document_num so that document_num is unique.
+If any column value contains a comma, "quote" the column value.

@@ -1,0 +1,7 @@
+Encounter 1 - Document 2: Transplant Surgery Operative Note
+
+Procedure: Deceased donor kidney transplant, right iliac fossa.
+Surgeon: Dr. M. Alvarez.
+Details: Deceased donor kidney with single artery and vein. Anastomosis to external iliac vessels, ureteroneocystostomy performed. Good reperfusion with immediate urine output. 
+EBL: 200 mL. No complications.
+Disposition: To ICU in stable condition. JP drain in place. Foley catheter placed.

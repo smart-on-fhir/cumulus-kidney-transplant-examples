@@ -1,0 +1,33 @@
+Outpatient Clinic – Month 3: rising BK viremia, MMF reduction, DSA negative
+
+Patient: Noah Patel
+Date: 2025-08-26
+Encounter: Post-transplant follow-up, Month 3
+
+Interval History:
+Patient doing well overall. Parents deny missed doses. No fever, dysuria, or graft tenderness. Appetite good, active at school. No tremors since tacrolimus dose was reduced last month.
+
+Medications:
+- Tacrolimus 0.07 mg/kg BID
+- MMF 600 mg/m2 TID
+- Prednisone 5 mg daily
+- Valganciclovir, TMP-SMX
+
+Vitals:
+BP 106/68, HR 84, afebrile.
+
+Physical Exam:
+Incision well healed, no tenderness. No edema.
+
+Labs:
+- Creatinine 1.0 mg/dL
+- Tacrolimus trough 8.2 ng/mL (therapeutic)
+- CBC stable
+- Electrolytes normal
+- BK PCR: 3,200 copies/mL (increased from 800)
+- DSA: negative
+- CMV PCR: negative
+- EBV PCR: negative
+
+Assessment/Plan:
+Month 3 visit with stable graft function but rising BK viral load. MMF dose reduced by 25% to limit immunosuppression burden. Continue tacrolimus and prednisone. Repeat BK PCR in 2 weeks. Monitor closely for signs of rejection given reduced MMF. Reinforce infection precautions and adherence. RTC in 4 weeks with labs and PCRs.

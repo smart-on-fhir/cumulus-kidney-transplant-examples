@@ -1,0 +1,28 @@
+Transplant Clinic Visit – BK Viremia
+
+Patient: Jordan Reyes
+Date: 2025-03-17
+
+Interval History:
+Patient reports adherence to immunosuppressants. No fever, hematuria, or graft tenderness. Denies missed doses.
+
+Physical Exam:
+BP 130/82, HR 78
+General: Well-appearing
+Abdomen: Non-tender RLQ transplant
+
+Labs:
+Creatinine 1.7 mg/dL
+Tacrolimus trough 7.6 ng/mL
+BK PCR: 1200 IU/mL
+CMV PCR: Negative
+
+Assessment:
+- Mild BK viremia
+- Stable renal function
+
+Plan:
+- Reduce MMF from 1 g BID → 500 mg BID
+- Continue tacrolimus and prednisone
+- Repeat BK PCR in 2 weeks
+- Educate patient on infection monitoring

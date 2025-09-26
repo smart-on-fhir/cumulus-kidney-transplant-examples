@@ -1,6 +1,0 @@
-Immediate Post-Anesthesia Note
-Date: 2025-06-03
-
-Anesthesia: General endotracheal.
-Course: Uneventful. Hemodynamically stable. EBL < 200 mL. Extubated awake and alert.
-Disposition: PACU, stable vitals, pain controlled with IV fentanyl.

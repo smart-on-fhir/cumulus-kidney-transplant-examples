@@ -1,9 +1,0 @@
-DSA Monitoring – DQ7 MFI 5200; C1q positive
-Encounter: 16 | Document: 2 | Date: 2022-08-18
-
-Result
-- New/worsening Class II DSA against DQ7, MFI 5200.
-- C1q binding positive, indicating complement-fixing capability.
-
-Interpretation
-- High risk for antibody-mediated rejection. Proceed with biopsy correlation.

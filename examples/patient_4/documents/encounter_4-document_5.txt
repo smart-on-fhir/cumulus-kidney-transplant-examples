@@ -1,0 +1,24 @@
+Inpatient Transplant Nephrology Progress Note – POD3
+Patient: Anthony Delgado
+Date: 2025-06-14
+Provider: Dr. Patel, Transplant Nephrology
+
+Interval History:
+Patient reports feeling improved overall. Pain is minimal. Good oral intake. No shortness of breath, fever, or chills.
+
+Exam:
+Vitals stable. Incision site clean, minimal serosanguinous drainage. No peripheral edema. Lungs clear to auscultation.
+
+Labs:
+Cr 1.9 mg/dL, BUN 30 mg/dL, K 4.2 mmol/L, Hb 10.8 g/dL.
+Tacrolimus trough: 7.9 ng/mL.
+DSA screen: pending.
+BK PCR: sent.
+CMV prophylaxis initiated with valganciclovir.
+
+Assessment/Plan:
+- Excellent graft function, creatinine trending down.
+- Continue tacrolimus, MMF, and prednisone taper.
+- Continue prophylaxis (TMP-SMX, valganciclovir, fluconazole).
+- Await DSA and BK results.
+- Anticipate discharge in 2 days if stable.

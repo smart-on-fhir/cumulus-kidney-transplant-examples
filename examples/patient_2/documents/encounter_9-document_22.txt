@@ -1,0 +1,11 @@
+DSA Surveillance
+
+Date: 2025-07-29
+
+Method: Single Antigen Bead assay.
+
+Results:
+- Class I: Negative, MFI < 500
+- Class II: Negative, MFI < 500
+
+Interpretation: No donor-specific antibodies detected.

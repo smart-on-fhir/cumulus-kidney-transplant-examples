@@ -1,0 +1,24 @@
+Immediate Post-Op ICU Admission Note – reperfusion; Doppler graft signals present
+
+Reason for Admission: Post-kidney transplant monitoring.
+
+Subjective: Patient just out of OR. Extubated, comfortable, denies pain at this time.
+
+Objective:
+- Vitals: BP 132/80, HR 90, Temp 36.9C, SpO₂ 98% RA
+- Abdomen: Left lower quadrant incision with dressing intact, JP drain with minimal serosanguineous output.
+- Foley catheter draining clear yellow urine, ~75 mL in first hour.
+- Doppler ultrasound: Good flow in transplant renal artery and vein.
+
+Labs:
+- Creatinine 7.5 mg/dL (down from 8.9)
+- Potassium 4.6 mmol/L
+- Hemoglobin 10.2 g/dL
+
+Assessment/Plan:
+- Stable immediate post-op course.
+- Monitor urine output hourly.
+- Continue IV fluids per transplant protocol.
+- Immunosuppression: Start thymoglobulin induction today.
+- Pain management with IV hydromorphone PRN.
+- Continue telemetry monitoring.

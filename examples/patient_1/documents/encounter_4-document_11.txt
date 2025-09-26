@@ -1,0 +1,12 @@
+Therapeutic Drug Monitoring – tacrolimus trough 7.8 ng/mL, goal 8–10
+Encounter: 4 | Document: 11 | Date: 2025-06-14
+Patient: Mason Rivers (Male, DOB 2016-11-08)
+-------------------------------------------------------------------------------
+
+Trough Level
+------------
+Tacrolimus 7.8 ng/mL (goal 8–10).
+
+Action
+------
+Maintain current dose; recheck in 3 days with CMP and CBC.

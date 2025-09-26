@@ -1,0 +1,16 @@
+Pathology Report – Surveillance Transplant Kidney Biopsy; Banff i0 t0 g0; C4d negative
+
+Date: 3/20/2024
+
+Specimen: Core biopsy of renal allograft.
+
+Findings:
+- Glomeruli: Normal morphology, no endocapillary proliferation.
+- Tubules: No inflammation, no atrophy.
+- Interstitium: No fibrosis, no cellular infiltrates.
+- Vessels: Normal.
+- C4d staining: Negative.
+
+Banff Score: i0, t0, g0, v0, ci0, ct0, cv0, ah0.
+
+Diagnosis: No evidence of acute cellular rejection or antibody-mediated rejection.

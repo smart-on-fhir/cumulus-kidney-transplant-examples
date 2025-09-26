@@ -1,0 +1,36 @@
+Outpatient Clinic – Month 1: stent removal, ultrasound normal, DSA negative
+
+Patient: Noah Patel
+Date: 2025-07-01
+Encounter: Post-transplant follow-up, Month 1
+
+Interval History:
+Patient here for scheduled stent removal and follow-up. Reports mild GI upset related to MMF, worse after morning dose. No fevers, chills, or dysuria. Parents supervising all medication doses.
+
+Procedures:
+- Ureteral stent removed under sedation, uncomplicated.
+
+Medications:
+- Tacrolimus 0.08 mg/kg BID
+- MMF 600 mg/m2 divided into TID dosing for improved GI tolerance
+- Prednisone 7.5 mg daily
+- Valganciclovir, TMP-SMX, Nystatin
+
+Vitals:
+BP 106/72, HR 80, afebrile.
+
+Physical Exam:
+Well appearing. Surgical incision healed. No CVA tenderness. No edema.
+
+Labs:
+- Creatinine 1.1 mg/dL
+- Tacrolimus trough 7.8 ng/mL
+- CBC normal
+- Electrolytes within range
+- DSA: negative
+
+Imaging:
+Renal ultrasound: normal graft perfusion, no hydronephrosis.
+
+Assessment/Plan:
+Month 1 visit with stable graft function, negative DSA, and normal ultrasound. MMF divided to reduce GI upset. Continue infection prophylaxis. Reinforce adherence and hydration. RTC in 4 weeks with repeat labs and viral PCRs.

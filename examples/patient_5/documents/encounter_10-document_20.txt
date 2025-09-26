@@ -1,0 +1,5 @@
+Encounter 10 - Document 20: Protocol Biopsy Procedure Note
+
+Indication: 3-month protocol surveillance.
+Procedure: Ultrasound-guided allograft biopsy, 2 cores obtained without complication. No hematoma on post-biopsy scan. 
+Disposition: Observed x4h, stable. Specimen sent to pathology.

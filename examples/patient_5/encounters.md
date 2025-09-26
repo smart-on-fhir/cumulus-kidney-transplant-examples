@@ -1,0 +1,14 @@
+|   encounter_num | encounter_date   | encounter_summary                                                                     |
+|----------------:|:-----------------|:--------------------------------------------------------------------------------------|
+|               1 | 2025-05-29       | Preop H and P and transplant surgery day for ESRD due to hypertensive nephrosclerosis |
+|               2 | 2025-05-30       | ICU POD 1 stable reperfusion urine output improving immunosuppression initiated       |
+|               3 | 2025-06-02       | Discharge to home with education and close lab followup                               |
+|               4 | 2025-06-05       | Week 1 clinic visit labs and tacrolimus trough reviewed                               |
+|               5 | 2025-06-12       | Week 2 clinic visit blood pressure optimization and adherence check                   |
+|               6 | 2025-06-26       | Week 4 clinic visit DSA screen ordered viral PCR panel planned                        |
+|               7 | 2025-07-10       | Week 6 clinic visit BK PCR negative minor dose adjustment                             |
+|               8 | 2025-07-24       | Acute clinic visit mild creatinine rise tacrolimus high ultrasound ordered            |
+|               9 | 2025-08-07       | Week 10 clinic visit stable function continue monitoring                              |
+|              10 | 2025-08-21       | Three month protocol biopsy performed pathology pending                               |
+|              11 | 2025-09-04       | Telemedicine followup labs stable DSA negative                                        |
+|              12 | 2025-09-18       | Week 16 clinic visit vaccines updated CMV PCR negative                                |

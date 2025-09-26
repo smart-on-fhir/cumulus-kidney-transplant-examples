@@ -1,0 +1,28 @@
+Discharge Summary – Kidney Transplant
+Patient: Anthony Delgado
+MRN: [Redacted]
+Date of Admission: 2025-06-11
+Date of Discharge: 2025-06-16
+Attending: Dr. Smith
+
+Admission Diagnosis:
+End-stage renal disease secondary to type 2 diabetes mellitus.
+
+Hospital Course:
+Mr. Delgado underwent deceased donor kidney transplant on 2025-06-11. Post-operatively, he demonstrated good urine output and rapid improvement in renal function (pre-op creatinine 7.8 → discharge creatinine 1.8). Tacrolimus initiated POD1 with target trough 8–10 ng/mL. Mycophenolate mofetil and prednisone taper per protocol. Prophylaxis started with TMP-SMX, valganciclovir, and fluconazole. No rejection, infection, or surgical complications.
+
+Discharge Medications:
+- Tacrolimus 2 mg BID
+- Mycophenolate mofetil 1000 mg BID
+- Prednisone taper (starting 30 mg daily)
+- TMP-SMX SS daily
+- Valganciclovir 450 mg daily
+- Fluconazole 100 mg daily
+- Insulin glargine and lispro as per endocrinology
+- Amlodipine, atorvastatin, sevelamer continued
+
+Follow-Up:
+Clinic in 1 week with labs including tacrolimus trough, creatinine, CBC, CMP, DSA, and BK PCR.
+
+Condition at Discharge:
+Stable, ambulating independently, tolerating diet, incision clean.

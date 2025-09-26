@@ -1,0 +1,7 @@
+Encounter 2 - Document 3: ICU Progress Note POD 1
+
+Patient POD 1 s/p deceased donor kidney transplant.
+Events: Stable overnight, urine output 1.8 L/24h. Hemodynamics stable, off pressors.
+Exam: BP 136/82, HR 80, afebrile. Abdomen soft, incision clean.
+Labs: Cr 6.2 (down from 9.2), tacrolimus level pending.
+Plan: Continue immunosuppression, monitor urine output, labs q12h, pain control, encourage IS spirometry.

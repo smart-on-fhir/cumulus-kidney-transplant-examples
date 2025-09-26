@@ -1,0 +1,16 @@
+Discharge Summary
+
+Date: 2025-06-10
+
+Patient: Maya Lopez, 10 y.o. female
+Admission: 2025-06-03
+Discharge: 2025-06-10
+
+Diagnosis: ESRD due to glomerulonephritis s/p deceased donor kidney transplant
+
+Hospital Course: Stable recovery. Creatinine improved to 1.3 mg/dL at discharge. Tacrolimus titrated to target trough. No acute rejection. Tolerating oral intake.
+
+Discharge Medications: Tacrolimus, MMF, prednisone, valganciclovir, TMP-SMX, magnesium oxide.
+
+Follow-Up: Outpatient clinic 6/13/2025. Labs twice weekly.
+Education: Family counseled on adherence, infection precautions.

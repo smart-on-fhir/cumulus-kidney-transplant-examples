@@ -1,0 +1,31 @@
+|   encounter_num | encounter_date   |   document_num | document_title                                                                                                                    |
+|----------------:|:-----------------|---------------:|:----------------------------------------------------------------------------------------------------------------------------------|
+|               1 | 2024-07-18       |              1 | Preop history and physical – ESRD due to IgA nephropathy; R plus CMV; planned DDKT                                                |
+|               1 | 2024-07-18       |              2 | Transplant surgery operative note – Deceased donor kidney transplant right iliac fossa; warm ischemia 28 min; cold ischemia 12 hr |
+|               1 | 2024-07-18       |              3 | Immediate postop ICU admission note – reperfusion with brisk urine output                                                         |
+|               2 | 2024-07-19       |              4 | Inpatient nephrology progress note – POD1; creatinine 6.1 to 4.2 mg per dL; tacrolimus held until POD2                            |
+|               2 | 2024-07-19       |              5 | Immunosuppression initiation plan – tacrolimus MMF prednisone; CMV prophylaxis valganciclovir; PJP prophylaxis TMP SMX            |
+|               3 | 2024-07-21       |              6 | Inpatient progress note – POD3; Foley removed; tac trough pending; creatinine 2.8 mg per dL                                       |
+|               4 | 2024-07-24       |              7 | Discharge summary – stable allograft function; creatinine 1.9 mg per dL; home with teaching                                       |
+|               5 | 2024-07-29       |              8 | Transplant clinic visit – incisions healing; tacrolimus trough 5.8; increase dose                                                 |
+|               5 | 2024-07-29       |              9 | Pharmacy medication reconciliation and education – adherence counseling; pillbox provided                                         |
+|               6 | 2024-08-05       |             10 | Telephone encounter – lab review; tacrolimus 7.2; creatinine 1.6; continue plan                                                   |
+|               7 | 2024-08-19       |             11 | Transplant clinic visit – BP elevated; start amlodipine; DSA negative by single antigen bead                                      |
+|               8 | 2024-09-02       |             12 | Outside nephrology visit – care at external clinic; summary only; scanned docs pending                                            |
+|               9 | 2024-09-09       |             13 | Transplant clinic visit – BK PCR not detected; CMV PCR not detected; dose MMF maintained                                          |
+|              10 | 2024-10-14       |             14 | Ultrasound guided renal allograft biopsy procedure note – uneventful                                                              |
+|              10 | 2024-10-14       |             15 | Pathology report – borderline TCMR Banff i1 t1; C4d negative; no ABMR                                                             |
+|              10 | 2024-10-14       |             16 | Nephrology note – steroid pulse plan; schedule methylprednisolone 500 mg daily times 3                                            |
+|              11 | 2024-10-21       |             17 | Inpatient infusion note – completed steroid pulse; tacrolimus target 7 to 9                                                       |
+|              12 | 2024-11-18       |             18 | Lab monitoring visit – creatinine 1.5; UPCR 0.2; BK PCR less than 500 copies equiv negative                                       |
+|              13 | 2025-01-06       |             19 | Six month transplant clinic – low level de novo DSA to DQ7 MFI 1800; plan close followup                                          |
+|              13 | 2025-01-06       |             20 | Treatment plan – IVIG 1 g per kg times 2; monitor CMV                                                                             |
+|              14 | 2025-02-03       |             21 | Infusion center note – IVIG dose 1 of 2 completed; premed acetaminophen and diphenhydramine; tolerated well                       |
+|              14 | 2025-02-03       |             22 | Infusion center note – IVIG dose 2 of 2 completed; monitor for headache; hydration encouraged                                     |
+|              15 | 2025-03-17       |             23 | Clinic visit – BK viremia 1200 IU per mL; reduce MMF to 500 mg twice daily; repeat in 2 weeks                                     |
+|              15 | 2025-03-17       |             24 | Care coordination – message to outside clinic about dose change                                                                   |
+|              16 | 2025-04-14       |             25 | Outside urgent care visit – viral gastroenteritis; IV fluids; no labs returned to system                                          |
+|              17 | 2025-05-12       |             26 | Transplant clinic visit – BK PCR now not detected; creatinine 1.4; resume MMF 750 mg twice daily                                  |
+|              18 | 2025-07-21       |             27 | Annual visit – graft stable; DSA decreased to MFI 900; vaccines reviewed; colonoscopy referral age 45                             |
+|              18 | 2025-07-21       |             28 | Renal ultrasound report – resistive indices normal; no hydronephrosis; mild cortical thinning expected                            |
+|              19 | 2025-09-10       |             29 | Telehealth visit – home BP 128 over 78; trough 7.8; plan labs monthly and local care partnership                                  |

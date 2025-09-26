@@ -1,0 +1,7 @@
+Outpatient Clinic Note – 2021-06-25
+Interval history: Patient admits to missing tacrolimus doses due to work schedule. 
+Exam: Stable vitals, no edema.
+Labs: Tacrolimus trough 3.2 ng/mL (subtherapeutic). Creatinine 2.0 mg/dL.
+DSA: Rebound anti-DQ7, MFI 5200.
+Assessment: Subtherapeutic immunosuppression with recurrent DSA due to nonadherence.
+Plan: Discussed risks, stressed importance of strict adherence, referred to pharmacy for adherence support.
