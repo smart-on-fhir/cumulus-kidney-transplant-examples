@@ -31,7 +31,7 @@ Paste [step_2_download.txt](step_2_download_csv.txt) to get a Downloadable ZIP f
 
 ### 3. ChatGPT Batch downloads of TXT files 
 
-Paste [step_4_batch.txt](code/step_4_batch.txt) into https://chatgpt.com/
+Paste [step_3_download_txt.txt](step_3_download_txt.txt) into https://chatgpt.com/
 
 This is the most time-consuming part. GPT5 does a **good** job at generating TXT but struggles to provide downloadable ZIP files. 
 You will likely need to Download ZIP in "batches".   
@@ -40,7 +40,7 @@ You will likely need to Download ZIP in "batches".
 
 Even GPT5 "_can make mistakes_". 
 
-$`python3` [step_3_crosscheck.py](step_4_crosscheck.py)
+$`python3` [step_4_crosscheck.py](step_4_crosscheck.py)
 
 ```
 ✅  patient_1
