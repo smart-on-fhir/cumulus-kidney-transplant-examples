@@ -1,0 +1,22 @@
+Emergency Department Note – Dysuria and Fever
+Patient: Anthony Delgado
+Date: 2025-08-22
+Provider: Dr. Alvarez, Emergency Medicine
+
+Chief Complaint:
+Fever, dysuria, urinary frequency.
+
+History of Present Illness:
+Mr. Delgado presents with 24h history of dysuria, urinary frequency, fever (38.5°C), and malaise. No flank pain. No missed immunosuppressive doses. Recent transplant 10 weeks ago.
+
+Exam:
+T 38.5°C, BP 142/80, HR 96. Suprapubic tenderness present. No CVA tenderness. Graft site non-tender.
+
+Labs:
+WBC 11.5, creatinine 1.7 mg/dL (slightly increased), UA with positive nitrites and leukocyte esterase. Urine culture: pending.
+
+Assessment/Plan:
+- Complicated UTI in immunosuppressed kidney transplant recipient.
+- Started empiric IV ceftriaxone in ED, later transitioned to oral ciprofloxacin based on sensitivities (E. coli sensitive).
+- Tacrolimus trough and creatinine to be monitored closely due to drug–drug interaction with ciprofloxacin.
+- Patient discharged after observation, instructed to follow up in transplant clinic in 1 week.

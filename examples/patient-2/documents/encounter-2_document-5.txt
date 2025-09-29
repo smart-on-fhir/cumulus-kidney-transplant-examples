@@ -1,0 +1,17 @@
+Nephrology Progress Note POD#1
+
+Date: 2025-06-04
+
+Patient POD#1 from deceased donor kidney transplant.
+
+Urine output: >2 mL/kg/hr overnight. Serum creatinine decreased from 6.2 preop to 3.9 mg/dL this morning.
+
+Exam: Awake, extubated. Incision intact. No tenderness.
+
+Labs: Na 138, K 4.6, Hgb 9.2, WBC 8.3. Tacrolimus not yet started.
+
+Plan:
+- Continue IV fluids
+- Initiate tacrolimus POD#2
+- Continue steroids, mycophenolate mofetil
+- Monitor DSA and viral PCR baseline results

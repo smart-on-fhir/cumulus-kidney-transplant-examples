@@ -1,0 +1,78 @@
+Pre‑Op History & Physical – ESRD from CAKUT (bilateral renal dysplasia, high‑grade VUR)
+Encounter: 1 | Document: 1 | Date: 2025-06-03
+Patient: Mason Rivers (Male, DOB 2016-11-08)
+-------------------------------------------------------------------------------
+
+Chief Complaint
+---------------
+Scheduled for kidney transplantation.
+
+History of Present Illness
+--------------------------
+8‑year‑old male with ESRD secondary to CAKUT (bilateral renal dysplasia and prior high‑grade vesicoureteral reflux).
+On peritoneal dialysis for 10 months with adequate ultrafiltration; last peritonitis episode 9 months ago.
+Remains small for age but thriving in school. Listed for transplant; accepted offer for low KDPI deceased donor.
+Infectious risk: Deceased donor (KDPI 18%), CMV D+/R+, EBV D+/R+.
+No recent fevers, cough, or GI symptoms. Last dialysis last night; euvolemic this morning.
+
+Past Medical History
+--------------------
+- CAKUT: bilateral renal dysplasia; history of VUR grade IV (corrected with ureteral reimplantation at age 2).
+- Hypertension secondary to CKD.
+- Anemia of CKD (managed with ESA prior to transplant).
+- Mineral bone disease with controlled secondary hyperparathyroidism.
+
+Past Surgical History
+---------------------
+- PD catheter placement 2024-08
+- Ureteral reimplantation 2019
+
+Medications
+-----------
+Amlodipine 2.5 mg PO daily
+Sevelamer 400 mg PO TID with meals
+Epoetin alfa 3,000 units SQ weekly
+Nephrovite daily
+PRN acetaminophen
+
+Allergies
+---------
+- NKDA
+- Seasonal allergic rhinitis (pollen)
+
+Family/Social History
+---------------------
+Lives with parents and older sister; reliable transport; non-smoking household.
+
+Physical Exam
+-------------
+Vitals: BP 112/72, HR 92, RR 18, T 36.7°C, SpO₂ 99% RA.
+Anthropometrics: weight 28.2 kg, height 130.5 cm (BSA ≈ 1.01 m²).
+General: Alert, cooperative.
+HEENT: Moist mucous membranes.
+CV: Regular rhythm; no murmurs.
+Lungs: Clear bilaterally.
+Abdomen: Soft, non‑tender; PD catheter exit site clean.
+Extremities: No edema.
+
+Labs/Imaging
+------------
+Serum creatinine: 6.80 mg/dL
+BUN: 58 mg/dL
+Potassium: 4.7 mmol/L
+CO₂: 23 mmol/L
+Tacrolimus trough: 0.0 ng/mL (goal 8–10)
+WBC: 6.1 x10^3/µL | Hgb: 10.8 g/dL | Platelets: 320 x10^3/µL
+Urinalysis: no proteinuria, no hematuria
+CXR: clear.
+ECG: normal sinus rhythm.
+
+Assessment & Plan
+-----------------
+Medically optimized for deceased donor kidney transplant today.
+- Induction: Antithymocyte globulin (1.5 mg/kg) + methylprednisolone 10 mg/kg intra‑op.
+- Maintenance to start POD0: tacrolimus + MMF + steroid taper.
+- Prophylaxis: valganciclovir, TMP‑SMX, nystatin.
+- Blood pressure management: continue amlodipine.
+- PD catheter to remain in situ for now.
+- Consent verified with guardians.

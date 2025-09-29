@@ -1,4 +1,0 @@
-Your second task is to generate realistic, dictation-style, long, real-world-examples for each row in "summary.csv".
-
-Output each document to a file that includes the 2 digit encounter_num and document_num:
-encounter_##_document_##.txt

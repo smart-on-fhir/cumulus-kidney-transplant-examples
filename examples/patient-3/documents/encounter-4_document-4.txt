@@ -1,0 +1,29 @@
+Inpatient Progress Note – POD#3: tacrolimus titration, renal ultrasound normal, discharge planning
+
+Patient: Noah Patel
+Date: 2025-06-04
+Hospital Day 4 / POD#3
+
+Interval Events:
+Stable overnight. Continued brisk urine output. No fever or hemodynamic instability. Family present and engaged.
+
+Medications:
+- Tacrolimus 0.07 mg/kg PO BID (increased yesterday; trough today 4.3 ng/mL, still below goal)
+- MMF 600 mg/m2 BID
+- Prednisone taper (15 mg daily)
+- Valganciclovir, TMP-SMX, Nystatin
+
+Physical Exam:
+Incision clean, minimal tenderness. Abdomen soft, non-distended. Foley catheter still in place with clear urine.
+
+Labs:
+- Creatinine 1.7 mg/dL (downtrending)
+- Potassium 4.0 mmol/L
+- Tacrolimus trough 4.3 ng/mL (goal 7–9)
+- CBC stable
+
+Imaging:
+Renal ultrasound: normal perfusion, resistive index 0.65, no hydronephrosis.
+
+Assessment/Plan:
+POD#3 with excellent graft function, creatinine down to 1.7. Tacrolimus trough remains subtherapeutic, dose increased. Plan discharge tomorrow if stable. Continue infection prophylaxis. Foley to be removed in AM. Arrange outpatient labs twice weekly.

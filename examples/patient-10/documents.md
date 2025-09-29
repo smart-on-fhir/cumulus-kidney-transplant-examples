@@ -1,0 +1,27 @@
+|   encounter_num | encounter_date   |   document_num | document_title                                                                                      |
+|----------------:|:-----------------|---------------:|:----------------------------------------------------------------------------------------------------|
+|               1 | 2020-06-10       |              1 | Pre-Op History & Physical – ESRD due to IgA nephropathy; scheduled deceased donor kidney transplant |
+|               2 | 2020-06-15       |              2 | Transplant Surgery Operative Note – Deceased donor kidney transplant, right iliac fossa; CIT 13 h   |
+|               3 | 2020-06-16       |              3 | Immediate Post-Op ICU Progress Note – POD#1, tacrolimus initiated                                   |
+|               4 | 2020-06-20       |              4 | Inpatient Discharge Summary – Start Tac/MMF/Pred, prophylaxis per protocol                          |
+|               5 | 2020-07-02       |              5 | Transplant Clinic Note – Stable early graft function, DSA negative                                  |
+|               6 | 2020-07-20       |              6 | Pharmacy Medication Reconciliation & Adherence Counseling – missed doses, pillbox issued            |
+|               7 | 2020-08-05       |              7 | Lab-Only Visit – Tacrolimus trough low, provider notified                                           |
+|               8 | 2020-09-15       |              8 | Transplant Clinic Note – New de novo DSA anti-DQ7, biopsy planned                                   |
+|               9 | 2020-10-01       |              9 | Renal Allograft Biopsy Report – AMR confirmed, C4d positive, g1/ptc2                                |
+|              10 | 2020-10-02       |             10 | Inpatient Infusion Record – PLEX and IVIG initiated for AMR                                         |
+|              11 | 2020-10-20       |             11 | Hospital Discharge Summary – AMR treatment completed, rituximab administered                        |
+|              12 | 2021-01-12       |             12 | Outpatient Clinic Note – DSA trending down, infections screen negative                              |
+|              13 | 2021-06-25       |             13 | Outpatient Clinic Note – Recurrent nonadherence, DSA rebound                                        |
+|              14 | 2021-07-10       |             14 | Emergency Department Summary – external hospital, limited documentation available                   |
+|              15 | 2021-07-12       |             15 | Renal Allograft Biopsy Report – AMR persistent, C4d+, early transplant glomerulopathy               |
+|              16 | 2021-07-15       |             16 | Infusion Center Note – IVIG course completed, 1 session missed                                      |
+|              17 | 2022-02-03       |             17 | Transplant Clinic Note – Worsening kidney function, persistent DSA                                  |
+|              18 | 2022-09-08       |             18 | Pharmacy Refill History Review – >14-day gaps, adherence plan updated                               |
+|              19 | 2023-03-21       |             19 | Transplant Clinic Note – Progressive dysfunction, high-titer DSA                                    |
+|              20 | 2023-04-05       |             20 | Renal Allograft Biopsy Report – Chronic active AMR with tg/cg lesions                               |
+|              21 | 2023-04-06       |             21 | Care Plan & Shared Decision-Making Note – IVIG and steroids, patient declined PLEX                  |
+|              22 | 2023-12-14       |             22 | Lab-Only Results – Creatinine up, tacrolimus subtherapeutic, CMV/BK negative                        |
+|              23 | 2024-07-30       |             23 | Telemedicine Visit – Insurance lapse, limited access, frequent missed doses                         |
+|              24 | 2025-02-18       |             24 | Transplant Clinic Note – eGFR decline, discuss retransplant evaluation                              |
+|              25 | 2025-08-20       |             25 | Transplant Clinic Note – Pre-dialysis planning, outside notes unavailable                           |

@@ -1,0 +1,13 @@
+|   encounter_num | encounter_date   |   document_num | document_title                                                                                             |
+|----------------:|:-----------------|---------------:|:-----------------------------------------------------------------------------------------------------------|
+|               1 | 2025-06-01       |              1 | Pre-Op History & Physical – Pediatric Alport syndrome, admitted for DDKT                                   |
+|               2 | 2025-06-01       |              2 | Transplant Operative & Immediate Post-Op Note – DDKT (left iliac fossa), CIT 18 h, WIT 32 min              |
+|               3 | 2025-06-02       |              3 | Inpatient Progress Note – POD#1: falling creatinine, immunosuppression and infection prophylaxis initiated |
+|               4 | 2025-06-04       |              4 | Inpatient Progress Note – POD#3: tacrolimus titration, renal ultrasound normal, discharge planning         |
+|               5 | 2025-06-05       |              5 | Discharge Summary – Post-DDKT hospitalization, home meds and follow-up                                     |
+|               6 | 2025-06-10       |              6 | Outpatient Clinic – Week 1: labs, tacrolimus adjustment, DSA negative                                      |
+|               7 | 2025-06-17       |              7 | Outpatient Clinic – Week 2: stable graft function, BK PCR not detected                                     |
+|               8 | 2025-07-01       |              8 | Outpatient Clinic – Month 1: stent removal, ultrasound normal, DSA negative                                |
+|               9 | 2025-07-29       |              9 | Outpatient Clinic – Month 2: tremor and high trough, dose reduced; low-level BK viremia                    |
+|              10 | 2025-08-26       |             10 | Outpatient Clinic – Month 3: rising BK viremia, MMF reduction, DSA negative                                |
+|              11 | 2025-09-23       |             11 | Outpatient Clinic – Month 4: BK suppressed, stable function, vaccinations and ongoing prophylaxis          |

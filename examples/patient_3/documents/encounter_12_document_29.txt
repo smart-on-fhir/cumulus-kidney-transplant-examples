@@ -1,8 +1,0 @@
-Protocol Biopsy Pathology Report
-Date: 2025-09-03
-
-Specimen: Renal allograft biopsy.
-
-Findings: i0, t0, v0. No rejection. Mild chronic changes only. C4d negative.
-
-Impression: No acute cellular or antibody-mediated rejection.

@@ -1,0 +1,11 @@
+patient_num,chatgpt,example_prompt
+patient-1, https://chatgpt.com/share/68d6d683-9c20-800f-8ce2-6060ec411cba, "This KTP example is a pediatric case with congenital anomalies of the kidney and urinary tract (CAKUT)."
+patient-2, https://chatgpt.com/share/68d6d6d3-f048-800f-931b-66482486198f, "This KTP example is a pediatric case with glomerulonephritis."
+patient-3, https://chatgpt.com/share/68d6d6a1-e0e8-800f-a01d-624be6ac002d, "This KTP example is a pediatric case with hereditary nephropathy."
+patient-4, https://chatgpt.com/share/68d6d6f4-20b4-800f-a73e-d470dc250be0, "This KTP example is an adult case with diabetes mellitus."
+patient-5, https://chatgpt.com/share/68d6d706-05a4-800f-942f-2ba845b231cb, "This KTP example is an adult case with hypertension / hypertensive nephrosclerosis."
+patient-6, https://chatgpt.com/share/68d6d718-313c-800f-880c-5904bbe5fb54, "This KTP example is an adult case with glomerulonephritis."
+patient-7, https://chatgpt.com/share/68d6d72a-6608-800f-bc26-8f3ff7f9644e, "This KTP example is an adult case with Polycystic Kidney Disease."
+patient-8, https://chatgpt.com/share/68d6df0c-6124-800f-8ad5-100639e9b67d, "This KTP example is compliant with immunosuppression meds, positive for infection"
+patient-9, https://chatgpt.com/share/68d6dea5-409c-800f-abb0-2a2dc9a2d61a, "This KTP example is partially compliant with immunosuppression meds and without infections"
+patient-10, https://chatgpt.com/share/68d6de79-8aa4-800f-8da7-29a57e75afcf, "This KTP example is noncompliant with immunosuppression meds and positive for AMR graft rejection"

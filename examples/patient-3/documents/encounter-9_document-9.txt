@@ -1,0 +1,32 @@
+Outpatient Clinic – Month 2: tremor and high trough, dose reduced; low-level BK viremia
+
+Patient: Noah Patel
+Date: 2025-07-29
+Encounter: Post-transplant follow-up, Month 2
+
+Interval History:
+Patient reports new-onset hand tremors, especially noticeable during writing and eating. No fevers, dysuria, or abdominal pain. Adherence confirmed by parents. No missed doses.
+
+Medications:
+- Tacrolimus 0.09 mg/kg BID
+- MMF 600 mg/m2 TID
+- Prednisone 5 mg daily
+- Valganciclovir, TMP-SMX, Nystatin
+
+Vitals:
+BP 108/70, HR 86, afebrile.
+
+Physical Exam:
+Well-appearing. Neurological exam notable for fine hand tremor. Incision well healed. No edema.
+
+Labs:
+- Creatinine 1.0 mg/dL
+- Tacrolimus trough 11.5 ng/mL (above goal)
+- CBC stable
+- Electrolytes normal
+- BK PCR: 800 copies/mL (low-level viremia)
+- CMV PCR: negative
+- EBV PCR: negative
+
+Assessment/Plan:
+Month 2 with excellent graft function. Tacrolimus trough supratherapeutic, associated with tremor → dose reduced. Low-level BK viremia detected; plan close monitoring with repeat PCR in 2 weeks. Continue MMF and prednisone at current doses. Reinforce hydration and adherence. RTC in 4 weeks unless symptoms develop.

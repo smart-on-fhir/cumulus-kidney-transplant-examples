@@ -1,0 +1,14 @@
+HLA Antibody (DSA) Monitoring – Single Antigen Bead assay: negative; cPRA 0%
+
+Date: 06/13/2025
+
+Specimen: Serum
+Method: Luminex single antigen bead assay
+
+Results:
+- No donor-specific antibodies detected.
+- All mean fluorescence intensity (MFI) < 500.
+- Calculated panel reactive antibody (cPRA): 0%.
+
+Interpretation:
+Negative for donor-specific antibodies. No evidence of humoral alloimmune response at this time.

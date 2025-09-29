@@ -1,0 +1,10 @@
+|   encounter_num | encounter_date   | encounter_summary                                                    |
+|----------------:|:-----------------|:---------------------------------------------------------------------|
+|               1 | 2025-06-03       | Deceased donor kidney transplant, immediate post-op ICU monitoring   |
+|               2 | 2025-06-04       | POD#1 nephrology progress, urine output improving, diuresis managed  |
+|               3 | 2025-06-07       | Discharged home, tacrolimus/MMF/pred regimen established             |
+|               4 | 2025-06-14       | 1-week clinic visit, labs reviewed, incision healing                 |
+|               5 | 2025-06-28       | 3-week clinic visit, BK/CMV baseline PCRs, blood pressure titration  |
+|               6 | 2025-07-12       | 5-week clinic visit, CMV PCR monitoring, antihypertensive adjustment |
+|               7 | 2025-08-09       | 9-week clinic visit, DSA screen negative, ultrasound stable          |
+|               8 | 2025-09-10       | 3-month surveillance biopsy, pathology benign, follow-up arranged    |

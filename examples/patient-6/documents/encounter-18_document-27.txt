@@ -1,0 +1,28 @@
+Annual Transplant Clinic Visit
+
+Patient: Jordan Reyes
+Date: 2025-07-21
+
+Interval History:
+Patient doing well, no hospitalizations since last visit. Adherent with immunosuppression.
+
+Physical Exam:
+BP 126/80, HR 74
+General: Healthy appearance
+Abdomen: Non-tender transplant
+Extremities: No edema
+
+Labs:
+Creatinine 1.5 mg/dL
+Tacrolimus trough 8.2 ng/mL
+DSA: Decreased, DQ7 MFI 900
+BK PCR: Negative
+CMV PCR: Negative
+
+Preventive Care:
+- Vaccines updated (influenza, pneumococcal)
+- Colonoscopy referral placed (age 45)
+
+Plan:
+- Continue current immunosuppression
+- Annual health maintenance per guidelines

@@ -1,0 +1,18 @@
+|   encounter_num | encounter_date   |   document_num | document_title                                                                                        |
+|----------------:|:-----------------|---------------:|:------------------------------------------------------------------------------------------------------|
+|               1 | 2025-05-29       |              1 | Pre-Op History & Physical – ESRD due to IgA nephropathy; DDKT planned                                 |
+|               1 | 2025-05-29       |              2 | Transplant Surgery Operative Note – Deceased Donor Kidney Transplant (right iliac fossa)              |
+|               1 | 2025-05-29       |              3 | Immediate Post-Operative ICU Admission Note – reperfusion confirmed by Doppler                        |
+|               2 | 2025-05-30       |              4 | Inpatient Nephrology Progress Note – POD#1: urine output improving                                    |
+|               3 | 2025-06-02       |              5 | Discharge Summary – Post-Kidney Transplant                                                            |
+|               3 | 2025-06-02       |              6 | Pharmacy Medication Reconciliation & Education – adherence counseling                                 |
+|               4 | 2025-06-05       |              7 | Transplant Nephrology Clinic Note – Week 1                                                            |
+|               5 | 2025-06-12       |              8 | Transplant Nephrology Clinic Note – Week 2                                                            |
+|               6 | 2025-06-19       |              9 | Transplant Nephrology Clinic Note – Week 3                                                            |
+|               7 | 2025-06-26       |             10 | Transplant Nephrology Clinic Note – Week 4, CMV/BK screening negative                                 |
+|               8 | 2025-07-10       |             11 | Transplant Nephrology Clinic Note – Week 6, BK viremia detected (1.2e3 copies/mL)                     |
+|               9 | 2025-07-24       |             12 | Immunosuppression Adjustment Addendum – MMF dose reduced for rising BK                                |
+|               9 | 2025-07-24       |             13 | Transplant Nephrology Clinic Note – Week 8, rising BK (5.0e3 copies/mL); DSA negative                 |
+|              10 | 2025-08-07       |             14 | Transplant Nephrology Clinic Note – Week 10, BK 8.2e3 copies/mL; Cr stable; consider biopsy if >1.0e4 |
+|              11 | 2025-08-21       |             15 | Transplant Nephrology Clinic Note – Week 12, BK down-trending (3.2e3 copies/mL)                       |
+|              12 | 2025-09-05       |             16 | Transplant Nephrology Clinic Note – Week 14, BK <1.0e3 copies/mL; Cr 1.3; DSA negative                |

@@ -1,0 +1,15 @@
+BK Virus Monitoring – low-level viremia (600 IU/mL); plan: repeat weekly, consider MMF reduction
+
+Date: 08/02/2025
+
+Results:
+- BK virus PCR (plasma): 600 IU/mL.
+
+Interpretation:
+Low-level BK viremia detected. No clinical symptoms, graft function preserved.
+
+Plan:
+- Repeat BK PCR weekly.
+- Monitor for rising viral load.
+- If upward trend persists, consider reducing MMF dose.
+- Reinforce medication adherence and hydration.

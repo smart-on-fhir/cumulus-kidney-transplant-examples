@@ -1,0 +1,21 @@
+Pharmacy Medication Reconciliation – adherence counseling, pillbox issued
+Encounter: 3 | Document: 8 | Date: 2025-06-07
+Patient: Mason Rivers (Male, DOB 2016-11-08)
+-------------------------------------------------------------------------------
+
+Med List Reconciled
+-------------------
+Tacrolimus 2.0 mg PO BID (target trough 8–10 ng/mL)
+Mycophenolate mofetil 500 mg PO BID (~600 mg/m²)
+Prednisone 0.2 mg/kg PO daily (taper plan over 3–6 months)
+Valganciclovir 450 mg PO daily (CMV D+/R+ prophylaxis; dose renally adjusted)
+TMP‑SMX (sulfamethoxazole‑trimethoprim) 80 mg TMP PO daily (PJP prophylaxis; M‑W‑F after 1 month)
+Nystatin oral suspension 5 mL swish and swallow QID (oral candidiasis prophylaxis)
+Amlodipine 2.5 mg PO daily (hypertension)
+Famotidine 10 mg PO BID (GI prophylaxis)
+Cholecalciferol 1000 IU PO daily
+
+Adherence Assessment
+--------------------
+Parents articulate dosing schedule; provided 2‑week pillbox and smartphone reminders. Counseled on missed dose protocol:
+if <4h late take dose; if >4h, call clinic. Emphasized trough timing before morning dose.

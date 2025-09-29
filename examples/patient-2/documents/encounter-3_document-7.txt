@@ -1,0 +1,14 @@
+Nephrology Progress Note POD#3
+
+Date: 2025-06-06
+
+Status: Stable. Urine output 2.5 mL/kg/hr. Creatinine trending down to 1.9 mg/dL.
+
+Exam: No graft tenderness. BP 112/70.
+
+Tacrolimus initiated POD#2. First trough 6.5 ng/mL (goal 8–10). Dose increased.
+
+Plan:
+- Continue tacrolimus, MMF, prednisone
+- Daily labs
+- Infection prophylaxis valganciclovir, TMP-SMX initiated

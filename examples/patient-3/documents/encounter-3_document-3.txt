@@ -1,0 +1,31 @@
+Inpatient Progress Note – POD#1: falling creatinine, immunosuppression and infection prophylaxis initiated
+
+Patient: Noah Patel
+Date: 2025-06-02
+Hospital Day 2 / POD#1
+
+Interval Events:
+Stable overnight. Excellent urine output (~3.2 L/24h). No hemodynamic instability.
+
+Medications:
+- Tacrolimus 0.05 mg/kg PO BID (trough today 4.2 ng/mL, subtherapeutic)
+- MMF 600 mg/m2 BID
+- Prednisone taper
+- Valganciclovir
+- TMP-SMX
+- Nystatin oral suspension
+
+Vitals:
+Stable. BP 102/64, HR 92, afebrile.
+
+Physical Exam:
+Incision clean/dry. Abdomen soft. Foley draining clear yellow urine.
+
+Labs:
+- Creatinine down from 6.8 pre-op to 2.9 mg/dL
+- Potassium 4.2 mmol/L
+- Tacrolimus trough 4.2 ng/mL (goal 7–9)
+- CBC stable
+
+Assessment/Plan:
+POD#1 with excellent graft function, creatinine falling appropriately. Immunosuppression and infection prophylaxis initiated. Will titrate tacrolimus to goal trough range. Continue daily labs and close monitoring.

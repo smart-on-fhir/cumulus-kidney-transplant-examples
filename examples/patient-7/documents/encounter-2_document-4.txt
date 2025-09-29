@@ -1,0 +1,20 @@
+Nephrology Inpatient Progress Note – POD#1, urine output improving, tacrolimus initiated
+
+Date: 06/04/2025
+Subjective: Patient feels well, reports incisional soreness but pain controlled. Good urine output overnight.
+
+Objective:
+- Vitals stable.
+- I/O: 5.2 L urine over 24 hrs.
+- Labs: Cr 5.8 → 3.2 mg/dL; K 4.5; Hgb 9.6.
+- Tacrolimus started this morning (target trough 8–10).
+
+Exam:
+Incision c/d/i, no bruit/thrill over graft, no edema, lungs clear.
+
+Assessment/Plan:
+1. POD#1 s/p kidney transplant – improving renal function, excellent urine output.
+2. Immunosuppression: started tacrolimus 2 mg BID, MMF 1 g BID, prednisone 20 mg daily.
+3. Infectious prophylaxis: valganciclovir, TMP-SMX.
+4. Monitor tacrolimus trough tomorrow.
+5. Daily labs, strict I/O.

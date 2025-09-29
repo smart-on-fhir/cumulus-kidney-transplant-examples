@@ -1,0 +1,12 @@
+HLA Antibody (DSA) Report – Class I/II negative, MFI < 500
+Encounter: 7 | Document: 19 | Date: 2025-08-09
+Patient: Mason Rivers (Male, DOB 2016-11-08)
+-------------------------------------------------------------------------------
+
+Results
+-------
+No donor‑specific antibodies detected to class I or II; all single antigen bead MFIs < 500.
+
+Interpretation
+--------------
+No serologic evidence of antibody‑mediated alloimmunity at this time.
