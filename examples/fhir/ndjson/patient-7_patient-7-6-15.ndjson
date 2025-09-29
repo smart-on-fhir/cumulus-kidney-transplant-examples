@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-7-6-15", "subject": {"reference": "Patient/patient-7"}, "encounter": {"reference": "Encounter/patient-7-6"}, "date": "2025-06-27", "type": {"coding": [{"system": "http://loinc.org", "display": "Virology \u2013 CMV PCR not detected; BK virus PCR not detected"}]}, "content": [{"attachment": {"data": "Vmlyb2xvZ3kg4oCTIENNViBQQ1Igbm90IGRldGVjdGVkOyBCSyB2aXJ1cyBQQ1Igbm90IGRldGVjdGVkCgpEYXRlOiAwNi8yNy8yMDI1CgpSZXN1bHRzOgotIENNViBQQ1I6IE5vdCBkZXRlY3RlZCAoPDIwMCBJVS9tTCkuCi0gQksgdmlydXMgUENSIChwbGFzbWEpOiBOb3QgZGV0ZWN0ZWQgKDwyMDAgSVUvbUwpLgoKSW50ZXJwcmV0YXRpb246Ck5vIGV2aWRlbmNlIG9mIENNViBvciBCSyB2aXJlbWlhIGF0IHRoaXMgdGltZS4gQ29udGludWUgcm91dGluZSBtb25pdG9yaW5nIHBlciB0cmFuc3BsYW50IHByb3RvY29sLgo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-6_document-15.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-7-6-15",
+    "subject": {
+        "reference": "Patient/patient-7"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-7-6"
+    },
+    "date": "2025-06-27",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Virology \u2013 CMV PCR not detected; BK virus PCR not detected"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "Vmlyb2xvZ3kg4oCTIENNViBQQ1Igbm90IGRldGVjdGVkOyBCSyB2aXJ1cyBQQ1Igbm90IGRldGVjdGVkCgpEYXRlOiAwNi8yNy8yMDI1CgpSZXN1bHRzOgotIENNViBQQ1I6IE5vdCBkZXRlY3RlZCAoPDIwMCBJVS9tTCkuCi0gQksgdmlydXMgUENSIChwbGFzbWEpOiBOb3QgZGV0ZWN0ZWQgKDwyMDAgSVUvbUwpLgoKSW50ZXJwcmV0YXRpb246Ck5vIGV2aWRlbmNlIG9mIENNViBvciBCSyB2aXJlbWlhIGF0IHRoaXMgdGltZS4gQ29udGludWUgcm91dGluZSBtb25pdG9yaW5nIHBlciB0cmFuc3BsYW50IHByb3RvY29sLgo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-7-6-15 (2025-06-27)"
+            }
+        }
+    ]
+}

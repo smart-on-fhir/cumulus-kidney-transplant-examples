@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-3-4-4", "subject": {"reference": "Patient/patient-3"}, "encounter": {"reference": "Encounter/patient-3-4"}, "date": "2025-06-04", "type": {"coding": [{"system": "http://loinc.org", "display": "Inpatient Progress Note \u2013 POD#3: tacrolimus titration, renal ultrasound normal, discharge planning"}]}, "content": [{"attachment": {"data": "SW5wYXRpZW50IFByb2dyZXNzIE5vdGUg4oCTIFBPRCMzOiB0YWNyb2xpbXVzIHRpdHJhdGlvbiwgcmVuYWwgdWx0cmFzb3VuZCBub3JtYWwsIGRpc2NoYXJnZSBwbGFubmluZwoKUGF0aWVudDogTm9haCBQYXRlbApEYXRlOiAyMDI1LTA2LTA0Ckhvc3BpdGFsIERheSA0IC8gUE9EIzMKCkludGVydmFsIEV2ZW50czoKU3RhYmxlIG92ZXJuaWdodC4gQ29udGludWVkIGJyaXNrIHVyaW5lIG91dHB1dC4gTm8gZmV2ZXIgb3IgaGVtb2R5bmFtaWMgaW5zdGFiaWxpdHkuIEZhbWlseSBwcmVzZW50IGFuZCBlbmdhZ2VkLgoKTWVkaWNhdGlvbnM6Ci0gVGFjcm9saW11cyAwLjA3IG1nL2tnIFBPIEJJRCAoaW5jcmVhc2VkIHllc3RlcmRheTsgdHJvdWdoIHRvZGF5IDQuMyBuZy9tTCwgc3RpbGwgYmVsb3cgZ29hbCkKLSBNTUYgNjAwIG1nL20yIEJJRAotIFByZWRuaXNvbmUgdGFwZXIgKDE1IG1nIGRhaWx5KQotIFZhbGdhbmNpY2xvdmlyLCBUTVAtU01YLCBOeXN0YXRpbgoKUGh5c2ljYWwgRXhhbToKSW5jaXNpb24gY2xlYW4sIG1pbmltYWwgdGVuZGVybmVzcy4gQWJkb21lbiBzb2Z0LCBub24tZGlzdGVuZGVkLiBGb2xleSBjYXRoZXRlciBzdGlsbCBpbiBwbGFjZSB3aXRoIGNsZWFyIHVyaW5lLgoKTGFiczoKLSBDcmVhdGluaW5lIDEuNyBtZy9kTCAoZG93bnRyZW5kaW5nKQotIFBvdGFzc2l1bSA0LjAgbW1vbC9MCi0gVGFjcm9saW11cyB0cm91Z2ggNC4zIG5nL21MIChnb2FsIDfigJM5KQotIENCQyBzdGFibGUKCkltYWdpbmc6ClJlbmFsIHVsdHJhc291bmQ6IG5vcm1hbCBwZXJmdXNpb24sIHJlc2lzdGl2ZSBpbmRleCAwLjY1LCBubyBoeWRyb25lcGhyb3Npcy4KCkFzc2Vzc21lbnQvUGxhbjoKUE9EIzMgd2l0aCBleGNlbGxlbnQgZ3JhZnQgZnVuY3Rpb24sIGNyZWF0aW5pbmUgZG93biB0byAxLjcuIFRhY3JvbGltdXMgdHJvdWdoIHJlbWFpbnMgc3VidGhlcmFwZXV0aWMsIGRvc2UgaW5jcmVhc2VkLiBQbGFuIGRpc2NoYXJnZSB0b21vcnJvdyBpZiBzdGFibGUuIENvbnRpbnVlIGluZmVjdGlvbiBwcm9waHlsYXhpcy4gRm9sZXkgdG8gYmUgcmVtb3ZlZCBpbiBBTS4gQXJyYW5nZSBvdXRwYXRpZW50IGxhYnMgdHdpY2Ugd2Vla2x5Lgo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-4_document-4.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-3-4-4",
+    "subject": {
+        "reference": "Patient/patient-3"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-3-4"
+    },
+    "date": "2025-06-04",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Inpatient Progress Note \u2013 POD#3: tacrolimus titration, renal ultrasound normal, discharge planning"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "SW5wYXRpZW50IFByb2dyZXNzIE5vdGUg4oCTIFBPRCMzOiB0YWNyb2xpbXVzIHRpdHJhdGlvbiwgcmVuYWwgdWx0cmFzb3VuZCBub3JtYWwsIGRpc2NoYXJnZSBwbGFubmluZwoKUGF0aWVudDogTm9haCBQYXRlbApEYXRlOiAyMDI1LTA2LTA0Ckhvc3BpdGFsIERheSA0IC8gUE9EIzMKCkludGVydmFsIEV2ZW50czoKU3RhYmxlIG92ZXJuaWdodC4gQ29udGludWVkIGJyaXNrIHVyaW5lIG91dHB1dC4gTm8gZmV2ZXIgb3IgaGVtb2R5bmFtaWMgaW5zdGFiaWxpdHkuIEZhbWlseSBwcmVzZW50IGFuZCBlbmdhZ2VkLgoKTWVkaWNhdGlvbnM6Ci0gVGFjcm9saW11cyAwLjA3IG1nL2tnIFBPIEJJRCAoaW5jcmVhc2VkIHllc3RlcmRheTsgdHJvdWdoIHRvZGF5IDQuMyBuZy9tTCwgc3RpbGwgYmVsb3cgZ29hbCkKLSBNTUYgNjAwIG1nL20yIEJJRAotIFByZWRuaXNvbmUgdGFwZXIgKDE1IG1nIGRhaWx5KQotIFZhbGdhbmNpY2xvdmlyLCBUTVAtU01YLCBOeXN0YXRpbgoKUGh5c2ljYWwgRXhhbToKSW5jaXNpb24gY2xlYW4sIG1pbmltYWwgdGVuZGVybmVzcy4gQWJkb21lbiBzb2Z0LCBub24tZGlzdGVuZGVkLiBGb2xleSBjYXRoZXRlciBzdGlsbCBpbiBwbGFjZSB3aXRoIGNsZWFyIHVyaW5lLgoKTGFiczoKLSBDcmVhdGluaW5lIDEuNyBtZy9kTCAoZG93bnRyZW5kaW5nKQotIFBvdGFzc2l1bSA0LjAgbW1vbC9MCi0gVGFjcm9saW11cyB0cm91Z2ggNC4zIG5nL21MIChnb2FsIDfigJM5KQotIENCQyBzdGFibGUKCkltYWdpbmc6ClJlbmFsIHVsdHJhc291bmQ6IG5vcm1hbCBwZXJmdXNpb24sIHJlc2lzdGl2ZSBpbmRleCAwLjY1LCBubyBoeWRyb25lcGhyb3Npcy4KCkFzc2Vzc21lbnQvUGxhbjoKUE9EIzMgd2l0aCBleGNlbGxlbnQgZ3JhZnQgZnVuY3Rpb24sIGNyZWF0aW5pbmUgZG93biB0byAxLjcuIFRhY3JvbGltdXMgdHJvdWdoIHJlbWFpbnMgc3VidGhlcmFwZXV0aWMsIGRvc2UgaW5jcmVhc2VkLiBQbGFuIGRpc2NoYXJnZSB0b21vcnJvdyBpZiBzdGFibGUuIENvbnRpbnVlIGluZmVjdGlvbiBwcm9waHlsYXhpcy4gRm9sZXkgdG8gYmUgcmVtb3ZlZCBpbiBBTS4gQXJyYW5nZSBvdXRwYXRpZW50IGxhYnMgdHdpY2Ugd2Vla2x5Lgo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-3-4-4 (2025-06-04)"
+            }
+        }
+    ]
+}

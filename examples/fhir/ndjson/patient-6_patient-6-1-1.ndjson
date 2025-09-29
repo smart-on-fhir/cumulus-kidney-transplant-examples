@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-6-1-1", "subject": {"reference": "Patient/patient-6"}, "encounter": {"reference": "Encounter/patient-6-1"}, "date": "2024-07-18", "type": {"coding": [{"system": "http://loinc.org", "display": "Preop history and physical \u2013 ESRD due to IgA nephropathy; R plus CMV; planned DDKT"}]}, "content": [{"attachment": {"data": "UHJlb3AgSCZQIGRldGFpbGVkIG5vdGUuLi4=", "contentType": "text/plain; charset=utf-8", "title": "encounter-1_document-1.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-6-1-1",
+    "subject": {
+        "reference": "Patient/patient-6"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-6-1"
+    },
+    "date": "2024-07-18",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Preop history and physical \u2013 ESRD due to IgA nephropathy; R plus CMV; planned DDKT"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "UHJlb3AgSCZQIGRldGFpbGVkIG5vdGUuLi4=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-6-1-1 (2024-07-18)"
+            }
+        }
+    ]
+}

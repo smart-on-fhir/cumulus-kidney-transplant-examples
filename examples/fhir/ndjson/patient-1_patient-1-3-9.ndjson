@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-1-3-9", "subject": {"reference": "Patient/patient-1"}, "encounter": {"reference": "Encounter/patient-1-3"}, "date": "2025-06-07", "type": {"coding": [{"system": "http://loinc.org", "display": "Nursing Discharge Instructions \u2013 wound care, activity restrictions"}]}, "content": [{"attachment": {"data": "TnVyc2luZyBEaXNjaGFyZ2UgSW5zdHJ1Y3Rpb25zIOKAkyB3b3VuZCBjYXJlLCBhY3Rpdml0eSByZXN0cmljdGlvbnMKRW5jb3VudGVyOiAzIHwgRG9jdW1lbnQ6IDkgfCBEYXRlOiAyMDI1LTA2LTA3ClBhdGllbnQ6IE1hc29uIFJpdmVycyAoTWFsZSwgRE9CIDIwMTYtMTEtMDgpCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCldvdW5kIENhcmUKLS0tLS0tLS0tLQpLZWVwIGluY2lzaW9uIGNsZWFuL2RyeTsgcmVtb3ZlIG91dGVyIGRyZXNzaW5nIGluIDQ4aDsgbm8gc29ha2luZy9zd2ltbWluZyB4IDQgd2Vla3MuCgpBY3Rpdml0eQotLS0tLS0tLQpObyBsaWZ0aW5nID4gNSBsYjsgd2Fsa2luZyBlbmNvdXJhZ2VkOyBzY2hvb2wgcmXigJFlbnRyeSBpbiAyIHdlZWtzIGlmIGFmZWJyaWxlLgoKV2hlbiB0byBDYWxsCi0tLS0tLS0tLS0tLQpGZXZlciDiiaUgMzguMMKwQywgZGVjcmVhc2VkIHVyaW5lLCB2b21pdGluZywgdW5jb250cm9sbGVkIHBhaW4sIHdvdW5kIHJlZG5lc3Mgb3IgZHJhaW5hZ2UuCg==", "contentType": "text/plain; charset=utf-8", "title": "encounter-3_document-9.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-1-3-9",
+    "subject": {
+        "reference": "Patient/patient-1"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-1-3"
+    },
+    "date": "2025-06-07",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Nursing Discharge Instructions \u2013 wound care, activity restrictions"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "TnVyc2luZyBEaXNjaGFyZ2UgSW5zdHJ1Y3Rpb25zIOKAkyB3b3VuZCBjYXJlLCBhY3Rpdml0eSByZXN0cmljdGlvbnMKRW5jb3VudGVyOiAzIHwgRG9jdW1lbnQ6IDkgfCBEYXRlOiAyMDI1LTA2LTA3ClBhdGllbnQ6IE1hc29uIFJpdmVycyAoTWFsZSwgRE9CIDIwMTYtMTEtMDgpCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCldvdW5kIENhcmUKLS0tLS0tLS0tLQpLZWVwIGluY2lzaW9uIGNsZWFuL2RyeTsgcmVtb3ZlIG91dGVyIGRyZXNzaW5nIGluIDQ4aDsgbm8gc29ha2luZy9zd2ltbWluZyB4IDQgd2Vla3MuCgpBY3Rpdml0eQotLS0tLS0tLQpObyBsaWZ0aW5nID4gNSBsYjsgd2Fsa2luZyBlbmNvdXJhZ2VkOyBzY2hvb2wgcmXigJFlbnRyeSBpbiAyIHdlZWtzIGlmIGFmZWJyaWxlLgoKV2hlbiB0byBDYWxsCi0tLS0tLS0tLS0tLQpGZXZlciDiiaUgMzguMMKwQywgZGVjcmVhc2VkIHVyaW5lLCB2b21pdGluZywgdW5jb250cm9sbGVkIHBhaW4sIHdvdW5kIHJlZG5lc3Mgb3IgZHJhaW5hZ2UuCg==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-1-3-9 (2025-06-07)"
+            }
+        }
+    ]
+}

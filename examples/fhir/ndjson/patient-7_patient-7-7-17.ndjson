@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-7-7-17", "subject": {"reference": "Patient/patient-7"}, "encounter": {"reference": "Encounter/patient-7-7"}, "date": "2025-07-11", "type": {"coding": [{"system": "http://loinc.org", "display": "Cystoscopy with Ureteral Stent Removal \u2013 procedure note"}]}, "content": [{"attachment": {"data": "Q3lzdG9zY29weSB3aXRoIFVyZXRlcmFsIFN0ZW50IFJlbW92YWwg4oCTIHByb2NlZHVyZSBub3RlCgpEYXRlOiAwNy8xMS8yMDI1CkluZGljYXRpb246IFNjaGVkdWxlZCByZW1vdmFsIG9mIHRyYW5zcGxhbnQgdXJldGVyYWwgc3RlbnQuCgpQcm9jZWR1cmU6ClBhdGllbnQgcHJlcHBlZCBpbiBzdGFuZGFyZCBzdGVyaWxlIGZhc2hpb24uIExvY2FsIGFuZXN0aGVzaWEgd2l0aCBsaWRvY2FpbmUgamVsbHkuIEZsZXhpYmxlIGN5c3Rvc2NvcGUgYWR2YW5jZWQgaW50byBibGFkZGVyLiBTdGVudCB2aXN1YWxpemVkIGFuZCBncmFzcGVkIHdpdGggYWxsaWdhdG9yIGZvcmNlcHMsIHJlbW92ZWQgaW50YWN0LgoKRmluZGluZ3M6Ci0gU3RlbnQgcmVtb3ZlZCB3aXRob3V0IGNvbXBsaWNhdGlvbi4KLSBCbGFkZGVyIG11Y29zYSBub3JtYWwuCgpFc3RpbWF0ZWQgYmxvb2QgbG9zczogTWluaW1hbC4KQ29tcGxpY2F0aW9uczogTm9uZS4KRGlzcG9zaXRpb246IFBhdGllbnQgdG9sZXJhdGVkIHByb2NlZHVyZSB3ZWxsLiBBZHZpc2VkIHRvIG1vbml0b3IgZm9yIGR5c3VyaWEsIGhlbWF0dXJpYSwgZmV2ZXIuCg==", "contentType": "text/plain; charset=utf-8", "title": "encounter-7_document-17.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-7-7-17",
+    "subject": {
+        "reference": "Patient/patient-7"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-7-7"
+    },
+    "date": "2025-07-11",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Cystoscopy with Ureteral Stent Removal \u2013 procedure note"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "Q3lzdG9zY29weSB3aXRoIFVyZXRlcmFsIFN0ZW50IFJlbW92YWwg4oCTIHByb2NlZHVyZSBub3RlCgpEYXRlOiAwNy8xMS8yMDI1CkluZGljYXRpb246IFNjaGVkdWxlZCByZW1vdmFsIG9mIHRyYW5zcGxhbnQgdXJldGVyYWwgc3RlbnQuCgpQcm9jZWR1cmU6ClBhdGllbnQgcHJlcHBlZCBpbiBzdGFuZGFyZCBzdGVyaWxlIGZhc2hpb24uIExvY2FsIGFuZXN0aGVzaWEgd2l0aCBsaWRvY2FpbmUgamVsbHkuIEZsZXhpYmxlIGN5c3Rvc2NvcGUgYWR2YW5jZWQgaW50byBibGFkZGVyLiBTdGVudCB2aXN1YWxpemVkIGFuZCBncmFzcGVkIHdpdGggYWxsaWdhdG9yIGZvcmNlcHMsIHJlbW92ZWQgaW50YWN0LgoKRmluZGluZ3M6Ci0gU3RlbnQgcmVtb3ZlZCB3aXRob3V0IGNvbXBsaWNhdGlvbi4KLSBCbGFkZGVyIG11Y29zYSBub3JtYWwuCgpFc3RpbWF0ZWQgYmxvb2QgbG9zczogTWluaW1hbC4KQ29tcGxpY2F0aW9uczogTm9uZS4KRGlzcG9zaXRpb246IFBhdGllbnQgdG9sZXJhdGVkIHByb2NlZHVyZSB3ZWxsLiBBZHZpc2VkIHRvIG1vbml0b3IgZm9yIGR5c3VyaWEsIGhlbWF0dXJpYSwgZmV2ZXIuCg==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-7-7-17 (2025-07-11)"
+            }
+        }
+    ]
+}

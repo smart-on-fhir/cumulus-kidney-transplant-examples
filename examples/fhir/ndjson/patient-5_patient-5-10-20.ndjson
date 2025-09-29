@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-5-10-20", "subject": {"reference": "Patient/patient-5"}, "encounter": {"reference": "Encounter/patient-5-10"}, "date": "2025-08-21", "type": {"coding": [{"system": "http://loinc.org", "display": "Protocol Biopsy Procedure Note three month ultrasound guided"}]}, "content": [{"attachment": {"data": "RW5jb3VudGVyIDEwIC0gRG9jdW1lbnQgMjA6IFByb3RvY29sIEJpb3BzeSBQcm9jZWR1cmUgTm90ZQoKSW5kaWNhdGlvbjogMy1tb250aCBwcm90b2NvbCBzdXJ2ZWlsbGFuY2UuClByb2NlZHVyZTogVWx0cmFzb3VuZC1ndWlkZWQgYWxsb2dyYWZ0IGJpb3BzeSwgMiBjb3JlcyBvYnRhaW5lZCB3aXRob3V0IGNvbXBsaWNhdGlvbi4gTm8gaGVtYXRvbWEgb24gcG9zdC1iaW9wc3kgc2Nhbi4gCkRpc3Bvc2l0aW9uOiBPYnNlcnZlZCB4NGgsIHN0YWJsZS4gU3BlY2ltZW4gc2VudCB0byBwYXRob2xvZ3ku", "contentType": "text/plain; charset=utf-8", "title": "encounter-10_document-20.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-5-10-20",
+    "subject": {
+        "reference": "Patient/patient-5"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-5-10"
+    },
+    "date": "2025-08-21",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Protocol Biopsy Procedure Note three month ultrasound guided"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "RW5jb3VudGVyIDEwIC0gRG9jdW1lbnQgMjA6IFByb3RvY29sIEJpb3BzeSBQcm9jZWR1cmUgTm90ZQoKSW5kaWNhdGlvbjogMy1tb250aCBwcm90b2NvbCBzdXJ2ZWlsbGFuY2UuClByb2NlZHVyZTogVWx0cmFzb3VuZC1ndWlkZWQgYWxsb2dyYWZ0IGJpb3BzeSwgMiBjb3JlcyBvYnRhaW5lZCB3aXRob3V0IGNvbXBsaWNhdGlvbi4gTm8gaGVtYXRvbWEgb24gcG9zdC1iaW9wc3kgc2Nhbi4gCkRpc3Bvc2l0aW9uOiBPYnNlcnZlZCB4NGgsIHN0YWJsZS4gU3BlY2ltZW4gc2VudCB0byBwYXRob2xvZ3ku",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-5-10-20 (2025-08-21)"
+            }
+        }
+    ]
+}

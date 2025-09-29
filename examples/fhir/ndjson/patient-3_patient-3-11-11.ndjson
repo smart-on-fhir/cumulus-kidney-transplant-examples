@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-3-11-11", "subject": {"reference": "Patient/patient-3"}, "encounter": {"reference": "Encounter/patient-3-11"}, "date": "2025-09-23", "type": {"coding": [{"system": "http://loinc.org", "display": "Outpatient Clinic \u2013 Month 4: BK suppressed, stable function, vaccinations and ongoing prophylaxis"}]}, "content": [{"attachment": {"data": "T3V0cGF0aWVudCBDbGluaWMg4oCTIE1vbnRoIDQ6IEJLIHN1cHByZXNzZWQsIHN0YWJsZSBmdW5jdGlvbiwgdmFjY2luYXRpb25zIGFuZCBvbmdvaW5nIHByb3BoeWxheGlzCgpQYXRpZW50OiBOb2FoIFBhdGVsCkRhdGU6IDIwMjUtMDktMjMKRW5jb3VudGVyOiBQb3N0LXRyYW5zcGxhbnQgZm9sbG93LXVwLCBNb250aCA0CgpJbnRlcnZhbCBIaXN0b3J5OgpQYXRpZW50IHByZXNlbnRzIHdpdGggcGFyZW50cyBmb3IgNC1tb250aCBmb2xsb3ctdXAuIE5vIGZldmVycywgdXJpbmFyeSBzeW1wdG9tcywgb3IgR0kgdXBzZXQuIFBhcmVudHMgcmVwb3J0IGV4Y2VsbGVudCBhZGhlcmVuY2UgdG8gbWVkaWNhdGlvbiBzY2hlZHVsZS4gUGF0aWVudCByZWNlaXZlZCBpbmZsdWVuemEgdmFjY2luYXRpb24gYXQgdGhpcyB2aXNpdC4gRW5lcmd5IGFuZCBhcHBldGl0ZSBnb29kLiBObyBzY2hvb2wgYWJzZW5jZXMuCgpNZWRpY2F0aW9uczoKLSBUYWNyb2xpbXVzIDAuMDcgbWcva2cgQklECi0gTU1GIHJlZHVjZWQgZG9zZSA0NTAgbWcvbTIgQklEIChhZGp1c3RlZCBmb3IgQksgdmlyZW1pYSkKLSBQcmVkbmlzb25lIDUgbWcgZGFpbHkKLSBWYWxnYW5jaWNsb3ZpciAoQ01WIHByb3BoeWxheGlzLCBEKy9SLSkKLSBUTVAtU01YIChQQ1AgcHJvcGh5bGF4aXMpCgpWaXRhbHM6CkJQIDEwOC83MiwgSFIgODAsIGFmZWJyaWxlLgoKUGh5c2ljYWwgRXhhbToKV2VsbC1hcHBlYXJpbmcuIEluY2lzaW9uIGZ1bGx5IGhlYWxlZC4gTm8gdGVuZGVybmVzcyBvdmVyIGdyYWZ0LiBObyBlZGVtYS4gTm9ybWFsIGNhcmRpb3Zhc2N1bGFyIGFuZCBwdWxtb25hcnkgZXhhbS4KCkxhYnM6Ci0gQ3JlYXRpbmluZSAxLjAgbWcvZEwKLSBUYWNyb2xpbXVzIHRyb3VnaCA3LjkgbmcvbUwgKGdvYWwgcmFuZ2UpCi0gQ0JDIHN0YWJsZQotIEVsZWN0cm9seXRlcyBub3JtYWwKLSBCSyBQQ1I6IDw1MDAgY29waWVzL21MIChub3QgZGV0ZWN0ZWQpCi0gQ01WIFBDUjogbmVnYXRpdmUKLSBFQlYgUENSOiBuZWdhdGl2ZQoKQXNzZXNzbWVudC9QbGFuOgpNb250aCA0IGZvbGxvdy11cC4gR3JhZnQgZnVuY3Rpb24gcmVtYWlucyBleGNlbGxlbnQuIEJLIHZpcmVtaWEgaGFzIHJlc29sdmVkIHdpdGggTU1GIGRvc2UgcmVkdWN0aW9uLiBDb250aW51ZSB0YWNyb2xpbXVzLCByZWR1Y2VkIE1NRiwgcHJlZG5pc29uZSwgYW5kIHByb3BoeWxheGlzLiBJbmZsdWVuemEgdmFjY2luZSBhZG1pbmlzdGVyZWQuIFBsYW4gdG8gY29udGludWUgdmFsZ2FuY2ljbG92aXIgZm9yIHRvdGFsIG9mIDYgbW9udGhzIHBvc3QtdHJhbnNwbGFudCBnaXZlbiBEKy9SLSBzdGF0dXMuIFJUQyBpbiA0IHdlZWtzIHdpdGggbGFicyBhbmQgdmlyYWwgUENScy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-11_document-11.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-3-11-11",
+    "subject": {
+        "reference": "Patient/patient-3"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-3-11"
+    },
+    "date": "2025-09-23",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Outpatient Clinic \u2013 Month 4: BK suppressed, stable function, vaccinations and ongoing prophylaxis"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "T3V0cGF0aWVudCBDbGluaWMg4oCTIE1vbnRoIDQ6IEJLIHN1cHByZXNzZWQsIHN0YWJsZSBmdW5jdGlvbiwgdmFjY2luYXRpb25zIGFuZCBvbmdvaW5nIHByb3BoeWxheGlzCgpQYXRpZW50OiBOb2FoIFBhdGVsCkRhdGU6IDIwMjUtMDktMjMKRW5jb3VudGVyOiBQb3N0LXRyYW5zcGxhbnQgZm9sbG93LXVwLCBNb250aCA0CgpJbnRlcnZhbCBIaXN0b3J5OgpQYXRpZW50IHByZXNlbnRzIHdpdGggcGFyZW50cyBmb3IgNC1tb250aCBmb2xsb3ctdXAuIE5vIGZldmVycywgdXJpbmFyeSBzeW1wdG9tcywgb3IgR0kgdXBzZXQuIFBhcmVudHMgcmVwb3J0IGV4Y2VsbGVudCBhZGhlcmVuY2UgdG8gbWVkaWNhdGlvbiBzY2hlZHVsZS4gUGF0aWVudCByZWNlaXZlZCBpbmZsdWVuemEgdmFjY2luYXRpb24gYXQgdGhpcyB2aXNpdC4gRW5lcmd5IGFuZCBhcHBldGl0ZSBnb29kLiBObyBzY2hvb2wgYWJzZW5jZXMuCgpNZWRpY2F0aW9uczoKLSBUYWNyb2xpbXVzIDAuMDcgbWcva2cgQklECi0gTU1GIHJlZHVjZWQgZG9zZSA0NTAgbWcvbTIgQklEIChhZGp1c3RlZCBmb3IgQksgdmlyZW1pYSkKLSBQcmVkbmlzb25lIDUgbWcgZGFpbHkKLSBWYWxnYW5jaWNsb3ZpciAoQ01WIHByb3BoeWxheGlzLCBEKy9SLSkKLSBUTVAtU01YIChQQ1AgcHJvcGh5bGF4aXMpCgpWaXRhbHM6CkJQIDEwOC83MiwgSFIgODAsIGFmZWJyaWxlLgoKUGh5c2ljYWwgRXhhbToKV2VsbC1hcHBlYXJpbmcuIEluY2lzaW9uIGZ1bGx5IGhlYWxlZC4gTm8gdGVuZGVybmVzcyBvdmVyIGdyYWZ0LiBObyBlZGVtYS4gTm9ybWFsIGNhcmRpb3Zhc2N1bGFyIGFuZCBwdWxtb25hcnkgZXhhbS4KCkxhYnM6Ci0gQ3JlYXRpbmluZSAxLjAgbWcvZEwKLSBUYWNyb2xpbXVzIHRyb3VnaCA3LjkgbmcvbUwgKGdvYWwgcmFuZ2UpCi0gQ0JDIHN0YWJsZQotIEVsZWN0cm9seXRlcyBub3JtYWwKLSBCSyBQQ1I6IDw1MDAgY29waWVzL21MIChub3QgZGV0ZWN0ZWQpCi0gQ01WIFBDUjogbmVnYXRpdmUKLSBFQlYgUENSOiBuZWdhdGl2ZQoKQXNzZXNzbWVudC9QbGFuOgpNb250aCA0IGZvbGxvdy11cC4gR3JhZnQgZnVuY3Rpb24gcmVtYWlucyBleGNlbGxlbnQuIEJLIHZpcmVtaWEgaGFzIHJlc29sdmVkIHdpdGggTU1GIGRvc2UgcmVkdWN0aW9uLiBDb250aW51ZSB0YWNyb2xpbXVzLCByZWR1Y2VkIE1NRiwgcHJlZG5pc29uZSwgYW5kIHByb3BoeWxheGlzLiBJbmZsdWVuemEgdmFjY2luZSBhZG1pbmlzdGVyZWQuIFBsYW4gdG8gY29udGludWUgdmFsZ2FuY2ljbG92aXIgZm9yIHRvdGFsIG9mIDYgbW9udGhzIHBvc3QtdHJhbnNwbGFudCBnaXZlbiBEKy9SLSBzdGF0dXMuIFJUQyBpbiA0IHdlZWtzIHdpdGggbGFicyBhbmQgdmlyYWwgUENScy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-3-11-11 (2025-09-23)"
+            }
+        }
+    ]
+}

@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-1-2-5", "subject": {"reference": "Patient/patient-1"}, "encounter": {"reference": "Encounter/patient-1-2"}, "date": "2025-06-04", "type": {"coding": [{"system": "http://loinc.org", "display": "Immunosuppression Initiation & Dosing \u2013 tacrolimus, mycophenolate, prednisone"}]}, "content": [{"attachment": {"data": "SW1tdW5vc3VwcHJlc3Npb24gSW5pdGlhdGlvbiAmIERvc2luZyDigJMgdGFjcm9saW11cywgbXljb3BoZW5vbGF0ZSwgcHJlZG5pc29uZQpFbmNvdW50ZXI6IDIgfCBEb2N1bWVudDogNSB8IERhdGU6IDIwMjUtMDYtMDQKUGF0aWVudDogTWFzb24gUml2ZXJzIChNYWxlLCBET0IgMjAxNi0xMS0wOCkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKUmVnaW1lbgotLS0tLS0tClRhY3JvbGltdXMgMi4wIG1nIFBPIEJJRCAodGFyZ2V0IHRyb3VnaCA44oCTMTAgbmcvbUwpCk15Y29waGVub2xhdGUgbW9mZXRpbCA1MDAgbWcgUE8gQklEICh+NjAwIG1nL23CsikKUHJlZG5pc29uZSAwLjIgbWcva2cgUE8gZGFpbHkgKHRhcGVyIHBsYW4gb3ZlciAz4oCTNiBtb250aHMpClZhbGdhbmNpY2xvdmlyIDQ1MCBtZyBQTyBkYWlseSAoQ01WIEQrL1IrIHByb3BoeWxheGlzOyBkb3NlIHJlbmFsbHkgYWRqdXN0ZWQpClRNUOKAkVNNWCAoc3VsZmFtZXRob3hhem9sZeKAkXRyaW1ldGhvcHJpbSkgODAgbWcgVE1QIFBPIGRhaWx5IChQSlAgcHJvcGh5bGF4aXM7IE3igJFX4oCRRiBhZnRlciAxIG1vbnRoKQpOeXN0YXRpbiBvcmFsIHN1c3BlbnNpb24gNSBtTCBzd2lzaCBhbmQgc3dhbGxvdyBRSUQgKG9yYWwgY2FuZGlkaWFzaXMgcHJvcGh5bGF4aXMpCkFtbG9kaXBpbmUgMi41IG1nIFBPIGRhaWx5IChoeXBlcnRlbnNpb24pCkZhbW90aWRpbmUgMTAgbWcgUE8gQklEIChHSSBwcm9waHlsYXhpcykKQ2hvbGVjYWxjaWZlcm9sIDEwMDAgSVUgUE8gZGFpbHkKClRoZXJhcGV1dGljIERydWcgTW9uaXRvcmluZyBQbGFuCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi0gVGFjcm9saW11cyB0cm91Z2ggZGFpbHkgYXQgMDY6MDAgdW50aWwgdHdvIGNvbnNlY3V0aXZlIHZhbHVlcyB3aXRoaW4gdGFyZ2V0LCB0aGVuIDLigJMzeC93ZWVrIGZvciBtb250aCAxLgotIENCQy9DTVAgdHdpY2Ugd2Vla2x5IHggMiB3ZWVrcywgdGhlbiB3ZWVrbHkgdW50aWwgbW9udGggMy4KLSBCSyBhbmQgQ01WIFBDUiBiYXNlbGluZSB0b2RheSwgdGhlbiBtb250aGx5IHggNiBtb250aHMgb3IgYXMgaW5kaWNhdGVkLgoKRWR1Y2F0aW9uCi0tLS0tLS0tLQpEaXNjdXNzZWQgYWRoZXJlbmNlLCBmb29kL2RydWcgaW50ZXJhY3Rpb25zIChlLmcuLCBhdm9pZCBncmFwZWZydWl0KSwgYW5kIGluZmVjdGlvbiBwcmVjYXV0aW9ucy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-2_document-5.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-1-2-5",
+    "subject": {
+        "reference": "Patient/patient-1"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-1-2"
+    },
+    "date": "2025-06-04",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Immunosuppression Initiation & Dosing \u2013 tacrolimus, mycophenolate, prednisone"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "SW1tdW5vc3VwcHJlc3Npb24gSW5pdGlhdGlvbiAmIERvc2luZyDigJMgdGFjcm9saW11cywgbXljb3BoZW5vbGF0ZSwgcHJlZG5pc29uZQpFbmNvdW50ZXI6IDIgfCBEb2N1bWVudDogNSB8IERhdGU6IDIwMjUtMDYtMDQKUGF0aWVudDogTWFzb24gUml2ZXJzIChNYWxlLCBET0IgMjAxNi0xMS0wOCkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKUmVnaW1lbgotLS0tLS0tClRhY3JvbGltdXMgMi4wIG1nIFBPIEJJRCAodGFyZ2V0IHRyb3VnaCA44oCTMTAgbmcvbUwpCk15Y29waGVub2xhdGUgbW9mZXRpbCA1MDAgbWcgUE8gQklEICh+NjAwIG1nL23CsikKUHJlZG5pc29uZSAwLjIgbWcva2cgUE8gZGFpbHkgKHRhcGVyIHBsYW4gb3ZlciAz4oCTNiBtb250aHMpClZhbGdhbmNpY2xvdmlyIDQ1MCBtZyBQTyBkYWlseSAoQ01WIEQrL1IrIHByb3BoeWxheGlzOyBkb3NlIHJlbmFsbHkgYWRqdXN0ZWQpClRNUOKAkVNNWCAoc3VsZmFtZXRob3hhem9sZeKAkXRyaW1ldGhvcHJpbSkgODAgbWcgVE1QIFBPIGRhaWx5IChQSlAgcHJvcGh5bGF4aXM7IE3igJFX4oCRRiBhZnRlciAxIG1vbnRoKQpOeXN0YXRpbiBvcmFsIHN1c3BlbnNpb24gNSBtTCBzd2lzaCBhbmQgc3dhbGxvdyBRSUQgKG9yYWwgY2FuZGlkaWFzaXMgcHJvcGh5bGF4aXMpCkFtbG9kaXBpbmUgMi41IG1nIFBPIGRhaWx5IChoeXBlcnRlbnNpb24pCkZhbW90aWRpbmUgMTAgbWcgUE8gQklEIChHSSBwcm9waHlsYXhpcykKQ2hvbGVjYWxjaWZlcm9sIDEwMDAgSVUgUE8gZGFpbHkKClRoZXJhcGV1dGljIERydWcgTW9uaXRvcmluZyBQbGFuCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCi0gVGFjcm9saW11cyB0cm91Z2ggZGFpbHkgYXQgMDY6MDAgdW50aWwgdHdvIGNvbnNlY3V0aXZlIHZhbHVlcyB3aXRoaW4gdGFyZ2V0LCB0aGVuIDLigJMzeC93ZWVrIGZvciBtb250aCAxLgotIENCQy9DTVAgdHdpY2Ugd2Vla2x5IHggMiB3ZWVrcywgdGhlbiB3ZWVrbHkgdW50aWwgbW9udGggMy4KLSBCSyBhbmQgQ01WIFBDUiBiYXNlbGluZSB0b2RheSwgdGhlbiBtb250aGx5IHggNiBtb250aHMgb3IgYXMgaW5kaWNhdGVkLgoKRWR1Y2F0aW9uCi0tLS0tLS0tLQpEaXNjdXNzZWQgYWRoZXJlbmNlLCBmb29kL2RydWcgaW50ZXJhY3Rpb25zIChlLmcuLCBhdm9pZCBncmFwZWZydWl0KSwgYW5kIGluZmVjdGlvbiBwcmVjYXV0aW9ucy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-1-2-5 (2025-06-04)"
+            }
+        }
+    ]
+}

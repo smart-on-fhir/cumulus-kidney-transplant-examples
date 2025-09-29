@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-6-6-10", "subject": {"reference": "Patient/patient-6"}, "encounter": {"reference": "Encounter/patient-6-6"}, "date": "2024-08-05", "type": {"coding": [{"system": "http://loinc.org", "display": "Telephone encounter \u2013 lab review; tacrolimus 7.2; creatinine 1.6; continue plan"}]}, "content": [{"attachment": {"data": "VGVsZXBob25lIEVuY291bnRlciDigJMgTGFiIFJldmlldwoKUGF0aWVudDogSm9yZGFuIFJleWVzCkRhdGU6IDIwMjQtMDgtMDUKCkxhYnM6CkNyZWF0aW5pbmUgMS42IG1nL2RMIChpbXByb3ZlZCBmcm9tIDEuOCkKVGFjcm9saW11cyB0cm91Z2ggNy4yIG5nL21MICh3aXRoaW4gZ29hbCkKUG90YXNzaXVtIDQuMywgV0JDIDcuMQoKRGlzY3Vzc2lvbjoKLSBQYXRpZW50IHJlcG9ydHMgbm8gbWlzc2VkIGRvc2VzLCB0b2xlcmF0aW5nIG1lZGljYXRpb25zCi0gTm8gbmV3IHN5bXB0b21zCgpQbGFuOgotIENvbnRpbnVlIGN1cnJlbnQgdGFjcm9saW11cyBkb3NlIDQgbWcgQklECi0gQ29udGludWUgb3RoZXIgbWVkaWNhdGlvbnMgdW5jaGFuZ2VkCi0gUmVwZWF0IGxhYnMgaW4gMiB3ZWVrcwotIENsaW5pYyBmb2xsb3ctdXAgYXMgc2NoZWR1bGVk", "contentType": "text/plain; charset=utf-8", "title": "encounter-6_document-10.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-6-6-10",
+    "subject": {
+        "reference": "Patient/patient-6"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-6-6"
+    },
+    "date": "2024-08-05",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Telephone encounter \u2013 lab review; tacrolimus 7.2; creatinine 1.6; continue plan"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "VGVsZXBob25lIEVuY291bnRlciDigJMgTGFiIFJldmlldwoKUGF0aWVudDogSm9yZGFuIFJleWVzCkRhdGU6IDIwMjQtMDgtMDUKCkxhYnM6CkNyZWF0aW5pbmUgMS42IG1nL2RMIChpbXByb3ZlZCBmcm9tIDEuOCkKVGFjcm9saW11cyB0cm91Z2ggNy4yIG5nL21MICh3aXRoaW4gZ29hbCkKUG90YXNzaXVtIDQuMywgV0JDIDcuMQoKRGlzY3Vzc2lvbjoKLSBQYXRpZW50IHJlcG9ydHMgbm8gbWlzc2VkIGRvc2VzLCB0b2xlcmF0aW5nIG1lZGljYXRpb25zCi0gTm8gbmV3IHN5bXB0b21zCgpQbGFuOgotIENvbnRpbnVlIGN1cnJlbnQgdGFjcm9saW11cyBkb3NlIDQgbWcgQklECi0gQ29udGludWUgb3RoZXIgbWVkaWNhdGlvbnMgdW5jaGFuZ2VkCi0gUmVwZWF0IGxhYnMgaW4gMiB3ZWVrcwotIENsaW5pYyBmb2xsb3ctdXAgYXMgc2NoZWR1bGVk",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-6-6-10 (2024-08-05)"
+            }
+        }
+    ]
+}

@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-2-2-5", "subject": {"reference": "Patient/patient-2"}, "encounter": {"reference": "Encounter/patient-2-2"}, "date": "2025-06-04", "type": {"coding": [{"system": "http://loinc.org", "display": "Nephrology Progress Note POD#1 \u2013 urine output >2 mL/kg/hr, creatinine trending down"}]}, "content": [{"attachment": {"data": "TmVwaHJvbG9neSBQcm9ncmVzcyBOb3RlIFBPRCMxCgpEYXRlOiAyMDI1LTA2LTA0CgpQYXRpZW50IFBPRCMxIGZyb20gZGVjZWFzZWQgZG9ub3Iga2lkbmV5IHRyYW5zcGxhbnQuCgpVcmluZSBvdXRwdXQ6ID4yIG1ML2tnL2hyIG92ZXJuaWdodC4gU2VydW0gY3JlYXRpbmluZSBkZWNyZWFzZWQgZnJvbSA2LjIgcHJlb3AgdG8gMy45IG1nL2RMIHRoaXMgbW9ybmluZy4KCkV4YW06IEF3YWtlLCBleHR1YmF0ZWQuIEluY2lzaW9uIGludGFjdC4gTm8gdGVuZGVybmVzcy4KCkxhYnM6IE5hIDEzOCwgSyA0LjYsIEhnYiA5LjIsIFdCQyA4LjMuIFRhY3JvbGltdXMgbm90IHlldCBzdGFydGVkLgoKUGxhbjoKLSBDb250aW51ZSBJViBmbHVpZHMKLSBJbml0aWF0ZSB0YWNyb2xpbXVzIFBPRCMyCi0gQ29udGludWUgc3Rlcm9pZHMsIG15Y29waGVub2xhdGUgbW9mZXRpbAotIE1vbml0b3IgRFNBIGFuZCB2aXJhbCBQQ1IgYmFzZWxpbmUgcmVzdWx0cwo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-2_document-5.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-2-2-5",
+    "subject": {
+        "reference": "Patient/patient-2"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-2-2"
+    },
+    "date": "2025-06-04",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Nephrology Progress Note POD#1 \u2013 urine output >2 mL/kg/hr, creatinine trending down"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "TmVwaHJvbG9neSBQcm9ncmVzcyBOb3RlIFBPRCMxCgpEYXRlOiAyMDI1LTA2LTA0CgpQYXRpZW50IFBPRCMxIGZyb20gZGVjZWFzZWQgZG9ub3Iga2lkbmV5IHRyYW5zcGxhbnQuCgpVcmluZSBvdXRwdXQ6ID4yIG1ML2tnL2hyIG92ZXJuaWdodC4gU2VydW0gY3JlYXRpbmluZSBkZWNyZWFzZWQgZnJvbSA2LjIgcHJlb3AgdG8gMy45IG1nL2RMIHRoaXMgbW9ybmluZy4KCkV4YW06IEF3YWtlLCBleHR1YmF0ZWQuIEluY2lzaW9uIGludGFjdC4gTm8gdGVuZGVybmVzcy4KCkxhYnM6IE5hIDEzOCwgSyA0LjYsIEhnYiA5LjIsIFdCQyA4LjMuIFRhY3JvbGltdXMgbm90IHlldCBzdGFydGVkLgoKUGxhbjoKLSBDb250aW51ZSBJViBmbHVpZHMKLSBJbml0aWF0ZSB0YWNyb2xpbXVzIFBPRCMyCi0gQ29udGludWUgc3Rlcm9pZHMsIG15Y29waGVub2xhdGUgbW9mZXRpbAotIE1vbml0b3IgRFNBIGFuZCB2aXJhbCBQQ1IgYmFzZWxpbmUgcmVzdWx0cwo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-2-2-5 (2025-06-04)"
+            }
+        }
+    ]
+}

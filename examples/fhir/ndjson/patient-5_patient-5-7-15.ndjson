@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-5-7-15", "subject": {"reference": "Patient/patient-5"}, "encounter": {"reference": "Encounter/patient-5-7"}, "date": "2025-07-10", "type": {"coding": [{"system": "http://loinc.org", "display": "Nutrition Followup low sodium diet and fluid goals"}]}, "content": [{"attachment": {"data": "RW5jb3VudGVyIDcgLSBEb2N1bWVudCAxNTogTnV0cml0aW9uIEZvbGxvdy11cAoKUmV2aWV3ZWQgZGlldDogcmVpbmZvcmNlIGxvdyBzb2RpdW0gKDwyZy9kYXkpLCBhZGVxdWF0ZSBoeWRyYXRpb24sIGZvb2Qgc2FmZXR5IHByZWNhdXRpb25zIChhdm9pZCB1bmRlcmNvb2tlZCBtZWF0cykuIFBhdGllbnQgZGVtb25zdHJhdGVzIGdvb2QgdW5kZXJzdGFuZGluZy4gV2VpZ2h0IHN0YWJsZSBhdCA3OGtnLg==", "contentType": "text/plain; charset=utf-8", "title": "encounter-7_document-15.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-5-7-15",
+    "subject": {
+        "reference": "Patient/patient-5"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-5-7"
+    },
+    "date": "2025-07-10",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Nutrition Followup low sodium diet and fluid goals"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "RW5jb3VudGVyIDcgLSBEb2N1bWVudCAxNTogTnV0cml0aW9uIEZvbGxvdy11cAoKUmV2aWV3ZWQgZGlldDogcmVpbmZvcmNlIGxvdyBzb2RpdW0gKDwyZy9kYXkpLCBhZGVxdWF0ZSBoeWRyYXRpb24sIGZvb2Qgc2FmZXR5IHByZWNhdXRpb25zIChhdm9pZCB1bmRlcmNvb2tlZCBtZWF0cykuIFBhdGllbnQgZGVtb25zdHJhdGVzIGdvb2QgdW5kZXJzdGFuZGluZy4gV2VpZ2h0IHN0YWJsZSBhdCA3OGtnLg==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-5-7-15 (2025-07-10)"
+            }
+        }
+    ]
+}

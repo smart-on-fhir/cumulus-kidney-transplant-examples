@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-10-16-16", "subject": {"reference": "Patient/patient-10"}, "encounter": {"reference": "Encounter/patient-10-16"}, "date": "2021-07-15", "type": {"coding": [{"system": "http://loinc.org", "display": "Infusion Center Note \u2013 IVIG course completed, 1 session missed"}]}, "content": [{"attachment": {"data": "SW5mdXNpb24gQ2VudGVyIE5vdGUg4oCTIDIwMjEtMDctMTUKVHJlYXRtZW50OiBJVklHIGNvdXJzZSBmb3IgQU1SLCA0IHNlc3Npb25zIHBsYW5uZWQuCkV2ZW50czogUGF0aWVudCBtaXNzZWQgMSBzZXNzaW9uIGR1ZSB0byB0cmFuc3BvcnRhdGlvbiBpc3N1ZXMgYnV0IHJlc2NoZWR1bGVkIGFuZCBjb21wbGV0ZWQgdGhlcmFweS4gTm8gaW5mdXNpb24tcmVsYXRlZCByZWFjdGlvbnMuIFZpdGFscyBzdGFibGUuClBsYW46IE1vbml0b3IgRFNBIHRyZW5kLCBjb250aW51ZSBtYWludGVuYW5jZSBpbW11bm9zdXBwcmVzc2lvbiwgcmVwZWF0IGxhYnMgaW4gMiB3ZWVrcy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-16_document-16.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-10-16-16",
+    "subject": {
+        "reference": "Patient/patient-10"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-10-16"
+    },
+    "date": "2021-07-15",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Infusion Center Note \u2013 IVIG course completed, 1 session missed"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "SW5mdXNpb24gQ2VudGVyIE5vdGUg4oCTIDIwMjEtMDctMTUKVHJlYXRtZW50OiBJVklHIGNvdXJzZSBmb3IgQU1SLCA0IHNlc3Npb25zIHBsYW5uZWQuCkV2ZW50czogUGF0aWVudCBtaXNzZWQgMSBzZXNzaW9uIGR1ZSB0byB0cmFuc3BvcnRhdGlvbiBpc3N1ZXMgYnV0IHJlc2NoZWR1bGVkIGFuZCBjb21wbGV0ZWQgdGhlcmFweS4gTm8gaW5mdXNpb24tcmVsYXRlZCByZWFjdGlvbnMuIFZpdGFscyBzdGFibGUuClBsYW46IE1vbml0b3IgRFNBIHRyZW5kLCBjb250aW51ZSBtYWludGVuYW5jZSBpbW11bm9zdXBwcmVzc2lvbiwgcmVwZWF0IGxhYnMgaW4gMiB3ZWVrcy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-10-16-16 (2021-07-15)"
+            }
+        }
+    ]
+}

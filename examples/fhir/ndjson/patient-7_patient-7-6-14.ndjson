@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-7-6-14", "subject": {"reference": "Patient/patient-7"}, "encounter": {"reference": "Encounter/patient-7-6"}, "date": "2025-06-27", "type": {"coding": [{"system": "http://loinc.org", "display": "Clinic Note \u2013 tremor likely tacrolimus-related; dose adjusted"}]}, "content": [{"attachment": {"data": "Q2xpbmljIE5vdGUg4oCTIHRyZW1vciBsaWtlbHkgdGFjcm9saW11cy1yZWxhdGVkOyBkb3NlIGFkanVzdGVkCgpEYXRlOiAwNi8yNy8yMDI1CgpTdWJqZWN0aXZlOgpQYXRpZW50IHJlcG9ydHMgaGFuZCB0cmVtb3JzIGludGVyZmVyaW5nIHdpdGggd3JpdGluZyBhbmQgdXNpbmcgdXRlbnNpbHMuIE5vIGhlYWRhY2hlcywgbm8gR0kgY29tcGxhaW50cy4gQWRoZXJlbnQgdG8gYWxsIG1lZGljYXRpb25zLgoKT2JqZWN0aXZlOgotIFZpdGFsczogQlAgMTQyLzg2LCBIUiA3NC4KLSBFeGFtOiBGaW5lIHJlc3RpbmcgdHJlbW9yIG5vdGVkIGluIGJvdGggaGFuZHMuIE90aGVyd2lzZSB1bnJlbWFya2FibGUuCi0gTGFiczogQ3IgMS40IG1nL2RMLCBCVU4gMjAsIHRhY3JvbGltdXMgdHJvdWdoIDEyLjEgbmcvbUwgKGFib3ZlIHRhcmdldCkuCgpBc3Nlc3NtZW50L1BsYW46CjEuIFRhY3JvbGltdXMtcmVsYXRlZCBuZXVyb3RveGljaXR5ICh0cmVtb3IpLgogICAtIFJlZHVjZSB0YWNyb2xpbXVzIGRvc2UgZnJvbSAzIG1nIEJJRCDihpIgMi41IG1nIEJJRC4KICAgLSBHb2FsIHRyb3VnaCByZW1haW5zIDjigJMxMC4KMi4gQ29udGludWUgTU1GIDEgZyBCSUQsIHByZWRuaXNvbmUgMjAgbWcgZGFpbHkuCjMuIENvbnRpbnVlIGluZmVjdGlvbiBwcm9waHlsYXhpcy4KNC4gTGFicyB0d2ljZSB3ZWVrbHkgdW50aWwgdGFjcm9saW11cyBzdGFiaWxpemVkLgo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-6_document-14.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-7-6-14",
+    "subject": {
+        "reference": "Patient/patient-7"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-7-6"
+    },
+    "date": "2025-06-27",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Clinic Note \u2013 tremor likely tacrolimus-related; dose adjusted"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "Q2xpbmljIE5vdGUg4oCTIHRyZW1vciBsaWtlbHkgdGFjcm9saW11cy1yZWxhdGVkOyBkb3NlIGFkanVzdGVkCgpEYXRlOiAwNi8yNy8yMDI1CgpTdWJqZWN0aXZlOgpQYXRpZW50IHJlcG9ydHMgaGFuZCB0cmVtb3JzIGludGVyZmVyaW5nIHdpdGggd3JpdGluZyBhbmQgdXNpbmcgdXRlbnNpbHMuIE5vIGhlYWRhY2hlcywgbm8gR0kgY29tcGxhaW50cy4gQWRoZXJlbnQgdG8gYWxsIG1lZGljYXRpb25zLgoKT2JqZWN0aXZlOgotIFZpdGFsczogQlAgMTQyLzg2LCBIUiA3NC4KLSBFeGFtOiBGaW5lIHJlc3RpbmcgdHJlbW9yIG5vdGVkIGluIGJvdGggaGFuZHMuIE90aGVyd2lzZSB1bnJlbWFya2FibGUuCi0gTGFiczogQ3IgMS40IG1nL2RMLCBCVU4gMjAsIHRhY3JvbGltdXMgdHJvdWdoIDEyLjEgbmcvbUwgKGFib3ZlIHRhcmdldCkuCgpBc3Nlc3NtZW50L1BsYW46CjEuIFRhY3JvbGltdXMtcmVsYXRlZCBuZXVyb3RveGljaXR5ICh0cmVtb3IpLgogICAtIFJlZHVjZSB0YWNyb2xpbXVzIGRvc2UgZnJvbSAzIG1nIEJJRCDihpIgMi41IG1nIEJJRC4KICAgLSBHb2FsIHRyb3VnaCByZW1haW5zIDjigJMxMC4KMi4gQ29udGludWUgTU1GIDEgZyBCSUQsIHByZWRuaXNvbmUgMjAgbWcgZGFpbHkuCjMuIENvbnRpbnVlIGluZmVjdGlvbiBwcm9waHlsYXhpcy4KNC4gTGFicyB0d2ljZSB3ZWVrbHkgdW50aWwgdGFjcm9saW11cyBzdGFiaWxpemVkLgo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-7-6-14 (2025-06-27)"
+            }
+        }
+    ]
+}

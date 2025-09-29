@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-5-9-19", "subject": {"reference": "Patient/patient-5"}, "encounter": {"reference": "Encounter/patient-5-9"}, "date": "2025-08-07", "type": {"coding": [{"system": "http://loinc.org", "display": "Pharmacy MTM followup pillbox check refill synchronization"}]}, "content": [{"attachment": {"data": "RW5jb3VudGVyIDkgLSBEb2N1bWVudCAxOTogUGhhcm1hY3kgTVRNIEZvbGxvdy11cAoKUmV2aWV3ZWQgcmVmaWxsIGhpc3RvcnkgYW5kIHBpbGxib3guIFBhdGllbnQgYWRoZXJlbnQuIFJlZmlsbCBzeW5jaHJvbml6YXRpb24gY29tcGxldGVkLiBSZWluZm9yY2VkIGFkaGVyZW5jZSBhbmQgYXZvaWRhbmNlIG9mIE9UQyBOU0FJRHMvaGVyYmFscy4=", "contentType": "text/plain; charset=utf-8", "title": "encounter-9_document-19.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-5-9-19",
+    "subject": {
+        "reference": "Patient/patient-5"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-5-9"
+    },
+    "date": "2025-08-07",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Pharmacy MTM followup pillbox check refill synchronization"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "RW5jb3VudGVyIDkgLSBEb2N1bWVudCAxOTogUGhhcm1hY3kgTVRNIEZvbGxvdy11cAoKUmV2aWV3ZWQgcmVmaWxsIGhpc3RvcnkgYW5kIHBpbGxib3guIFBhdGllbnQgYWRoZXJlbnQuIFJlZmlsbCBzeW5jaHJvbml6YXRpb24gY29tcGxldGVkLiBSZWluZm9yY2VkIGFkaGVyZW5jZSBhbmQgYXZvaWRhbmNlIG9mIE9UQyBOU0FJRHMvaGVyYmFscy4=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-5-9-19 (2025-08-07)"
+            }
+        }
+    ]
+}

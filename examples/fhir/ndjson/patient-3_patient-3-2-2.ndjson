@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-3-2-2", "subject": {"reference": "Patient/patient-3"}, "encounter": {"reference": "Encounter/patient-3-2"}, "date": "2025-06-01", "type": {"coding": [{"system": "http://loinc.org", "display": "Transplant Operative & Immediate Post-Op Note \u2013 DDKT (left iliac fossa), CIT 18 h, WIT 32 min"}]}, "content": [{"attachment": {"data": "VHJhbnNwbGFudCBPcGVyYXRpdmUgJiBJbW1lZGlhdGUgUG9zdC1PcCBOb3RlIOKAkyBEREtUIChsZWZ0IGlsaWFjIGZvc3NhKSwgQ0lUIDE4IGgsIFdJVCAzMiBtaW4KClBhdGllbnQ6IE5vYWggUGF0ZWwKRGF0ZTogMjAyNS0wNi0wMQoKUHJvY2VkdXJlOgpEZWNlYXNlZCBkb25vciBraWRuZXkgdHJhbnNwbGFudCAobGVmdCBpbGlhYyBmb3NzYSkuIERvbm9yIGtpZG5leSBzaW5nbGUgYXJ0ZXJ5LCBzaW5nbGUgdmVpbi4gQ29sZCBpc2NoZW1pYSB0aW1lIDE4IGhvdXJzLCB3YXJtIGlzY2hlbWlhIHRpbWUgMzIgbWludXRlcy4gVXJldGVyYWwgc3RlbnQgcGxhY2VkLiBBbmFzdG9tb3NlcyBjb21wbGV0ZWQgd2l0aG91dCBjb21wbGljYXRpb24uIEltbWVkaWF0ZSByZXBlcmZ1c2lvbiBub3RlZCwga2lkbmV5IHBpbmtlZCB1cCwgYW5kIGdvb2QgRG9wcGxlciBzaWduYWwgcHJlc2VudC4KCkVzdGltYXRlZCBibG9vZCBsb3NzOiAxMjAgbUwuIE5vIHRyYW5zZnVzaW9ucyByZXF1aXJlZC4KCkltbWVkaWF0ZSBQb3N0LU9wIENvdXJzZToKUGF0aWVudCBleHR1YmF0ZWQgaW4gT1IgYW5kIHRyYW5zZmVycmVkIHRvIFBBQ1UgaW4gc3RhYmxlIGNvbmRpdGlvbi4gRm9sZXkgY2F0aGV0ZXIgcGxhY2VkLCBkcmFpbmluZyBwaW5rIHVyaW5lLiBJbml0aWFsIHVyaW5lIG91dHB1dCA+NTAgbUwgaW4gZmlyc3QgMzAgbWludXRlcy4KClBsYW46Ci0gQWRtaXQgdG8gUElDVSBmb3IgY2xvc2UgbW9uaXRvcmluZwotIFN0YXJ0IGltbXVub3N1cHByZXNzaW9uOiB0YWNyb2xpbXVzIChnb2FsIHRyb3VnaCA34oCTOSksIE1NRiwgc3Rlcm9pZCB0YXBlcgotIEluaXRpYXRlIGluZmVjdGlvbiBwcm9waHlsYXhpcyAodmFsZ2FuY2ljbG92aXIsIFRNUC1TTVgpCi0gRGFpbHkgbGFicyBhbmQgdGFjcm9saW11cyB0cm91Z2hzCg==", "contentType": "text/plain; charset=utf-8", "title": "encounter-2_document-2.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-3-2-2",
+    "subject": {
+        "reference": "Patient/patient-3"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-3-2"
+    },
+    "date": "2025-06-01",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Transplant Operative & Immediate Post-Op Note \u2013 DDKT (left iliac fossa), CIT 18 h, WIT 32 min"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "VHJhbnNwbGFudCBPcGVyYXRpdmUgJiBJbW1lZGlhdGUgUG9zdC1PcCBOb3RlIOKAkyBEREtUIChsZWZ0IGlsaWFjIGZvc3NhKSwgQ0lUIDE4IGgsIFdJVCAzMiBtaW4KClBhdGllbnQ6IE5vYWggUGF0ZWwKRGF0ZTogMjAyNS0wNi0wMQoKUHJvY2VkdXJlOgpEZWNlYXNlZCBkb25vciBraWRuZXkgdHJhbnNwbGFudCAobGVmdCBpbGlhYyBmb3NzYSkuIERvbm9yIGtpZG5leSBzaW5nbGUgYXJ0ZXJ5LCBzaW5nbGUgdmVpbi4gQ29sZCBpc2NoZW1pYSB0aW1lIDE4IGhvdXJzLCB3YXJtIGlzY2hlbWlhIHRpbWUgMzIgbWludXRlcy4gVXJldGVyYWwgc3RlbnQgcGxhY2VkLiBBbmFzdG9tb3NlcyBjb21wbGV0ZWQgd2l0aG91dCBjb21wbGljYXRpb24uIEltbWVkaWF0ZSByZXBlcmZ1c2lvbiBub3RlZCwga2lkbmV5IHBpbmtlZCB1cCwgYW5kIGdvb2QgRG9wcGxlciBzaWduYWwgcHJlc2VudC4KCkVzdGltYXRlZCBibG9vZCBsb3NzOiAxMjAgbUwuIE5vIHRyYW5zZnVzaW9ucyByZXF1aXJlZC4KCkltbWVkaWF0ZSBQb3N0LU9wIENvdXJzZToKUGF0aWVudCBleHR1YmF0ZWQgaW4gT1IgYW5kIHRyYW5zZmVycmVkIHRvIFBBQ1UgaW4gc3RhYmxlIGNvbmRpdGlvbi4gRm9sZXkgY2F0aGV0ZXIgcGxhY2VkLCBkcmFpbmluZyBwaW5rIHVyaW5lLiBJbml0aWFsIHVyaW5lIG91dHB1dCA+NTAgbUwgaW4gZmlyc3QgMzAgbWludXRlcy4KClBsYW46Ci0gQWRtaXQgdG8gUElDVSBmb3IgY2xvc2UgbW9uaXRvcmluZwotIFN0YXJ0IGltbXVub3N1cHByZXNzaW9uOiB0YWNyb2xpbXVzIChnb2FsIHRyb3VnaCA34oCTOSksIE1NRiwgc3Rlcm9pZCB0YXBlcgotIEluaXRpYXRlIGluZmVjdGlvbiBwcm9waHlsYXhpcyAodmFsZ2FuY2ljbG92aXIsIFRNUC1TTVgpCi0gRGFpbHkgbGFicyBhbmQgdGFjcm9saW11cyB0cm91Z2hzCg==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-3-2-2 (2025-06-01)"
+            }
+        }
+    ]
+}

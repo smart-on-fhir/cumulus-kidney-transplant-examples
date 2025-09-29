@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-5-2-5", "subject": {"reference": "Patient/patient-5"}, "encounter": {"reference": "Encounter/patient-5-2"}, "date": "2025-05-30", "type": {"coding": [{"system": "http://loinc.org", "display": "Pharmacy Medication Reconciliation and Education adherence counseling and pillbox setup"}]}, "content": [{"attachment": {"data": "RW5jb3VudGVyIDIgLSBEb2N1bWVudCA1OiBQaGFybWFjeSBNZWRpY2F0aW9uIFJlY29uY2lsaWF0aW9uIGFuZCBFZHVjYXRpb24KClJldmlld2VkIGRpc2NoYXJnZSBtZWRzIHZzIHByZW9wIGxpc3QuIERpc2NvbnRpbnVlZCBhbnRpaHlwZXJ0ZW5zaXZlcyB0ZW1wb3JhcmlseSBkdWUgdG8gbG93ZXIgQlAuCkVkdWNhdGlvbjogRW1waGFzaXplZCBzdHJpY3QgYWRoZXJlbmNlIHRvIHRhY3JvbGltdXMvTU1GL3ByZWRuaXNvbmUuIFJldmlld2VkIGNvbW1vbiBzaWRlIGVmZmVjdHMsIGRydWctZHJ1ZyBpbnRlcmFjdGlvbnMsIGF2b2lkaW5nIE5TQUlEcywgZ3JhcGVmcnVpdC4gUHJvdmlkZWQgcGlsbGJveCBhbmQgY2FsZW5kYXIuIFBhdGllbnQgdmVyYmFsaXplZCB1bmRlcnN0YW5kaW5nLg==", "contentType": "text/plain; charset=utf-8", "title": "encounter-2_document-5.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-5-2-5",
+    "subject": {
+        "reference": "Patient/patient-5"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-5-2"
+    },
+    "date": "2025-05-30",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Pharmacy Medication Reconciliation and Education adherence counseling and pillbox setup"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "RW5jb3VudGVyIDIgLSBEb2N1bWVudCA1OiBQaGFybWFjeSBNZWRpY2F0aW9uIFJlY29uY2lsaWF0aW9uIGFuZCBFZHVjYXRpb24KClJldmlld2VkIGRpc2NoYXJnZSBtZWRzIHZzIHByZW9wIGxpc3QuIERpc2NvbnRpbnVlZCBhbnRpaHlwZXJ0ZW5zaXZlcyB0ZW1wb3JhcmlseSBkdWUgdG8gbG93ZXIgQlAuCkVkdWNhdGlvbjogRW1waGFzaXplZCBzdHJpY3QgYWRoZXJlbmNlIHRvIHRhY3JvbGltdXMvTU1GL3ByZWRuaXNvbmUuIFJldmlld2VkIGNvbW1vbiBzaWRlIGVmZmVjdHMsIGRydWctZHJ1ZyBpbnRlcmFjdGlvbnMsIGF2b2lkaW5nIE5TQUlEcywgZ3JhcGVmcnVpdC4gUHJvdmlkZWQgcGlsbGJveCBhbmQgY2FsZW5kYXIuIFBhdGllbnQgdmVyYmFsaXplZCB1bmRlcnN0YW5kaW5nLg==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-5-2-5 (2025-05-30)"
+            }
+        }
+    ]
+}

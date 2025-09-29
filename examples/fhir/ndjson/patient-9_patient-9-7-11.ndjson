@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-9-7-11", "subject": {"reference": "Patient/patient-9"}, "encounter": {"reference": "Encounter/patient-9-7"}, "date": "2023-12-20", "type": {"coding": [{"system": "http://loinc.org", "display": "Clinic Progress Note \u2013 3 months; adherence counseling provided"}]}, "content": [{"attachment": {"data": "Q2xpbmljIFByb2dyZXNzIE5vdGUg4oCTIDMgbW9udGhzOyBhZGhlcmVuY2UgY291bnNlbGluZyBwcm92aWRlZAoKRGF0ZTogMTIvMjAvMjAyMwoKU3ViamVjdGl2ZTogUGF0aWVudCByZXBvcnRzIGZlZWxpbmcgd2VsbC4gQWRtaXRzIHRvIG9jY2FzaW9uYWxseSBkZWxheWluZyBldmVuaW5nIGRvc2Ugb2YgdGFjcm9saW11cyBieSAy4oCTMyBob3Vycy4gRGVuaWVzIG1pc3NlZCBkb3NlcyB0aGlzIG1vbnRoLiBObyBmZXZlcnMsIGNoaWxscywgb3IgdXJpbmFyeSBjb21wbGFpbnRzLgoKT2JqZWN0aXZlOgotIFZpdGFsczogQlAgMTM0LzgyLCBIUiA4MiwgVGVtcCAzNi42QwotIEV4YW06IFdlbGwtaGVhbGVkIGluY2lzaW9uLCBubyB0ZW5kZXJuZXNzIG92ZXIgZ3JhZnQsIG5vIGVkZW1hLgotIExhYnM6IENyZWF0aW5pbmUgMS42IG1nL2RMLCBUYWNyb2xpbXVzIHRyb3VnaCAzLjggbmcvbUwgKHN1YnRoZXJhcGV1dGljKS4KLSBEU0E6IE5lZ2F0aXZlLgotIERvbm9yLWRlcml2ZWQgY2ZETkE6IDAuMzAlICg8MSUgdGhyZXNob2xkKS4KCkFzc2Vzc21lbnQvUGxhbjoKLSBTdGFibGUgZ3JhZnQgZnVuY3Rpb24uCi0gVGFjcm9saW11cyBsZXZlbCBiZWxvdyB0YXJnZXQ7IHBhdGllbnQgY291bnNlbGVkIG9uIHN0cmljdCBhZGhlcmVuY2UgYW5kIGltcG9ydGFuY2Ugb2YgY29uc2lzdGVudCBkb3NpbmcgdGltZXMuCi0gRG9zZSBpbmNyZWFzZWQgdG8gNSBtZyBCSUQuCi0gQ29udGludWUgTU1GIDEgZyBCSUQsIHByZWRuaXNvbmUgMTAgbWcgZGFpbHkuCi0gQ29udGludWUgcHJvcGh5bGF4aXMuCg==", "contentType": "text/plain; charset=utf-8", "title": "encounter-7_document-11.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-9-7-11",
+    "subject": {
+        "reference": "Patient/patient-9"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-9-7"
+    },
+    "date": "2023-12-20",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Clinic Progress Note \u2013 3 months; adherence counseling provided"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "Q2xpbmljIFByb2dyZXNzIE5vdGUg4oCTIDMgbW9udGhzOyBhZGhlcmVuY2UgY291bnNlbGluZyBwcm92aWRlZAoKRGF0ZTogMTIvMjAvMjAyMwoKU3ViamVjdGl2ZTogUGF0aWVudCByZXBvcnRzIGZlZWxpbmcgd2VsbC4gQWRtaXRzIHRvIG9jY2FzaW9uYWxseSBkZWxheWluZyBldmVuaW5nIGRvc2Ugb2YgdGFjcm9saW11cyBieSAy4oCTMyBob3Vycy4gRGVuaWVzIG1pc3NlZCBkb3NlcyB0aGlzIG1vbnRoLiBObyBmZXZlcnMsIGNoaWxscywgb3IgdXJpbmFyeSBjb21wbGFpbnRzLgoKT2JqZWN0aXZlOgotIFZpdGFsczogQlAgMTM0LzgyLCBIUiA4MiwgVGVtcCAzNi42QwotIEV4YW06IFdlbGwtaGVhbGVkIGluY2lzaW9uLCBubyB0ZW5kZXJuZXNzIG92ZXIgZ3JhZnQsIG5vIGVkZW1hLgotIExhYnM6IENyZWF0aW5pbmUgMS42IG1nL2RMLCBUYWNyb2xpbXVzIHRyb3VnaCAzLjggbmcvbUwgKHN1YnRoZXJhcGV1dGljKS4KLSBEU0E6IE5lZ2F0aXZlLgotIERvbm9yLWRlcml2ZWQgY2ZETkE6IDAuMzAlICg8MSUgdGhyZXNob2xkKS4KCkFzc2Vzc21lbnQvUGxhbjoKLSBTdGFibGUgZ3JhZnQgZnVuY3Rpb24uCi0gVGFjcm9saW11cyBsZXZlbCBiZWxvdyB0YXJnZXQ7IHBhdGllbnQgY291bnNlbGVkIG9uIHN0cmljdCBhZGhlcmVuY2UgYW5kIGltcG9ydGFuY2Ugb2YgY29uc2lzdGVudCBkb3NpbmcgdGltZXMuCi0gRG9zZSBpbmNyZWFzZWQgdG8gNSBtZyBCSUQuCi0gQ29udGludWUgTU1GIDEgZyBCSUQsIHByZWRuaXNvbmUgMTAgbWcgZGFpbHkuCi0gQ29udGludWUgcHJvcGh5bGF4aXMuCg==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-9-7-11 (2023-12-20)"
+            }
+        }
+    ]
+}

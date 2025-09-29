@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-6-7-11", "subject": {"reference": "Patient/patient-6"}, "encounter": {"reference": "Encounter/patient-6-7"}, "date": "2024-08-19", "type": {"coding": [{"system": "http://loinc.org", "display": "Transplant clinic visit \u2013 BP elevated; start amlodipine; DSA negative by single antigen bead"}]}, "content": [{"attachment": {"data": "VHJhbnNwbGFudCBDbGluaWMgVmlzaXQg4oCTIEh5cGVydGVuc2lvbiAmIERTQSBNb25pdG9yaW5nCgpQYXRpZW50OiBKb3JkYW4gUmV5ZXMKRGF0ZTogMjAyNC0wOC0xOQoKSW50ZXJ2YWwgSGlzdG9yeToKUGF0aWVudCByZXBvcnRzIGFkaGVyZW5jZSB0byBpbW11bm9zdXBwcmVzc2l2ZSByZWdpbWVuLiBPY2Nhc2lvbmFsIG1pbGQgaGVhZGFjaGVzLiBEZW5pZXMgZmV2ZXIsIGR5c3VyaWEsIGNvdWdoLiBVc2luZyBwaWxsYm94IHJlbGlhYmx5LgoKUGh5c2ljYWwgRXhhbToKQlAgMTUyLzkyLCBIUiA3OCwgVGVtcCAzNi44wrBDCkdlbmVyYWw6IFdlbGwtYXBwZWFyaW5nCkNWOiBSZWd1bGFyIHJoeXRobQpBYmRvbWVuOiBUcmFuc3BsYW50IGluY2lzaW9uIGhlYWxlZApFeHRyZW1pdGllczogVHJhY2UgYW5rbGUgZWRlbWEKCkxhYnM6CkNyZWF0aW5pbmUgMS43IG1nL2RMClRhY3JvbGltdXMgdHJvdWdoIDguMSBuZy9tTApEU0EgdGVzdGluZzogTmVnYXRpdmUgYnkgc2luZ2xlIGFudGlnZW4gYmVhZApDTVYgUENSOiBOZWdhdGl2ZQpCSyBQQ1I6IE5lZ2F0aXZlCgpBc3Nlc3NtZW50L1BsYW46Ci0gU3RhYmxlIGFsbG9ncmFmdCBmdW5jdGlvbgotIEh5cGVydGVuc2lvbiwgaW5hZGVxdWF0ZWx5IGNvbnRyb2xsZWQg4oaSIGluaXRpYXRlIGFtbG9kaXBpbmUgNSBtZyBkYWlseSAoaW4gYWRkaXRpb24gdG8gY3VycmVudCByZWdpbWVuKQotIENvbnRpbnVlIHRhY3JvbGltdXMsIE1NRiwgcHJlZG5pc29uZQotIENvbnRpbnVlIHByb3BoeWxheGlzCi0gTW9uaXRvciBCUCBhdCBob21lLCBsb2cgcmVhZGluZ3MKLSBSZXBlYXQgbGFicyBpbiAyIHdlZWtz", "contentType": "text/plain; charset=utf-8", "title": "encounter-7_document-11.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-6-7-11",
+    "subject": {
+        "reference": "Patient/patient-6"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-6-7"
+    },
+    "date": "2024-08-19",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Transplant clinic visit \u2013 BP elevated; start amlodipine; DSA negative by single antigen bead"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "VHJhbnNwbGFudCBDbGluaWMgVmlzaXQg4oCTIEh5cGVydGVuc2lvbiAmIERTQSBNb25pdG9yaW5nCgpQYXRpZW50OiBKb3JkYW4gUmV5ZXMKRGF0ZTogMjAyNC0wOC0xOQoKSW50ZXJ2YWwgSGlzdG9yeToKUGF0aWVudCByZXBvcnRzIGFkaGVyZW5jZSB0byBpbW11bm9zdXBwcmVzc2l2ZSByZWdpbWVuLiBPY2Nhc2lvbmFsIG1pbGQgaGVhZGFjaGVzLiBEZW5pZXMgZmV2ZXIsIGR5c3VyaWEsIGNvdWdoLiBVc2luZyBwaWxsYm94IHJlbGlhYmx5LgoKUGh5c2ljYWwgRXhhbToKQlAgMTUyLzkyLCBIUiA3OCwgVGVtcCAzNi44wrBDCkdlbmVyYWw6IFdlbGwtYXBwZWFyaW5nCkNWOiBSZWd1bGFyIHJoeXRobQpBYmRvbWVuOiBUcmFuc3BsYW50IGluY2lzaW9uIGhlYWxlZApFeHRyZW1pdGllczogVHJhY2UgYW5rbGUgZWRlbWEKCkxhYnM6CkNyZWF0aW5pbmUgMS43IG1nL2RMClRhY3JvbGltdXMgdHJvdWdoIDguMSBuZy9tTApEU0EgdGVzdGluZzogTmVnYXRpdmUgYnkgc2luZ2xlIGFudGlnZW4gYmVhZApDTVYgUENSOiBOZWdhdGl2ZQpCSyBQQ1I6IE5lZ2F0aXZlCgpBc3Nlc3NtZW50L1BsYW46Ci0gU3RhYmxlIGFsbG9ncmFmdCBmdW5jdGlvbgotIEh5cGVydGVuc2lvbiwgaW5hZGVxdWF0ZWx5IGNvbnRyb2xsZWQg4oaSIGluaXRpYXRlIGFtbG9kaXBpbmUgNSBtZyBkYWlseSAoaW4gYWRkaXRpb24gdG8gY3VycmVudCByZWdpbWVuKQotIENvbnRpbnVlIHRhY3JvbGltdXMsIE1NRiwgcHJlZG5pc29uZQotIENvbnRpbnVlIHByb3BoeWxheGlzCi0gTW9uaXRvciBCUCBhdCBob21lLCBsb2cgcmVhZGluZ3MKLSBSZXBlYXQgbGFicyBpbiAyIHdlZWtz",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-6-7-11 (2024-08-19)"
+            }
+        }
+    ]
+}

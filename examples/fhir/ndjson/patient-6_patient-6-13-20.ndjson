@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-6-13-20", "subject": {"reference": "Patient/patient-6"}, "encounter": {"reference": "Encounter/patient-6-13"}, "date": "2025-01-06", "type": {"coding": [{"system": "http://loinc.org", "display": "Treatment plan \u2013 IVIG 1 g per kg times 2; monitor CMV"}]}, "content": [{"attachment": {"data": "VHJlYXRtZW50IFBsYW4g4oCTIElWSUcKClBhdGllbnQ6IEpvcmRhbiBSZXllcwpEYXRlOiAyMDI1LTAxLTA2CgpJbmRpY2F0aW9uOgpMb3ctbGV2ZWwgZGUgbm92byBEU0EgdG8gRFE3LCBNRkkgMTgwMC4KClBsYW46Ci0gQWRtaW5pc3RlciBJVklHIDEgZy9rZyB4IDIgZG9zZXMsIG9uZSB3ZWVrIGFwYXJ0Ci0gTW9uaXRvciBDTVYgUENSIGR1cmluZyB0aGVyYXB5Ci0gSHlkcmF0aW9uIGFuZCBwcmVtZWRpY2F0aW9uIHdpdGggYWNldGFtaW5vcGhlbi9kaXBoZW5oeWRyYW1pbmUKLSBDb250aW51ZSB0YWNyb2xpbXVzICh0YXJnZXQgdHJvdWdoIDfigJM5KSwgTU1GLCBwcmVkbmlzb25lCi0gUmVjaGVjayBEU0EgYWZ0ZXIgdGhlcmFweQ==", "contentType": "text/plain; charset=utf-8", "title": "encounter-13_document-20.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-6-13-20",
+    "subject": {
+        "reference": "Patient/patient-6"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-6-13"
+    },
+    "date": "2025-01-06",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Treatment plan \u2013 IVIG 1 g per kg times 2; monitor CMV"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "VHJlYXRtZW50IFBsYW4g4oCTIElWSUcKClBhdGllbnQ6IEpvcmRhbiBSZXllcwpEYXRlOiAyMDI1LTAxLTA2CgpJbmRpY2F0aW9uOgpMb3ctbGV2ZWwgZGUgbm92byBEU0EgdG8gRFE3LCBNRkkgMTgwMC4KClBsYW46Ci0gQWRtaW5pc3RlciBJVklHIDEgZy9rZyB4IDIgZG9zZXMsIG9uZSB3ZWVrIGFwYXJ0Ci0gTW9uaXRvciBDTVYgUENSIGR1cmluZyB0aGVyYXB5Ci0gSHlkcmF0aW9uIGFuZCBwcmVtZWRpY2F0aW9uIHdpdGggYWNldGFtaW5vcGhlbi9kaXBoZW5oeWRyYW1pbmUKLSBDb250aW51ZSB0YWNyb2xpbXVzICh0YXJnZXQgdHJvdWdoIDfigJM5KSwgTU1GLCBwcmVkbmlzb25lCi0gUmVjaGVjayBEU0EgYWZ0ZXIgdGhlcmFweQ==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-6-13-20 (2025-01-06)"
+            }
+        }
+    ]
+}

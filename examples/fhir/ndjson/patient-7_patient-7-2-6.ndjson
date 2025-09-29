@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-7-2-6", "subject": {"reference": "Patient/patient-7"}, "encounter": {"reference": "Encounter/patient-7-2"}, "date": "2025-06-04", "type": {"coding": [{"system": "http://loinc.org", "display": "Renal Transplant Ultrasound with Doppler \u2013 patent artery/vein; RI 0.68\u20130.74"}]}, "content": [{"attachment": {"data": "UmVuYWwgVHJhbnNwbGFudCBVbHRyYXNvdW5kIHdpdGggRG9wcGxlciDigJMgcGF0ZW50IGFydGVyeS92ZWluOyBSSSAwLjY44oCTMC43NAoKSW5kaWNhdGlvbjogUE9EIzEgcG9zdCBraWRuZXkgdHJhbnNwbGFudDsgZXZhbHVhdGUgcGVyZnVzaW9uLgoKVGVjaG5pcXVlOiBVbHRyYXNvdW5kIHdpdGggY29sb3IgYW5kIHNwZWN0cmFsIERvcHBsZXIgb2YgdHJhbnNwbGFudCBraWRuZXkgaW4gcmlnaHQgaWxpYWMgZm9zc2EuCgpGaW5kaW5nczoKLSBLaWRuZXkgc2l6ZTogMTEuMiBjbSwgbm9ybWFsIGVjaG9nZW5pY2l0eSwgbm8gaHlkcm9uZXBocm9zaXMuCi0gTWFpbiByZW5hbCBhcnRlcnkgYW5kIHZlaW4gcGF0ZW50IHdpdGggbm9ybWFsIGZsb3cuCi0gUmVzaXN0aXZlIGluZGljZXM6IDAuNjjigJMwLjc0LgotIE5vIHBlcmluZXBocmljIGNvbGxlY3Rpb25zLgoKSW1wcmVzc2lvbjoKTm9ybWFsIHBvc3QtdHJhbnNwbGFudCBhcHBlYXJhbmNlLiBQYXRlbnQgdmVzc2VscyB3aXRoIG5vcm1hbCByZXNpc3RpdmUgaW5kaWNlcy4gTm8gZXZpZGVuY2Ugb2Ygb2JzdHJ1Y3Rpb24gb3IgdmFzY3VsYXIgY29tcHJvbWlzZS4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-2_document-6.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-7-2-6",
+    "subject": {
+        "reference": "Patient/patient-7"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-7-2"
+    },
+    "date": "2025-06-04",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Renal Transplant Ultrasound with Doppler \u2013 patent artery/vein; RI 0.68\u20130.74"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "UmVuYWwgVHJhbnNwbGFudCBVbHRyYXNvdW5kIHdpdGggRG9wcGxlciDigJMgcGF0ZW50IGFydGVyeS92ZWluOyBSSSAwLjY44oCTMC43NAoKSW5kaWNhdGlvbjogUE9EIzEgcG9zdCBraWRuZXkgdHJhbnNwbGFudDsgZXZhbHVhdGUgcGVyZnVzaW9uLgoKVGVjaG5pcXVlOiBVbHRyYXNvdW5kIHdpdGggY29sb3IgYW5kIHNwZWN0cmFsIERvcHBsZXIgb2YgdHJhbnNwbGFudCBraWRuZXkgaW4gcmlnaHQgaWxpYWMgZm9zc2EuCgpGaW5kaW5nczoKLSBLaWRuZXkgc2l6ZTogMTEuMiBjbSwgbm9ybWFsIGVjaG9nZW5pY2l0eSwgbm8gaHlkcm9uZXBocm9zaXMuCi0gTWFpbiByZW5hbCBhcnRlcnkgYW5kIHZlaW4gcGF0ZW50IHdpdGggbm9ybWFsIGZsb3cuCi0gUmVzaXN0aXZlIGluZGljZXM6IDAuNjjigJMwLjc0LgotIE5vIHBlcmluZXBocmljIGNvbGxlY3Rpb25zLgoKSW1wcmVzc2lvbjoKTm9ybWFsIHBvc3QtdHJhbnNwbGFudCBhcHBlYXJhbmNlLiBQYXRlbnQgdmVzc2VscyB3aXRoIG5vcm1hbCByZXNpc3RpdmUgaW5kaWNlcy4gTm8gZXZpZGVuY2Ugb2Ygb2JzdHJ1Y3Rpb24gb3IgdmFzY3VsYXIgY29tcHJvbWlzZS4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-7-2-6 (2025-06-04)"
+            }
+        }
+    ]
+}

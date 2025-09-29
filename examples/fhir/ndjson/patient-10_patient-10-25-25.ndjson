@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-10-25-25", "subject": {"reference": "Patient/patient-10"}, "encounter": {"reference": "Encounter/patient-10-25"}, "date": "2025-08-20", "type": {"coding": [{"system": "http://loinc.org", "display": "Transplant Clinic Note \u2013 Pre-dialysis planning, outside notes unavailable"}]}, "content": [{"attachment": {"data": "VHJhbnNwbGFudCBDbGluaWMgTm90ZSDigJMgMjAyNS0wOC0yMApJbnRlcnZhbCBoaXN0b3J5OiBQYXRpZW50IHJlcG9ydHMgaW5jcmVhc2luZyBmYXRpZ3VlLiBQcmVwYXJpbmcgZm9yIHBvc3NpYmxlIGRpYWx5c2lzIHJlc3RhcnQuCkV4YW06IEJQIDE1NS85NiwgdHJhY2UgZWRlbWEuCkxhYnM6IGVHRlIgMTggbUwvbWluLiBDcmVhdGluaW5lIDMuOSBtZy9kTC4gVGFjcm9saW11cyB0cm91Z2ggMy4xIG5nL21MLgpBc3Nlc3NtZW50OiBBZHZhbmNlZCBjaHJvbmljIGFsbG9ncmFmdCBkeXNmdW5jdGlvbiBmcm9tIEFNUiwgbmVhcmluZyBncmFmdCBmYWlsdXJlLgpQbGFuOiBSZWZlciBmb3IgZmlzdHVsYSBwbGFjZW1lbnQuIENvbnRpbnVlIGxvdy1kb3NlIGltbXVub3N1cHByZXNzaW9uIHBlbmRpbmcgcmV0cmFuc3BsYW50IGV2YWx1YXRpb24uIE91dHNpZGUgbmVwaHJvbG9neSBub3RlcyB1bmF2YWlsYWJsZS4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-25_document-25.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-10-25-25",
+    "subject": {
+        "reference": "Patient/patient-10"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-10-25"
+    },
+    "date": "2025-08-20",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Transplant Clinic Note \u2013 Pre-dialysis planning, outside notes unavailable"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "VHJhbnNwbGFudCBDbGluaWMgTm90ZSDigJMgMjAyNS0wOC0yMApJbnRlcnZhbCBoaXN0b3J5OiBQYXRpZW50IHJlcG9ydHMgaW5jcmVhc2luZyBmYXRpZ3VlLiBQcmVwYXJpbmcgZm9yIHBvc3NpYmxlIGRpYWx5c2lzIHJlc3RhcnQuCkV4YW06IEJQIDE1NS85NiwgdHJhY2UgZWRlbWEuCkxhYnM6IGVHRlIgMTggbUwvbWluLiBDcmVhdGluaW5lIDMuOSBtZy9kTC4gVGFjcm9saW11cyB0cm91Z2ggMy4xIG5nL21MLgpBc3Nlc3NtZW50OiBBZHZhbmNlZCBjaHJvbmljIGFsbG9ncmFmdCBkeXNmdW5jdGlvbiBmcm9tIEFNUiwgbmVhcmluZyBncmFmdCBmYWlsdXJlLgpQbGFuOiBSZWZlciBmb3IgZmlzdHVsYSBwbGFjZW1lbnQuIENvbnRpbnVlIGxvdy1kb3NlIGltbXVub3N1cHByZXNzaW9uIHBlbmRpbmcgcmV0cmFuc3BsYW50IGV2YWx1YXRpb24uIE91dHNpZGUgbmVwaHJvbG9neSBub3RlcyB1bmF2YWlsYWJsZS4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-10-25-25 (2025-08-20)"
+            }
+        }
+    ]
+}

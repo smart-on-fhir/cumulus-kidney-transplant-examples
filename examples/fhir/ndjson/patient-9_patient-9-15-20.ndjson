@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-9-15-20", "subject": {"reference": "Patient/patient-9"}, "encounter": {"reference": "Encounter/patient-9-15"}, "date": "2025-08-27", "type": {"coding": [{"system": "http://loinc.org", "display": "Annual Transplant Visit \u2013 24 months; preventive care and long-term monitoring"}]}, "content": [{"attachment": {"data": "QW5udWFsIFRyYW5zcGxhbnQgVmlzaXQg4oCTIDI0IG1vbnRoczsgcHJldmVudGl2ZSBjYXJlIGFuZCBsb25nLXRlcm0gbW9uaXRvcmluZwoKRGF0ZTogOC8yNy8yMDI1CgpTdWJqZWN0aXZlOiBQYXRpZW50IHJlcG9ydHMgZXhjZWxsZW50IGFkaGVyZW5jZS4gTm8gaG9zcGl0YWxpemF0aW9ucy4gUmVjZWl2ZWQgQ09WSUQgYm9vc3RlciBhbmQgcG5ldW1vY29jY2FsIHZhY2NpbmUuCgpPYmplY3RpdmU6Ci0gVml0YWxzOiBCUCAxMzAvNzgsIEhSIDcyLCBUZW1wIDM2LjdDCi0gRXhhbTogTm9ybWFsLCBncmFmdCBub250ZW5kZXIuCi0gTGFiczogQ3JlYXRpbmluZSAxLjYgbWcvZEwsIFRhY3JvbGltdXMgdHJvdWdoIDYuMSBuZy9tTC4KLSBEU0E6IE5lZ2F0aXZlLgotIFVyaW5lIHByb3RlaW4vQ3IgcmF0aW8gMC4xNC4KCkFzc2Vzc21lbnQvUGxhbjoKLSBTdGFibGUga2lkbmV5IGFsbG9ncmFmdCBhdCAyIHllYXJzLgotIEltbXVub3N1cHByZXNzaW9uOiBDb250aW51ZSB0YWNyb2xpbXVzIDYgbWcgQklELCBNTUYgMSBnIEJJRCwgcHJlZG5pc29uZSA1IG1nIGRhaWx5LgotIFByZXZlbnRpdmUgY2FyZSB1cCB0byBkYXRlLgotIE5leHQgYW5udWFsIHN1cnZlaWxsYW5jZSBiaW9wc3kgcGxhbm5lZCBhdCAzIHllYXJzIHBvc3QtdHJhbnNwbGFudC4KLSBDb250aW51ZSBxdWFydGVybHkgbGFicyBhbmQgY2xpbmljIHZpc2l0cy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-15_document-20.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-9-15-20",
+    "subject": {
+        "reference": "Patient/patient-9"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-9-15"
+    },
+    "date": "2025-08-27",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Annual Transplant Visit \u2013 24 months; preventive care and long-term monitoring"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "QW5udWFsIFRyYW5zcGxhbnQgVmlzaXQg4oCTIDI0IG1vbnRoczsgcHJldmVudGl2ZSBjYXJlIGFuZCBsb25nLXRlcm0gbW9uaXRvcmluZwoKRGF0ZTogOC8yNy8yMDI1CgpTdWJqZWN0aXZlOiBQYXRpZW50IHJlcG9ydHMgZXhjZWxsZW50IGFkaGVyZW5jZS4gTm8gaG9zcGl0YWxpemF0aW9ucy4gUmVjZWl2ZWQgQ09WSUQgYm9vc3RlciBhbmQgcG5ldW1vY29jY2FsIHZhY2NpbmUuCgpPYmplY3RpdmU6Ci0gVml0YWxzOiBCUCAxMzAvNzgsIEhSIDcyLCBUZW1wIDM2LjdDCi0gRXhhbTogTm9ybWFsLCBncmFmdCBub250ZW5kZXIuCi0gTGFiczogQ3JlYXRpbmluZSAxLjYgbWcvZEwsIFRhY3JvbGltdXMgdHJvdWdoIDYuMSBuZy9tTC4KLSBEU0E6IE5lZ2F0aXZlLgotIFVyaW5lIHByb3RlaW4vQ3IgcmF0aW8gMC4xNC4KCkFzc2Vzc21lbnQvUGxhbjoKLSBTdGFibGUga2lkbmV5IGFsbG9ncmFmdCBhdCAyIHllYXJzLgotIEltbXVub3N1cHByZXNzaW9uOiBDb250aW51ZSB0YWNyb2xpbXVzIDYgbWcgQklELCBNTUYgMSBnIEJJRCwgcHJlZG5pc29uZSA1IG1nIGRhaWx5LgotIFByZXZlbnRpdmUgY2FyZSB1cCB0byBkYXRlLgotIE5leHQgYW5udWFsIHN1cnZlaWxsYW5jZSBiaW9wc3kgcGxhbm5lZCBhdCAzIHllYXJzIHBvc3QtdHJhbnNwbGFudC4KLSBDb250aW51ZSBxdWFydGVybHkgbGFicyBhbmQgY2xpbmljIHZpc2l0cy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-9-15-20 (2025-08-27)"
+            }
+        }
+    ]
+}

@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-4-1-1", "subject": {"reference": "Patient/patient-4"}, "encounter": {"reference": "Encounter/patient-4-1"}, "date": "2025-06-10", "type": {"coding": [{"system": "http://loinc.org", "display": "Pre-Op History & Physical \u2014 ESRD due to T2DM; transplant consent obtained"}]}, "content": [{"attachment": {"data": "UHJlLU9wZXJhdGl2ZSBIaXN0b3J5ICYgUGh5c2ljYWwKUGF0aWVudDogQW50aG9ueSBEZWxnYWRvCk1STjogW1JlZGFjdGVkXQpEYXRlOiAyMDI1LTA2LTEwCkF0dGVuZGluZzogRHIuIFNtaXRoLCBUcmFuc3BsYW50IFN1cmdlcnkKCkNoaWVmIENvbXBsYWludDoKRW5kLXN0YWdlIHJlbmFsIGRpc2Vhc2Ugc2Vjb25kYXJ5IHRvIHR5cGUgMiBkaWFiZXRlcyBtZWxsaXR1cywgcHJlc2VudGluZyBmb3Iga2lkbmV5IHRyYW5zcGxhbnQgZXZhbHVhdGlvbi4KCkhpc3Rvcnkgb2YgUHJlc2VudCBJbGxuZXNzOgpNci4gRGVsZ2FkbyBpcyBhIDU3LXllYXItb2xkIG1hbGUgd2l0aCBhIDIwLXllYXIgaGlzdG9yeSBvZiBwb29ybHkgY29udHJvbGxlZCB0eXBlIDIgZGlhYmV0ZXMgY29tcGxpY2F0ZWQgYnkgcmV0aW5vcGF0aHksIG5ldXJvcGF0aHksIGFuZCBuZXBocm9wYXRoeS4gSGUgaGFzIGJlZW4gb24gaGVtb2RpYWx5c2lzIGZvciAzIHllYXJzLCB0aHJlZSB0aW1lcyB3ZWVrbHkuIEhlIHByZXNlbnRzIHRvZGF5IGZvciBwcmUtb3BlcmF0aXZlIGV2YWx1YXRpb24gaW4gYW50aWNpcGF0aW9uIG9mIGEgZGVjZWFzZWQgZG9ub3Iga2lkbmV5IHRyYW5zcGxhbnQgc2NoZWR1bGVkIGZvciB0b21vcnJvdy4gSGUgcmVwb3J0cyBmYXRpZ3VlIGFuZCBwcnVyaXR1cyBidXQgZGVuaWVzIGNoZXN0IHBhaW4gb3Igc2hvcnRuZXNzIG9mIGJyZWF0aC4gTm8gYWN0aXZlIGluZmVjdGlvbnMuIExhc3QgZGlhbHlzaXMgd2FzIHllc3RlcmRheS4KClBhc3QgTWVkaWNhbCBIaXN0b3J5OgotIFR5cGUgMiBkaWFiZXRlcyBtZWxsaXR1cywgaW5zdWxpbiBkZXBlbmRlbnQKLSBIeXBlcnRlbnNpb24KLSBIeXBlcmxpcGlkZW1pYQotIERpYWJldGljIHJldGlub3BhdGh5Ci0gRVNSRCBvbiBoZW1vZGlhbHlzaXMKClBhc3QgU3VyZ2ljYWwgSGlzdG9yeToKLSBBViBmaXN0dWxhIGNyZWF0aW9uLCAyMDIyCi0gQ2F0YXJhY3QgZXh0cmFjdGlvbiwgbGVmdCBleWUKCk1lZGljYXRpb25zOgotIEluc3VsaW4gZ2xhcmdpbmUgMjAgdW5pdHMgcUhTCi0gSW5zdWxpbiBsaXNwcm8gd2l0aCBtZWFscyAoc2xpZGluZyBzY2FsZSkKLSBBbWxvZGlwaW5lIDEwIG1nIGRhaWx5Ci0gQXRvcnZhc3RhdGluIDQwIG1nIG5pZ2h0bHkKLSBTZXZlbGFtZXIgODAwIG1nIFRJRCB3aXRoIG1lYWxzCgpBbGxlcmdpZXM6Ci0gTktEQQoKUGh5c2ljYWwgRXhhbToKVml0YWwgc2lnbnMgc3RhYmxlLiBMdW5ncyBjbGVhci4gQ2FyZGlhYyBleGFtIHJlZ3VsYXIgcmh5dGhtLiBBYmRvbWVuIHNvZnQsIG5vbi10ZW5kZXIuIEFWIGZpc3R1bGEgaW4gbGVmdCBhcm0gd2l0aCBnb29kIHRocmlsbC4KCkxhYnM6CkNyIDcuOCBtZy9kTCwgQlVOIDY1IG1nL2RMLCBIYkExYyA4LjIlLCBLIDQuOSBtbW9sL0wuIExGVHMgd2l0aGluIG5vcm1hbCBsaW1pdHMuCgpBc3Nlc3NtZW50Ogo1N00gd2l0aCBFU1JEIHNlY29uZGFyeSB0byBkaWFiZXRpYyBuZXBocm9wYXRoeSwgY2xlYXJlZCBmb3Iga2lkbmV5IHRyYW5zcGxhbnRhdGlvbi4KClBsYW46ClByb2NlZWQgd2l0aCBkZWNlYXNlZCBkb25vciBraWRuZXkgdHJhbnNwbGFudCBvbiAyMDI1LTA2LTExLiBQYXRpZW50IGNvbnNlbnQgb2J0YWluZWQgYWZ0ZXIgZGlzY3Vzc2lvbiBvZiByaXNrcyBpbmNsdWRpbmcgaW5mZWN0aW9uLCByZWplY3Rpb24sIGFuZCBpbW11bm9zdXBwcmVzc2lvbiBzaWRlIGVmZmVjdHMuCg==", "contentType": "text/plain; charset=utf-8", "title": "encounter-1_document-1.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-4-1-1",
+    "subject": {
+        "reference": "Patient/patient-4"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-4-1"
+    },
+    "date": "2025-06-10",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Pre-Op History & Physical \u2014 ESRD due to T2DM; transplant consent obtained"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "UHJlLU9wZXJhdGl2ZSBIaXN0b3J5ICYgUGh5c2ljYWwKUGF0aWVudDogQW50aG9ueSBEZWxnYWRvCk1STjogW1JlZGFjdGVkXQpEYXRlOiAyMDI1LTA2LTEwCkF0dGVuZGluZzogRHIuIFNtaXRoLCBUcmFuc3BsYW50IFN1cmdlcnkKCkNoaWVmIENvbXBsYWludDoKRW5kLXN0YWdlIHJlbmFsIGRpc2Vhc2Ugc2Vjb25kYXJ5IHRvIHR5cGUgMiBkaWFiZXRlcyBtZWxsaXR1cywgcHJlc2VudGluZyBmb3Iga2lkbmV5IHRyYW5zcGxhbnQgZXZhbHVhdGlvbi4KCkhpc3Rvcnkgb2YgUHJlc2VudCBJbGxuZXNzOgpNci4gRGVsZ2FkbyBpcyBhIDU3LXllYXItb2xkIG1hbGUgd2l0aCBhIDIwLXllYXIgaGlzdG9yeSBvZiBwb29ybHkgY29udHJvbGxlZCB0eXBlIDIgZGlhYmV0ZXMgY29tcGxpY2F0ZWQgYnkgcmV0aW5vcGF0aHksIG5ldXJvcGF0aHksIGFuZCBuZXBocm9wYXRoeS4gSGUgaGFzIGJlZW4gb24gaGVtb2RpYWx5c2lzIGZvciAzIHllYXJzLCB0aHJlZSB0aW1lcyB3ZWVrbHkuIEhlIHByZXNlbnRzIHRvZGF5IGZvciBwcmUtb3BlcmF0aXZlIGV2YWx1YXRpb24gaW4gYW50aWNpcGF0aW9uIG9mIGEgZGVjZWFzZWQgZG9ub3Iga2lkbmV5IHRyYW5zcGxhbnQgc2NoZWR1bGVkIGZvciB0b21vcnJvdy4gSGUgcmVwb3J0cyBmYXRpZ3VlIGFuZCBwcnVyaXR1cyBidXQgZGVuaWVzIGNoZXN0IHBhaW4gb3Igc2hvcnRuZXNzIG9mIGJyZWF0aC4gTm8gYWN0aXZlIGluZmVjdGlvbnMuIExhc3QgZGlhbHlzaXMgd2FzIHllc3RlcmRheS4KClBhc3QgTWVkaWNhbCBIaXN0b3J5OgotIFR5cGUgMiBkaWFiZXRlcyBtZWxsaXR1cywgaW5zdWxpbiBkZXBlbmRlbnQKLSBIeXBlcnRlbnNpb24KLSBIeXBlcmxpcGlkZW1pYQotIERpYWJldGljIHJldGlub3BhdGh5Ci0gRVNSRCBvbiBoZW1vZGlhbHlzaXMKClBhc3QgU3VyZ2ljYWwgSGlzdG9yeToKLSBBViBmaXN0dWxhIGNyZWF0aW9uLCAyMDIyCi0gQ2F0YXJhY3QgZXh0cmFjdGlvbiwgbGVmdCBleWUKCk1lZGljYXRpb25zOgotIEluc3VsaW4gZ2xhcmdpbmUgMjAgdW5pdHMgcUhTCi0gSW5zdWxpbiBsaXNwcm8gd2l0aCBtZWFscyAoc2xpZGluZyBzY2FsZSkKLSBBbWxvZGlwaW5lIDEwIG1nIGRhaWx5Ci0gQXRvcnZhc3RhdGluIDQwIG1nIG5pZ2h0bHkKLSBTZXZlbGFtZXIgODAwIG1nIFRJRCB3aXRoIG1lYWxzCgpBbGxlcmdpZXM6Ci0gTktEQQoKUGh5c2ljYWwgRXhhbToKVml0YWwgc2lnbnMgc3RhYmxlLiBMdW5ncyBjbGVhci4gQ2FyZGlhYyBleGFtIHJlZ3VsYXIgcmh5dGhtLiBBYmRvbWVuIHNvZnQsIG5vbi10ZW5kZXIuIEFWIGZpc3R1bGEgaW4gbGVmdCBhcm0gd2l0aCBnb29kIHRocmlsbC4KCkxhYnM6CkNyIDcuOCBtZy9kTCwgQlVOIDY1IG1nL2RMLCBIYkExYyA4LjIlLCBLIDQuOSBtbW9sL0wuIExGVHMgd2l0aGluIG5vcm1hbCBsaW1pdHMuCgpBc3Nlc3NtZW50Ogo1N00gd2l0aCBFU1JEIHNlY29uZGFyeSB0byBkaWFiZXRpYyBuZXBocm9wYXRoeSwgY2xlYXJlZCBmb3Iga2lkbmV5IHRyYW5zcGxhbnRhdGlvbi4KClBsYW46ClByb2NlZWQgd2l0aCBkZWNlYXNlZCBkb25vciBraWRuZXkgdHJhbnNwbGFudCBvbiAyMDI1LTA2LTExLiBQYXRpZW50IGNvbnNlbnQgb2J0YWluZWQgYWZ0ZXIgZGlzY3Vzc2lvbiBvZiByaXNrcyBpbmNsdWRpbmcgaW5mZWN0aW9uLCByZWplY3Rpb24sIGFuZCBpbW11bm9zdXBwcmVzc2lvbiBzaWRlIGVmZmVjdHMuCg==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-4-1-1 (2025-06-10)"
+            }
+        }
+    ]
+}

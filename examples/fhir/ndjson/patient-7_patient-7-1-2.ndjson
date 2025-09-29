@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-7-1-2", "subject": {"reference": "Patient/patient-7"}, "encounter": {"reference": "Encounter/patient-7-1"}, "date": "2025-06-03", "type": {"coding": [{"system": "http://loinc.org", "display": "Transplant Surgery Operative Note \u2013 Living Donor Kidney Transplant (right iliac fossa)"}]}, "content": [{"attachment": {"data": "VHJhbnNwbGFudCBTdXJnZXJ5IE9wZXJhdGl2ZSBOb3RlIOKAkyBMaXZpbmcgRG9ub3IgS2lkbmV5IFRyYW5zcGxhbnQgKHJpZ2h0IGlsaWFjIGZvc3NhKQoKRGF0ZSBvZiBPcGVyYXRpb246IDA2LzAzLzIwMjUKU3VyZ2VvbjogRHIuIFBhdGVsCkFzc2lzdGFudHM6IERyLiBOZ3V5ZW4sIERyLiBDbGFya2UKQW5lc3RoZXNpYTogR2VuZXJhbCBlbmRvdHJhY2hlYWwKClByZS1vcCBEaWFnbm9zaXM6IEVTUkQgZHVlIHRvIEFEUEtEClBvc3Qtb3AgRGlhZ25vc2lzOiBTYW1lCgpQcm9jZWR1cmU6IExpdmluZyBkb25vciBraWRuZXkgdHJhbnNwbGFudCwgcmlnaHQgaWxpYWMgZm9zc2EKCkRldGFpbHM6CkRvbm9yIGxlZnQga2lkbmV5IHByZXBhcmVkIGFuZCBmbHVzaGVkIHdpdGggcHJlc2VydmF0aW9uIHNvbHV0aW9uLiBSZWNpcGllbnQgcGxhY2VkIHN1cGluZSwgcmlnaHQgbG93ZXIgcXVhZHJhbnQgaW5jaXNpb24gbWFkZS4gRXh0ZXJuYWwgaWxpYWMgYXJ0ZXJ5IGFuZCB2ZWluIGRpc3NlY3RlZC4gVmFzY3VsYXIgYW5hc3RvbW9zZXMgY29tcGxldGVkIGVuZC10by1zaWRlIHdpdGggNi0wIFByb2xlbmUuIFJlcGVyZnVzaW9uIGFjaGlldmVkIHdpdGggaW1tZWRpYXRlIGJyaXNrIGRpdXJlc2lzIG5vdGVkLiBVcmV0ZXJvbmVvY3lzdG9zdG9teSBwZXJmb3JtZWQgd2l0aCBkb3VibGUtSiB1cmV0ZXJhbCBzdGVudCBwbGFjZW1lbnQuIEhlbW9zdGFzaXMgc2VjdXJlZC4gV291bmQgY2xvc2VkIGluIGxheWVycy4KCkZpbmRpbmdzOgotIERvbm9yIGtpZG5leSB3aXRoIHNpbmdsZSBhcnRlcnkgYW5kIHZlaW4sIGV4Y2VsbGVudCBxdWFsaXR5LgotIEdvb2QgcGVyZnVzaW9uIHBvc3QtcmVwZXJmdXNpb24uCi0gRXN0aW1hdGVkIGJsb29kIGxvc3MgMTUwIG1MLgoKQ29tcGxpY2F0aW9uczogTm9uZS4KCkRpc3Bvc2l0aW9uOgpTdGFibGUsIGV4dHViYXRlZCwgdHJhbnNmZXJyZWQgdG8gU0lDVSBmb3IgbW9uaXRvcmluZy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-1_document-2.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-7-1-2",
+    "subject": {
+        "reference": "Patient/patient-7"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-7-1"
+    },
+    "date": "2025-06-03",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Transplant Surgery Operative Note \u2013 Living Donor Kidney Transplant (right iliac fossa)"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "VHJhbnNwbGFudCBTdXJnZXJ5IE9wZXJhdGl2ZSBOb3RlIOKAkyBMaXZpbmcgRG9ub3IgS2lkbmV5IFRyYW5zcGxhbnQgKHJpZ2h0IGlsaWFjIGZvc3NhKQoKRGF0ZSBvZiBPcGVyYXRpb246IDA2LzAzLzIwMjUKU3VyZ2VvbjogRHIuIFBhdGVsCkFzc2lzdGFudHM6IERyLiBOZ3V5ZW4sIERyLiBDbGFya2UKQW5lc3RoZXNpYTogR2VuZXJhbCBlbmRvdHJhY2hlYWwKClByZS1vcCBEaWFnbm9zaXM6IEVTUkQgZHVlIHRvIEFEUEtEClBvc3Qtb3AgRGlhZ25vc2lzOiBTYW1lCgpQcm9jZWR1cmU6IExpdmluZyBkb25vciBraWRuZXkgdHJhbnNwbGFudCwgcmlnaHQgaWxpYWMgZm9zc2EKCkRldGFpbHM6CkRvbm9yIGxlZnQga2lkbmV5IHByZXBhcmVkIGFuZCBmbHVzaGVkIHdpdGggcHJlc2VydmF0aW9uIHNvbHV0aW9uLiBSZWNpcGllbnQgcGxhY2VkIHN1cGluZSwgcmlnaHQgbG93ZXIgcXVhZHJhbnQgaW5jaXNpb24gbWFkZS4gRXh0ZXJuYWwgaWxpYWMgYXJ0ZXJ5IGFuZCB2ZWluIGRpc3NlY3RlZC4gVmFzY3VsYXIgYW5hc3RvbW9zZXMgY29tcGxldGVkIGVuZC10by1zaWRlIHdpdGggNi0wIFByb2xlbmUuIFJlcGVyZnVzaW9uIGFjaGlldmVkIHdpdGggaW1tZWRpYXRlIGJyaXNrIGRpdXJlc2lzIG5vdGVkLiBVcmV0ZXJvbmVvY3lzdG9zdG9teSBwZXJmb3JtZWQgd2l0aCBkb3VibGUtSiB1cmV0ZXJhbCBzdGVudCBwbGFjZW1lbnQuIEhlbW9zdGFzaXMgc2VjdXJlZC4gV291bmQgY2xvc2VkIGluIGxheWVycy4KCkZpbmRpbmdzOgotIERvbm9yIGtpZG5leSB3aXRoIHNpbmdsZSBhcnRlcnkgYW5kIHZlaW4sIGV4Y2VsbGVudCBxdWFsaXR5LgotIEdvb2QgcGVyZnVzaW9uIHBvc3QtcmVwZXJmdXNpb24uCi0gRXN0aW1hdGVkIGJsb29kIGxvc3MgMTUwIG1MLgoKQ29tcGxpY2F0aW9uczogTm9uZS4KCkRpc3Bvc2l0aW9uOgpTdGFibGUsIGV4dHViYXRlZCwgdHJhbnNmZXJyZWQgdG8gU0lDVSBmb3IgbW9uaXRvcmluZy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-7-1-2 (2025-06-03)"
+            }
+        }
+    ]
+}

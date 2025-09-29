@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-5-3-7", "subject": {"reference": "Patient/patient-5"}, "encounter": {"reference": "Encounter/patient-5-3"}, "date": "2025-06-02", "type": {"coding": [{"system": "http://loinc.org", "display": "Nursing Discharge Teaching drain care wound care warning signs reviewed"}]}, "content": [{"attachment": {"data": "RW5jb3VudGVyIDMgLSBEb2N1bWVudCA3OiBOdXJzaW5nIERpc2NoYXJnZSBUZWFjaGluZwoKUmV2aWV3ZWQgd291bmQgY2FyZToga2VlcCBpbmNpc2lvbiBjbGVhbi9kcnksIHJlcG9ydCByZWRuZXNzL2RyYWluYWdlLiBSZXZpZXdlZCBKUCBkcmFpbiBjYXJlIChlbXB0eSBxOGgsIHJlY29yZCBvdXRwdXQpLiBUYXVnaHQgcy9zIGluZmVjdGlvbiBhbmQgcmVqZWN0aW9uLiBQYXRpZW50IGFuZCBzcG91c2UgZGVtb25zdHJhdGVkIHByb3BlciBtZWRpY2F0aW9uIHNldHVwIGluIHBpbGxib3guIFByb3ZpZGVkIGNvbnRhY3QgaW5mbyBmb3IgMjRoIHRyYW5zcGxhbnQgbnVyc2UgbGluZS4=", "contentType": "text/plain; charset=utf-8", "title": "encounter-3_document-7.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-5-3-7",
+    "subject": {
+        "reference": "Patient/patient-5"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-5-3"
+    },
+    "date": "2025-06-02",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Nursing Discharge Teaching drain care wound care warning signs reviewed"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "RW5jb3VudGVyIDMgLSBEb2N1bWVudCA3OiBOdXJzaW5nIERpc2NoYXJnZSBUZWFjaGluZwoKUmV2aWV3ZWQgd291bmQgY2FyZToga2VlcCBpbmNpc2lvbiBjbGVhbi9kcnksIHJlcG9ydCByZWRuZXNzL2RyYWluYWdlLiBSZXZpZXdlZCBKUCBkcmFpbiBjYXJlIChlbXB0eSBxOGgsIHJlY29yZCBvdXRwdXQpLiBUYXVnaHQgcy9zIGluZmVjdGlvbiBhbmQgcmVqZWN0aW9uLiBQYXRpZW50IGFuZCBzcG91c2UgZGVtb25zdHJhdGVkIHByb3BlciBtZWRpY2F0aW9uIHNldHVwIGluIHBpbGxib3guIFByb3ZpZGVkIGNvbnRhY3QgaW5mbyBmb3IgMjRoIHRyYW5zcGxhbnQgbnVyc2UgbGluZS4=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-5-3-7 (2025-06-02)"
+            }
+        }
+    ]
+}

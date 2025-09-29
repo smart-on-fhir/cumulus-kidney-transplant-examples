@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-5-8-16", "subject": {"reference": "Patient/patient-5"}, "encounter": {"reference": "Encounter/patient-5-8"}, "date": "2025-07-24", "type": {"coding": [{"system": "http://loinc.org", "display": "Transplant Clinic Acute Visit mild creatinine rise tacrolimus supratherapeutic"}]}, "content": [{"attachment": {"data": "RW5jb3VudGVyIDggLSBEb2N1bWVudCAxNjogQWN1dGUgQ2xpbmljIFZpc2l0CgpQcmVzZW50YXRpb246IENhbGxlZCBjbGluaWMgZm9yIG1pbGQgcmlzZSBpbiBjcmVhdGluaW5lICgxLjYgdG8gMi4xKS4gVGFjcm9saW11cyB0cm91Z2ggMTQuNS4gTm8gZmV2ZXIsIHVyaW5lIG91dHB1dCBzdGFibGUuCkV4YW06IEJQIDE0OC85MiwgaW5jaXNpb24gd2VsbCBoZWFsZWQuCkFzc2Vzc21lbnQ6IExpa2VseSB0YWNyb2xpbXVzIG5lcGhyb3RveGljaXR5LgpQbGFuOiBSZWR1Y2UgdGFjcm9saW11cyBkb3NlLCByZXBlYXQgbGFicyBpbiA0OGguIFJlbmFsIHVsdHJhc291bmQgb3JkZXJlZC4=", "contentType": "text/plain; charset=utf-8", "title": "encounter-8_document-16.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-5-8-16",
+    "subject": {
+        "reference": "Patient/patient-5"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-5-8"
+    },
+    "date": "2025-07-24",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Transplant Clinic Acute Visit mild creatinine rise tacrolimus supratherapeutic"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "RW5jb3VudGVyIDggLSBEb2N1bWVudCAxNjogQWN1dGUgQ2xpbmljIFZpc2l0CgpQcmVzZW50YXRpb246IENhbGxlZCBjbGluaWMgZm9yIG1pbGQgcmlzZSBpbiBjcmVhdGluaW5lICgxLjYgdG8gMi4xKS4gVGFjcm9saW11cyB0cm91Z2ggMTQuNS4gTm8gZmV2ZXIsIHVyaW5lIG91dHB1dCBzdGFibGUuCkV4YW06IEJQIDE0OC85MiwgaW5jaXNpb24gd2VsbCBoZWFsZWQuCkFzc2Vzc21lbnQ6IExpa2VseSB0YWNyb2xpbXVzIG5lcGhyb3RveGljaXR5LgpQbGFuOiBSZWR1Y2UgdGFjcm9saW11cyBkb3NlLCByZXBlYXQgbGFicyBpbiA0OGguIFJlbmFsIHVsdHJhc291bmQgb3JkZXJlZC4=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-5-8-16 (2025-07-24)"
+            }
+        }
+    ]
+}

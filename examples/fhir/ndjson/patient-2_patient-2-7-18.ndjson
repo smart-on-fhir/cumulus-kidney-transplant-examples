@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-2-7-18", "subject": {"reference": "Patient/patient-2"}, "encounter": {"reference": "Encounter/patient-2-7"}, "date": "2025-07-03", "type": {"coding": [{"system": "http://loinc.org", "display": "Nutrition & Medication Adherence Counseling \u2013 growth parameters; missed doses: 0"}]}, "content": [{"attachment": {"data": "TnV0cml0aW9uICYgTWVkaWNhdGlvbiBBZGhlcmVuY2UgQ291bnNlbGluZwoKRGF0ZTogMjAyNS0wNy0wMwoKTnV0cml0aW9uOiBHcm93dGggcGFyYW1ldGVycyBhcHByb3ByaWF0ZS4gQk1JIGF0IDUwdGggcGVyY2VudGlsZS4gQXBwZXRpdGUgaW1wcm92ZWQuCgpBZGhlcmVuY2U6IFBhcmVudHMgYW5kIHBhdGllbnQgcmVwb3J0IDEwMCUgYWRoZXJlbmNlLiBSZXZpZXdlZCB1c2Ugb2YgcGlsbGJveCBhbmQgYWxhcm1zLiBObyBtaXNzZWQgZG9zZXMgcmVwb3J0ZWQuCgpFZHVjYXRpb24gcmVpbmZvcmNlZCBvbiB0aGUgaW1wb3J0YW5jZSBvZiBtZWRpY2F0aW9uIHRpbWluZyBhbmQgYXZvaWRpbmcgZHJ1Zy1mb29kIGludGVyYWN0aW9ucy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-7_document-18.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-2-7-18",
+    "subject": {
+        "reference": "Patient/patient-2"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-2-7"
+    },
+    "date": "2025-07-03",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Nutrition & Medication Adherence Counseling \u2013 growth parameters; missed doses: 0"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "TnV0cml0aW9uICYgTWVkaWNhdGlvbiBBZGhlcmVuY2UgQ291bnNlbGluZwoKRGF0ZTogMjAyNS0wNy0wMwoKTnV0cml0aW9uOiBHcm93dGggcGFyYW1ldGVycyBhcHByb3ByaWF0ZS4gQk1JIGF0IDUwdGggcGVyY2VudGlsZS4gQXBwZXRpdGUgaW1wcm92ZWQuCgpBZGhlcmVuY2U6IFBhcmVudHMgYW5kIHBhdGllbnQgcmVwb3J0IDEwMCUgYWRoZXJlbmNlLiBSZXZpZXdlZCB1c2Ugb2YgcGlsbGJveCBhbmQgYWxhcm1zLiBObyBtaXNzZWQgZG9zZXMgcmVwb3J0ZWQuCgpFZHVjYXRpb24gcmVpbmZvcmNlZCBvbiB0aGUgaW1wb3J0YW5jZSBvZiBtZWRpY2F0aW9uIHRpbWluZyBhbmQgYXZvaWRpbmcgZHJ1Zy1mb29kIGludGVyYWN0aW9ucy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-2-7-18 (2025-07-03)"
+            }
+        }
+    ]
+}

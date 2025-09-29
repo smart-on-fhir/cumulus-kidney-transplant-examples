@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-7-10-24", "subject": {"reference": "Patient/patient-7"}, "encounter": {"reference": "Encounter/patient-7-10"}, "date": "2025-09-06", "type": {"coding": [{"system": "http://loinc.org", "display": "Imaging \u2013 Renal Transplant Ultrasound: no hydronephrosis; normal Doppler; no perinephric fluid"}]}, "content": [{"attachment": {"data": "SW1hZ2luZyDigJMgUmVuYWwgVHJhbnNwbGFudCBVbHRyYXNvdW5kOiBubyBoeWRyb25lcGhyb3Npczsgbm9ybWFsIERvcHBsZXI7IG5vIHBlcmluZXBocmljIGZsdWlkCgpEYXRlOiAwOS8wNi8yMDI1CgpJbmRpY2F0aW9uOiAzLW1vbnRoIHBvc3QtdHJhbnNwbGFudCBzdXJ2ZWlsbGFuY2UuCgpUZWNobmlxdWU6IEdyYXktc2NhbGUgYW5kIGNvbG9yIERvcHBsZXIgdWx0cmFzb3VuZCBvZiByaWdodCBpbGlhYyBmb3NzYSB0cmFuc3BsYW50IGtpZG5leS4KCkZpbmRpbmdzOgotIEtpZG5leSBzaXplOiAxMS40IGNtLCBwcmVzZXJ2ZWQgY29ydGljYWwgdGhpY2tuZXNzLgotIFBhcmVuY2h5bWFsIGVjaG9nZW5pY2l0eTogbm9ybWFsLgotIENvbGxlY3Rpbmcgc3lzdGVtOiBubyBoeWRyb25lcGhyb3Npcy4KLSBEb3BwbGVyOiBtYWluIHJlbmFsIGFydGVyeSBhbmQgdmVpbiBwYXRlbnQsIG5vcm1hbCBmbG93IHBhdHRlcm5zLiBSSSAwLjY14oCTMC43Mi4KLSBObyBwZXJpbmVwaHJpYyBmbHVpZCBjb2xsZWN0aW9ucy4KCkltcHJlc3Npb246Ck5vcm1hbCByZW5hbCB0cmFuc3BsYW50IHVsdHJhc291bmQuIE5vIGh5ZHJvbmVwaHJvc2lzLCB2YXNjdWxhciBjb21wcm9taXNlLCBvciBwZXJpbmVwaHJpYyBjb2xsZWN0aW9ucy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-10_document-24.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-7-10-24",
+    "subject": {
+        "reference": "Patient/patient-7"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-7-10"
+    },
+    "date": "2025-09-06",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Imaging \u2013 Renal Transplant Ultrasound: no hydronephrosis; normal Doppler; no perinephric fluid"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "SW1hZ2luZyDigJMgUmVuYWwgVHJhbnNwbGFudCBVbHRyYXNvdW5kOiBubyBoeWRyb25lcGhyb3Npczsgbm9ybWFsIERvcHBsZXI7IG5vIHBlcmluZXBocmljIGZsdWlkCgpEYXRlOiAwOS8wNi8yMDI1CgpJbmRpY2F0aW9uOiAzLW1vbnRoIHBvc3QtdHJhbnNwbGFudCBzdXJ2ZWlsbGFuY2UuCgpUZWNobmlxdWU6IEdyYXktc2NhbGUgYW5kIGNvbG9yIERvcHBsZXIgdWx0cmFzb3VuZCBvZiByaWdodCBpbGlhYyBmb3NzYSB0cmFuc3BsYW50IGtpZG5leS4KCkZpbmRpbmdzOgotIEtpZG5leSBzaXplOiAxMS40IGNtLCBwcmVzZXJ2ZWQgY29ydGljYWwgdGhpY2tuZXNzLgotIFBhcmVuY2h5bWFsIGVjaG9nZW5pY2l0eTogbm9ybWFsLgotIENvbGxlY3Rpbmcgc3lzdGVtOiBubyBoeWRyb25lcGhyb3Npcy4KLSBEb3BwbGVyOiBtYWluIHJlbmFsIGFydGVyeSBhbmQgdmVpbiBwYXRlbnQsIG5vcm1hbCBmbG93IHBhdHRlcm5zLiBSSSAwLjY14oCTMC43Mi4KLSBObyBwZXJpbmVwaHJpYyBmbHVpZCBjb2xsZWN0aW9ucy4KCkltcHJlc3Npb246Ck5vcm1hbCByZW5hbCB0cmFuc3BsYW50IHVsdHJhc291bmQuIE5vIGh5ZHJvbmVwaHJvc2lzLCB2YXNjdWxhciBjb21wcm9taXNlLCBvciBwZXJpbmVwaHJpYyBjb2xsZWN0aW9ucy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-7-10-24 (2025-09-06)"
+            }
+        }
+    ]
+}

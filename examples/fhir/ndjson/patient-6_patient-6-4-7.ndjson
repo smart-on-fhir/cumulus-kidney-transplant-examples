@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-6-4-7", "subject": {"reference": "Patient/patient-6"}, "encounter": {"reference": "Encounter/patient-6-4"}, "date": "2024-07-24", "type": {"coding": [{"system": "http://loinc.org", "display": "Discharge summary \u2013 stable allograft function; creatinine 1.9 mg per dL; home with teaching"}]}, "content": [{"attachment": {"data": "RGlzY2hhcmdlIHN1bW1hcnkgZGV0YWlsZWQgbm90ZS4uLg==", "contentType": "text/plain; charset=utf-8", "title": "encounter-4_document-7.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-6-4-7",
+    "subject": {
+        "reference": "Patient/patient-6"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-6-4"
+    },
+    "date": "2024-07-24",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Discharge summary \u2013 stable allograft function; creatinine 1.9 mg per dL; home with teaching"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "RGlzY2hhcmdlIHN1bW1hcnkgZGV0YWlsZWQgbm90ZS4uLg==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-6-4-7 (2024-07-24)"
+            }
+        }
+    ]
+}

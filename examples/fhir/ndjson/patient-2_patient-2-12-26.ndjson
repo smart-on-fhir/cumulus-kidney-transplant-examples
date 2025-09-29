@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-2-12-26", "subject": {"reference": "Patient/patient-2"}, "encounter": {"reference": "Encounter/patient-2-12"}, "date": "2025-09-09", "type": {"coding": [{"system": "http://loinc.org", "display": "Interventional Radiology Procedure Note \u2013 ultrasound-guided transplant kidney biopsy"}]}, "content": [{"attachment": {"data": "SW50ZXJ2ZW50aW9uYWwgUmFkaW9sb2d5IFByb2NlZHVyZSBOb3RlCgpEYXRlOiAyMDI1LTA5LTA5CgpQcm9jZWR1cmU6IFVsdHJhc291bmQtZ3VpZGVkIHBlcmN1dGFuZW91cyBiaW9wc3kgb2YgdHJhbnNwbGFudCBraWRuZXkuCgpEZXRhaWxzOiBUd28gY29yZXMgb2J0YWluZWQgZnJvbSBjb3J0ZXguIEFkZXF1YXRlIHRpc3N1ZS4gTm8gaW1tZWRpYXRlIGNvbXBsaWNhdGlvbnMuIFBvc3QtcHJvY2VkdXJlIG1vbml0b3JpbmcgaW5pdGlhdGVkLgoKRGlzcG9zaXRpb246IFN0YWJsZS4gQmVkcmVzdCB4MiBob3Vycy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-12_document-26.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-2-12-26",
+    "subject": {
+        "reference": "Patient/patient-2"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-2-12"
+    },
+    "date": "2025-09-09",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Interventional Radiology Procedure Note \u2013 ultrasound-guided transplant kidney biopsy"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "SW50ZXJ2ZW50aW9uYWwgUmFkaW9sb2d5IFByb2NlZHVyZSBOb3RlCgpEYXRlOiAyMDI1LTA5LTA5CgpQcm9jZWR1cmU6IFVsdHJhc291bmQtZ3VpZGVkIHBlcmN1dGFuZW91cyBiaW9wc3kgb2YgdHJhbnNwbGFudCBraWRuZXkuCgpEZXRhaWxzOiBUd28gY29yZXMgb2J0YWluZWQgZnJvbSBjb3J0ZXguIEFkZXF1YXRlIHRpc3N1ZS4gTm8gaW1tZWRpYXRlIGNvbXBsaWNhdGlvbnMuIFBvc3QtcHJvY2VkdXJlIG1vbml0b3JpbmcgaW5pdGlhdGVkLgoKRGlzcG9zaXRpb246IFN0YWJsZS4gQmVkcmVzdCB4MiBob3Vycy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-2-12-26 (2025-09-09)"
+            }
+        }
+    ]
+}

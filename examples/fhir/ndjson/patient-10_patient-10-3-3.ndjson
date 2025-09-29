@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-10-3-3", "subject": {"reference": "Patient/patient-10"}, "encounter": {"reference": "Encounter/patient-10-3"}, "date": "2020-06-16", "type": {"coding": [{"system": "http://loinc.org", "display": "Immediate Post-Op ICU Progress Note \u2013 POD#1, tacrolimus initiated"}]}, "content": [{"attachment": {"data": "UE9EIzEgZnJvbSBEREtULgpJbnRlcnZhbCBldmVudHM6IFVyaW5lIG91dHB1dCA+M0wgc2luY2Ugc3VyZ2VyeS4gQlAgc3RhYmxlLCBvbiBsb3ctZG9zZSBuaWNhcmRpcGluZSBvdmVybmlnaHQuCkV4YW06IEFsZXJ0LCBpbmNpc2lvbiBjbGVhbi9kcnkuIEZvbGV5IGRyYWluaW5nIGNsZWFyIHVyaW5lLgpMYWJzOiBDciAzLjggbWcvZEwgKGRvd24gZnJvbSA2LjIgcHJlLW9wKSwgSyA0LjMsIFdCQyA5LjAuIFRhYyBsZXZlbCBub3QgeWV0IGRyYXduLgpNZWRzOiBBVEcgaW5kdWN0aW9uIG9uZ29pbmcsIElWIG1ldGh5bHByZWQgdGFwZXIsIHRhY3JvbGltdXMgaW5pdGlhdGVkIHRvZGF5ICh0YXJnZXQgdHJvdWdoIDjigJMxMCBuZy9tTCkuCkFzc2Vzc21lbnQvUGxhbjogRXhjZWxsZW50IGVhcmx5IGdyYWZ0IGZ1bmN0aW9uLiBNb25pdG9yIEkvTywgZGFpbHkgY2hlbSBwYW5lbCwgdGFjIGxldmVscyBzdGFydGluZyB0b21vcnJvdy4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-3_document-3.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-10-3-3",
+    "subject": {
+        "reference": "Patient/patient-10"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-10-3"
+    },
+    "date": "2020-06-16",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Immediate Post-Op ICU Progress Note \u2013 POD#1, tacrolimus initiated"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "UE9EIzEgZnJvbSBEREtULgpJbnRlcnZhbCBldmVudHM6IFVyaW5lIG91dHB1dCA+M0wgc2luY2Ugc3VyZ2VyeS4gQlAgc3RhYmxlLCBvbiBsb3ctZG9zZSBuaWNhcmRpcGluZSBvdmVybmlnaHQuCkV4YW06IEFsZXJ0LCBpbmNpc2lvbiBjbGVhbi9kcnkuIEZvbGV5IGRyYWluaW5nIGNsZWFyIHVyaW5lLgpMYWJzOiBDciAzLjggbWcvZEwgKGRvd24gZnJvbSA2LjIgcHJlLW9wKSwgSyA0LjMsIFdCQyA5LjAuIFRhYyBsZXZlbCBub3QgeWV0IGRyYXduLgpNZWRzOiBBVEcgaW5kdWN0aW9uIG9uZ29pbmcsIElWIG1ldGh5bHByZWQgdGFwZXIsIHRhY3JvbGltdXMgaW5pdGlhdGVkIHRvZGF5ICh0YXJnZXQgdHJvdWdoIDjigJMxMCBuZy9tTCkuCkFzc2Vzc21lbnQvUGxhbjogRXhjZWxsZW50IGVhcmx5IGdyYWZ0IGZ1bmN0aW9uLiBNb25pdG9yIEkvTywgZGFpbHkgY2hlbSBwYW5lbCwgdGFjIGxldmVscyBzdGFydGluZyB0b21vcnJvdy4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-10-3-3 (2020-06-16)"
+            }
+        }
+    ]
+}

@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-1-3-8", "subject": {"reference": "Patient/patient-1"}, "encounter": {"reference": "Encounter/patient-1-3"}, "date": "2025-06-07", "type": {"coding": [{"system": "http://loinc.org", "display": "Pharmacy Medication Reconciliation \u2013 adherence counseling, pillbox issued"}]}, "content": [{"attachment": {"data": "UGhhcm1hY3kgTWVkaWNhdGlvbiBSZWNvbmNpbGlhdGlvbiDigJMgYWRoZXJlbmNlIGNvdW5zZWxpbmcsIHBpbGxib3ggaXNzdWVkCkVuY291bnRlcjogMyB8IERvY3VtZW50OiA4IHwgRGF0ZTogMjAyNS0wNi0wNwpQYXRpZW50OiBNYXNvbiBSaXZlcnMgKE1hbGUsIERPQiAyMDE2LTExLTA4KQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpNZWQgTGlzdCBSZWNvbmNpbGVkCi0tLS0tLS0tLS0tLS0tLS0tLS0KVGFjcm9saW11cyAyLjAgbWcgUE8gQklEICh0YXJnZXQgdHJvdWdoIDjigJMxMCBuZy9tTCkKTXljb3BoZW5vbGF0ZSBtb2ZldGlsIDUwMCBtZyBQTyBCSUQgKH42MDAgbWcvbcKyKQpQcmVkbmlzb25lIDAuMiBtZy9rZyBQTyBkYWlseSAodGFwZXIgcGxhbiBvdmVyIDPigJM2IG1vbnRocykKVmFsZ2FuY2ljbG92aXIgNDUwIG1nIFBPIGRhaWx5IChDTVYgRCsvUisgcHJvcGh5bGF4aXM7IGRvc2UgcmVuYWxseSBhZGp1c3RlZCkKVE1Q4oCRU01YIChzdWxmYW1ldGhveGF6b2xl4oCRdHJpbWV0aG9wcmltKSA4MCBtZyBUTVAgUE8gZGFpbHkgKFBKUCBwcm9waHlsYXhpczsgTeKAkVfigJFGIGFmdGVyIDEgbW9udGgpCk55c3RhdGluIG9yYWwgc3VzcGVuc2lvbiA1IG1MIHN3aXNoIGFuZCBzd2FsbG93IFFJRCAob3JhbCBjYW5kaWRpYXNpcyBwcm9waHlsYXhpcykKQW1sb2RpcGluZSAyLjUgbWcgUE8gZGFpbHkgKGh5cGVydGVuc2lvbikKRmFtb3RpZGluZSAxMCBtZyBQTyBCSUQgKEdJIHByb3BoeWxheGlzKQpDaG9sZWNhbGNpZmVyb2wgMTAwMCBJVSBQTyBkYWlseQoKQWRoZXJlbmNlIEFzc2Vzc21lbnQKLS0tLS0tLS0tLS0tLS0tLS0tLS0KUGFyZW50cyBhcnRpY3VsYXRlIGRvc2luZyBzY2hlZHVsZTsgcHJvdmlkZWQgMuKAkXdlZWsgcGlsbGJveCBhbmQgc21hcnRwaG9uZSByZW1pbmRlcnMuIENvdW5zZWxlZCBvbiBtaXNzZWQgZG9zZSBwcm90b2NvbDoKaWYgPDRoIGxhdGUgdGFrZSBkb3NlOyBpZiA+NGgsIGNhbGwgY2xpbmljLiBFbXBoYXNpemVkIHRyb3VnaCB0aW1pbmcgYmVmb3JlIG1vcm5pbmcgZG9zZS4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-3_document-8.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-1-3-8",
+    "subject": {
+        "reference": "Patient/patient-1"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-1-3"
+    },
+    "date": "2025-06-07",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Pharmacy Medication Reconciliation \u2013 adherence counseling, pillbox issued"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "UGhhcm1hY3kgTWVkaWNhdGlvbiBSZWNvbmNpbGlhdGlvbiDigJMgYWRoZXJlbmNlIGNvdW5zZWxpbmcsIHBpbGxib3ggaXNzdWVkCkVuY291bnRlcjogMyB8IERvY3VtZW50OiA4IHwgRGF0ZTogMjAyNS0wNi0wNwpQYXRpZW50OiBNYXNvbiBSaXZlcnMgKE1hbGUsIERPQiAyMDE2LTExLTA4KQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpNZWQgTGlzdCBSZWNvbmNpbGVkCi0tLS0tLS0tLS0tLS0tLS0tLS0KVGFjcm9saW11cyAyLjAgbWcgUE8gQklEICh0YXJnZXQgdHJvdWdoIDjigJMxMCBuZy9tTCkKTXljb3BoZW5vbGF0ZSBtb2ZldGlsIDUwMCBtZyBQTyBCSUQgKH42MDAgbWcvbcKyKQpQcmVkbmlzb25lIDAuMiBtZy9rZyBQTyBkYWlseSAodGFwZXIgcGxhbiBvdmVyIDPigJM2IG1vbnRocykKVmFsZ2FuY2ljbG92aXIgNDUwIG1nIFBPIGRhaWx5IChDTVYgRCsvUisgcHJvcGh5bGF4aXM7IGRvc2UgcmVuYWxseSBhZGp1c3RlZCkKVE1Q4oCRU01YIChzdWxmYW1ldGhveGF6b2xl4oCRdHJpbWV0aG9wcmltKSA4MCBtZyBUTVAgUE8gZGFpbHkgKFBKUCBwcm9waHlsYXhpczsgTeKAkVfigJFGIGFmdGVyIDEgbW9udGgpCk55c3RhdGluIG9yYWwgc3VzcGVuc2lvbiA1IG1MIHN3aXNoIGFuZCBzd2FsbG93IFFJRCAob3JhbCBjYW5kaWRpYXNpcyBwcm9waHlsYXhpcykKQW1sb2RpcGluZSAyLjUgbWcgUE8gZGFpbHkgKGh5cGVydGVuc2lvbikKRmFtb3RpZGluZSAxMCBtZyBQTyBCSUQgKEdJIHByb3BoeWxheGlzKQpDaG9sZWNhbGNpZmVyb2wgMTAwMCBJVSBQTyBkYWlseQoKQWRoZXJlbmNlIEFzc2Vzc21lbnQKLS0tLS0tLS0tLS0tLS0tLS0tLS0KUGFyZW50cyBhcnRpY3VsYXRlIGRvc2luZyBzY2hlZHVsZTsgcHJvdmlkZWQgMuKAkXdlZWsgcGlsbGJveCBhbmQgc21hcnRwaG9uZSByZW1pbmRlcnMuIENvdW5zZWxlZCBvbiBtaXNzZWQgZG9zZSBwcm90b2NvbDoKaWYgPDRoIGxhdGUgdGFrZSBkb3NlOyBpZiA+NGgsIGNhbGwgY2xpbmljLiBFbXBoYXNpemVkIHRyb3VnaCB0aW1pbmcgYmVmb3JlIG1vcm5pbmcgZG9zZS4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-1-3-8 (2025-06-07)"
+            }
+        }
+    ]
+}

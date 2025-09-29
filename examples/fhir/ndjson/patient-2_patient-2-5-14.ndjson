@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-2-5-14", "subject": {"reference": "Patient/patient-2"}, "encounter": {"reference": "Encounter/patient-2-5"}, "date": "2025-06-13", "type": {"coding": [{"system": "http://loinc.org", "display": "DSA Surveillance \u2013 negative class I/II; MFI < 500"}]}, "content": [{"attachment": {"data": "RFNBIFN1cnZlaWxsYW5jZSBSZXBvcnQKCkRhdGU6IDIwMjUtMDYtMTMKCk1ldGhvZDogU2luZ2xlIEFudGlnZW4gQmVhZCBhc3NheS4KClJlc3VsdHM6Ci0gQ2xhc3MgSSBhbnRpYm9kaWVzOiBOZWdhdGl2ZSwgTUZJIDwgNTAwCi0gQ2xhc3MgSUkgYW50aWJvZGllczogTmVnYXRpdmUsIE1GSSA8IDUwMAoKSW50ZXJwcmV0YXRpb246IE5vIGRvbm9yLXNwZWNpZmljIGFudGlib2RpZXMgZGV0ZWN0ZWQgYXQgdGhpcyB0aW1lLgo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-5_document-14.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-2-5-14",
+    "subject": {
+        "reference": "Patient/patient-2"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-2-5"
+    },
+    "date": "2025-06-13",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "DSA Surveillance \u2013 negative class I/II; MFI < 500"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "RFNBIFN1cnZlaWxsYW5jZSBSZXBvcnQKCkRhdGU6IDIwMjUtMDYtMTMKCk1ldGhvZDogU2luZ2xlIEFudGlnZW4gQmVhZCBhc3NheS4KClJlc3VsdHM6Ci0gQ2xhc3MgSSBhbnRpYm9kaWVzOiBOZWdhdGl2ZSwgTUZJIDwgNTAwCi0gQ2xhc3MgSUkgYW50aWJvZGllczogTmVnYXRpdmUsIE1GSSA8IDUwMAoKSW50ZXJwcmV0YXRpb246IE5vIGRvbm9yLXNwZWNpZmljIGFudGlib2RpZXMgZGV0ZWN0ZWQgYXQgdGhpcyB0aW1lLgo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-2-5-14 (2025-06-13)"
+            }
+        }
+    ]
+}

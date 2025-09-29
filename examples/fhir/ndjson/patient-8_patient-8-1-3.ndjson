@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-8-1-3", "subject": {"reference": "Patient/patient-8"}, "encounter": {"reference": "Encounter/patient-8-1"}, "date": "2025-05-29", "type": {"coding": [{"system": "http://loinc.org", "display": "Immediate Post-Operative ICU Admission Note \u2013 reperfusion confirmed by Doppler"}]}, "content": [{"attachment": {"data": "SW1tZWRpYXRlIFBvc3QtT3BlcmF0aXZlIElDVSBBZG1pc3Npb24gTm90ZSDigJMgcmVwZXJmdXNpb24gY29uZmlybWVkIGJ5IERvcHBsZXIKCkludGVydmFsIEhpc3Rvcnk6ClBhdGllbnQgdHJhbnNmZXJyZWQgdG8gSUNVIHMvcCBkZWNlYXNlZCBkb25vciBraWRuZXkgdHJhbnNwbGFudC4gSW50cmFvcGVyYXRpdmUgY291cnNlIHVuY29tcGxpY2F0ZWQuIFJlY2VpdmVkIDUwMCBtZyBtZXRoeWxwcmVkbmlzb2xvbmUgYW5kIDIwIG1nIGJhc2lsaXhpbWFiIGluZHVjdGlvbi4KCkV4YW06CgpCUCAxMzIvNzgsIEhSIDg0LCBhZmVicmlsZSwgTzIgc2F0IDk3JSBvbiBSQQoKQWJkb21lbiBzb2Z0LCBSTFEgaW5jaXNpb24gY2xlYW4vZHJ5L2ludGFjdAoKRm9sZXkgZHJhaW5pbmcgbGlnaHQgcGluayB1cmluZSwgMjAwIG1MIHNpbmNlIGFycml2YWwKCkpQIGRyYWluIHdpdGggc2NhbnQgc2Vyb3Nhbmd1aW5vdXMgb3V0cHV0CgpQZXJpcGhlcmFsIHB1bHNlcyBpbnRhY3QKCkxhYnM6CgpDcmVhdGluaW5lIHByZS1vcCA4LjYgbWcvZEwsIG5vdyA3LjkgbWcvZEwKCksgNC44IG1tb2wvTAoKVGFjcm9saW11cyBub3QgeWV0IHN0YXJ0ZWQKCkNCQyBXTkwKClBsYW46CgpDb250aW51ZSBmbHVpZHMsIG1vbml0b3IgdXJpbmUgb3V0cHV0CgpTdGFydCB0YWNyb2xpbXVzIFBPRCMxCgpDb250aW51ZSBNTUYgMWcgQklEICsgc3Rlcm9pZCB0YXBlcgoKSW5mZWN0aW9uIHByb3BoeWxheGlzOiB2YWxnYW5jaWNsb3ZpciwgVE1QLVNNWAoKTW9uaXRvciBmb3IgZGVsYXllZCBncmFmdCBmdW5jdGlvbiwgaW5mZWN0aW9uLCByZWplY3Rpb24=", "contentType": "text/plain; charset=utf-8", "title": "encounter-1_document-3.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-8-1-3",
+    "subject": {
+        "reference": "Patient/patient-8"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-8-1"
+    },
+    "date": "2025-05-29",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Immediate Post-Operative ICU Admission Note \u2013 reperfusion confirmed by Doppler"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "SW1tZWRpYXRlIFBvc3QtT3BlcmF0aXZlIElDVSBBZG1pc3Npb24gTm90ZSDigJMgcmVwZXJmdXNpb24gY29uZmlybWVkIGJ5IERvcHBsZXIKCkludGVydmFsIEhpc3Rvcnk6ClBhdGllbnQgdHJhbnNmZXJyZWQgdG8gSUNVIHMvcCBkZWNlYXNlZCBkb25vciBraWRuZXkgdHJhbnNwbGFudC4gSW50cmFvcGVyYXRpdmUgY291cnNlIHVuY29tcGxpY2F0ZWQuIFJlY2VpdmVkIDUwMCBtZyBtZXRoeWxwcmVkbmlzb2xvbmUgYW5kIDIwIG1nIGJhc2lsaXhpbWFiIGluZHVjdGlvbi4KCkV4YW06CgpCUCAxMzIvNzgsIEhSIDg0LCBhZmVicmlsZSwgTzIgc2F0IDk3JSBvbiBSQQoKQWJkb21lbiBzb2Z0LCBSTFEgaW5jaXNpb24gY2xlYW4vZHJ5L2ludGFjdAoKRm9sZXkgZHJhaW5pbmcgbGlnaHQgcGluayB1cmluZSwgMjAwIG1MIHNpbmNlIGFycml2YWwKCkpQIGRyYWluIHdpdGggc2NhbnQgc2Vyb3Nhbmd1aW5vdXMgb3V0cHV0CgpQZXJpcGhlcmFsIHB1bHNlcyBpbnRhY3QKCkxhYnM6CgpDcmVhdGluaW5lIHByZS1vcCA4LjYgbWcvZEwsIG5vdyA3LjkgbWcvZEwKCksgNC44IG1tb2wvTAoKVGFjcm9saW11cyBub3QgeWV0IHN0YXJ0ZWQKCkNCQyBXTkwKClBsYW46CgpDb250aW51ZSBmbHVpZHMsIG1vbml0b3IgdXJpbmUgb3V0cHV0CgpTdGFydCB0YWNyb2xpbXVzIFBPRCMxCgpDb250aW51ZSBNTUYgMWcgQklEICsgc3Rlcm9pZCB0YXBlcgoKSW5mZWN0aW9uIHByb3BoeWxheGlzOiB2YWxnYW5jaWNsb3ZpciwgVE1QLVNNWAoKTW9uaXRvciBmb3IgZGVsYXllZCBncmFmdCBmdW5jdGlvbiwgaW5mZWN0aW9uLCByZWplY3Rpb24=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-8-1-3 (2025-05-29)"
+            }
+        }
+    ]
+}

@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-8-1-2", "subject": {"reference": "Patient/patient-8"}, "encounter": {"reference": "Encounter/patient-8-1"}, "date": "2025-05-29", "type": {"coding": [{"system": "http://loinc.org", "display": "Transplant Surgery Operative Note \u2013 Deceased Donor Kidney Transplant (right iliac fossa)"}]}, "content": [{"attachment": {"data": "VHJhbnNwbGFudCBTdXJnZXJ5IE9wZXJhdGl2ZSBOb3RlIOKAkyBEZWNlYXNlZCBEb25vciBLaWRuZXkgVHJhbnNwbGFudCAocmlnaHQgaWxpYWMgZm9zc2EpCgpQcmUtT3AgRGlhZ25vc2lzOiBFU1JEIGR1ZSB0byBJZ0EgbmVwaHJvcGF0aHkKUG9zdC1PcCBEaWFnbm9zaXM6IFNhbWUKUHJvY2VkdXJlOiBSaWdodCBpbGlhYyBmb3NzYSBraWRuZXkgdHJhbnNwbGFudCwgdXJldGVyb25lb2N5c3Rvc3RvbXkgd2l0aCBzdGVudCBwbGFjZW1lbnQKU3VyZ2VvbjogRHIuIFtOYW1lXQpBc3Npc3RhbnRzOiBEci4gW1Jlc2lkZW50XQoKT3BlcmF0aXZlIERldGFpbHM6CgpEZWNlYXNlZCBkb25vciBsZWZ0IGtpZG5leSBwcmVwYXJlZCBvbiBiYWNrIHRhYmxlOyBzaW5nbGUgYXJ0ZXJ5LCBzaW5nbGUgdmVpbiwgc2luZ2xlIHVyZXRlci4KCkFuYXN0b21vc2VkIHJlbmFsIHZlaW4gdG8gZXh0ZXJuYWwgaWxpYWMgdmVpbiwgcmVuYWwgYXJ0ZXJ5IHRvIGV4dGVybmFsIGlsaWFjIGFydGVyeS4KCldhcm0gaXNjaGVtaWEgdGltZTogMzIgbWludXRlcy4gQ29sZCBpc2NoZW1pYSB0aW1lOiAxMyBob3Vycy4KClVyZXRlciBpbXBsYW50ZWQgaW50byBibGFkZGVyIHdpdGggZG91YmxlLUogc3RlbnQuCgpJbW1lZGlhdGUgcmVwZXJmdXNpb24gd2l0aCBicmlzayB1cmluZSBvdXRwdXQgbm90ZWQuCgpFc3RpbWF0ZWQgYmxvb2QgbG9zcyAxNTAgbUwuIE5vIGNvbXBsaWNhdGlvbnMuCgpTcGVjaW1lbnM6IE5vbmUKRHJhaW5zOiBKUCBkcmFpbiBpbiBwZWx2aXMKRGlzcG9zaXRpb246IFN0YWJsZSB0byBQQUNVL0lDVQ==", "contentType": "text/plain; charset=utf-8", "title": "encounter-1_document-2.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-8-1-2",
+    "subject": {
+        "reference": "Patient/patient-8"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-8-1"
+    },
+    "date": "2025-05-29",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Transplant Surgery Operative Note \u2013 Deceased Donor Kidney Transplant (right iliac fossa)"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "VHJhbnNwbGFudCBTdXJnZXJ5IE9wZXJhdGl2ZSBOb3RlIOKAkyBEZWNlYXNlZCBEb25vciBLaWRuZXkgVHJhbnNwbGFudCAocmlnaHQgaWxpYWMgZm9zc2EpCgpQcmUtT3AgRGlhZ25vc2lzOiBFU1JEIGR1ZSB0byBJZ0EgbmVwaHJvcGF0aHkKUG9zdC1PcCBEaWFnbm9zaXM6IFNhbWUKUHJvY2VkdXJlOiBSaWdodCBpbGlhYyBmb3NzYSBraWRuZXkgdHJhbnNwbGFudCwgdXJldGVyb25lb2N5c3Rvc3RvbXkgd2l0aCBzdGVudCBwbGFjZW1lbnQKU3VyZ2VvbjogRHIuIFtOYW1lXQpBc3Npc3RhbnRzOiBEci4gW1Jlc2lkZW50XQoKT3BlcmF0aXZlIERldGFpbHM6CgpEZWNlYXNlZCBkb25vciBsZWZ0IGtpZG5leSBwcmVwYXJlZCBvbiBiYWNrIHRhYmxlOyBzaW5nbGUgYXJ0ZXJ5LCBzaW5nbGUgdmVpbiwgc2luZ2xlIHVyZXRlci4KCkFuYXN0b21vc2VkIHJlbmFsIHZlaW4gdG8gZXh0ZXJuYWwgaWxpYWMgdmVpbiwgcmVuYWwgYXJ0ZXJ5IHRvIGV4dGVybmFsIGlsaWFjIGFydGVyeS4KCldhcm0gaXNjaGVtaWEgdGltZTogMzIgbWludXRlcy4gQ29sZCBpc2NoZW1pYSB0aW1lOiAxMyBob3Vycy4KClVyZXRlciBpbXBsYW50ZWQgaW50byBibGFkZGVyIHdpdGggZG91YmxlLUogc3RlbnQuCgpJbW1lZGlhdGUgcmVwZXJmdXNpb24gd2l0aCBicmlzayB1cmluZSBvdXRwdXQgbm90ZWQuCgpFc3RpbWF0ZWQgYmxvb2QgbG9zcyAxNTAgbUwuIE5vIGNvbXBsaWNhdGlvbnMuCgpTcGVjaW1lbnM6IE5vbmUKRHJhaW5zOiBKUCBkcmFpbiBpbiBwZWx2aXMKRGlzcG9zaXRpb246IFN0YWJsZSB0byBQQUNVL0lDVQ==",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-8-1-2 (2025-05-29)"
+            }
+        }
+    ]
+}

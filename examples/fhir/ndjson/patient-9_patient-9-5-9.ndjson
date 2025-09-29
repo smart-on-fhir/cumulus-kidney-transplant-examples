@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-9-5-9", "subject": {"reference": "Patient/patient-9"}, "encounter": {"reference": "Encounter/patient-9-5"}, "date": "2023-10-04", "type": {"coding": [{"system": "http://loinc.org", "display": "Immunology Report \u2013 DSA screen and donor-derived cfDNA (AlloSure)"}]}, "content": [{"attachment": {"data": "SW1tdW5vbG9neSBSZXBvcnQg4oCTIERTQSBzY3JlZW4gYW5kIGRvbm9yLWRlcml2ZWQgY2ZETkEgKEFsbG9TdXJlKQoKRGF0ZTogMTAvNC8yMDIzCgpSZXN1bHRzOgotIERvbm9yLVNwZWNpZmljIEFudGlib2RpZXM6IE5lZ2F0aXZlCi0gSExBIGNsYXNzIEk6IE5vbmUgZGV0ZWN0ZWQKLSBITEEgY2xhc3MgSUk6IE5vbmUgZGV0ZWN0ZWQKLSBEb25vci1kZXJpdmVkIGNmRE5BIChBbGxvU3VyZSk6IDAuMjQlIChub3JtYWwgPDElKQoKSW50ZXJwcmV0YXRpb246IE5vIGV2aWRlbmNlIG9mIGFjdGl2ZSByZWplY3Rpb24uIENvbnRpbnVlIGN1cnJlbnQgaW1tdW5vc3VwcHJlc3Npb24gcmVnaW1lbi4K", "contentType": "text/plain; charset=utf-8", "title": "encounter-5_document-9.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-9-5-9",
+    "subject": {
+        "reference": "Patient/patient-9"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-9-5"
+    },
+    "date": "2023-10-04",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Immunology Report \u2013 DSA screen and donor-derived cfDNA (AlloSure)"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "SW1tdW5vbG9neSBSZXBvcnQg4oCTIERTQSBzY3JlZW4gYW5kIGRvbm9yLWRlcml2ZWQgY2ZETkEgKEFsbG9TdXJlKQoKRGF0ZTogMTAvNC8yMDIzCgpSZXN1bHRzOgotIERvbm9yLVNwZWNpZmljIEFudGlib2RpZXM6IE5lZ2F0aXZlCi0gSExBIGNsYXNzIEk6IE5vbmUgZGV0ZWN0ZWQKLSBITEEgY2xhc3MgSUk6IE5vbmUgZGV0ZWN0ZWQKLSBEb25vci1kZXJpdmVkIGNmRE5BIChBbGxvU3VyZSk6IDAuMjQlIChub3JtYWwgPDElKQoKSW50ZXJwcmV0YXRpb246IE5vIGV2aWRlbmNlIG9mIGFjdGl2ZSByZWplY3Rpb24uIENvbnRpbnVlIGN1cnJlbnQgaW1tdW5vc3VwcHJlc3Npb24gcmVnaW1lbi4K",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-9-5-9 (2023-10-04)"
+            }
+        }
+    ]
+}

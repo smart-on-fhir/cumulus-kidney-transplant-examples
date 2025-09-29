@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-9-1-2", "subject": {"reference": "Patient/patient-9"}, "encounter": {"reference": "Encounter/patient-9-1"}, "date": "2023-09-01", "type": {"coding": [{"system": "http://loinc.org", "display": "Transplant Surgery Operative Note \u2013 Living Donor Kidney Transplant (left iliac fossa)"}]}, "content": [{"attachment": {"data": "VHJhbnNwbGFudCBTdXJnZXJ5IE9wZXJhdGl2ZSBOb3RlIOKAkyBMaXZpbmcgRG9ub3IgS2lkbmV5IFRyYW5zcGxhbnQgKGxlZnQgaWxpYWMgZm9zc2EpCgpEYXRlL1RpbWU6IDkvMS8yMDIzLCAxMTowMCBBTSDigJMgNDowMCBQTQpTdXJnZW9uOiBEci4gU21pdGgKUHJvY2VkdXJlOiBMaXZpbmcgZG9ub3IgcmVuYWwgdHJhbnNwbGFudCwgbGVmdCBpbGlhYyBmb3NzYQoKRmluZGluZ3M6Ci0gRG9ub3Iga2lkbmV5OiBMZWZ0IGtpZG5leSwgc2luZ2xlIGFydGVyeSwgc2luZ2xlIHZlaW4sIHNpbmdsZSB1cmV0ZXIuCi0gSW1wbGFudGF0aW9uIGluIGxlZnQgaWxpYWMgZm9zc2EuCi0gRW5kLXRvLXNpZGUgYW5hc3RvbW9zaXMgdG8gZXh0ZXJuYWwgaWxpYWMgYXJ0ZXJ5IGFuZCB2ZWluLgotIFVyZXRlcm9uZW9jeXN0b3N0b215IHBlcmZvcm1lZCB3aXRoIGRvdWJsZS1KIHN0ZW50LgoKRXN0aW1hdGVkIEJsb29kIExvc3M6IDIwMCBtTApGbHVpZHM6IDIuNSBMIGNyeXN0YWxsb2lkClVyaW5lIE91dHB1dDogMjUwIG1MIGludHJhLW9wIGFmdGVyIHJlcGVyZnVzaW9uCkNvbXBsaWNhdGlvbnM6IE5vbmUKClNwZWNpbWVuczogTm9uZQpEcmFpbnM6IEpQIGRyYWluIGluIGxlZnQgaWxpYWMgZm9zc2EKCkRpc3Bvc2l0aW9uOiBUbyBJQ1UgcG9zdC1vcCwgZXh0dWJhdGVkLCBoZW1vZHluYW1pY2FsbHkgc3RhYmxlLgo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-1_document-2.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-9-1-2",
+    "subject": {
+        "reference": "Patient/patient-9"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-9-1"
+    },
+    "date": "2023-09-01",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Transplant Surgery Operative Note \u2013 Living Donor Kidney Transplant (left iliac fossa)"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "VHJhbnNwbGFudCBTdXJnZXJ5IE9wZXJhdGl2ZSBOb3RlIOKAkyBMaXZpbmcgRG9ub3IgS2lkbmV5IFRyYW5zcGxhbnQgKGxlZnQgaWxpYWMgZm9zc2EpCgpEYXRlL1RpbWU6IDkvMS8yMDIzLCAxMTowMCBBTSDigJMgNDowMCBQTQpTdXJnZW9uOiBEci4gU21pdGgKUHJvY2VkdXJlOiBMaXZpbmcgZG9ub3IgcmVuYWwgdHJhbnNwbGFudCwgbGVmdCBpbGlhYyBmb3NzYQoKRmluZGluZ3M6Ci0gRG9ub3Iga2lkbmV5OiBMZWZ0IGtpZG5leSwgc2luZ2xlIGFydGVyeSwgc2luZ2xlIHZlaW4sIHNpbmdsZSB1cmV0ZXIuCi0gSW1wbGFudGF0aW9uIGluIGxlZnQgaWxpYWMgZm9zc2EuCi0gRW5kLXRvLXNpZGUgYW5hc3RvbW9zaXMgdG8gZXh0ZXJuYWwgaWxpYWMgYXJ0ZXJ5IGFuZCB2ZWluLgotIFVyZXRlcm9uZW9jeXN0b3N0b215IHBlcmZvcm1lZCB3aXRoIGRvdWJsZS1KIHN0ZW50LgoKRXN0aW1hdGVkIEJsb29kIExvc3M6IDIwMCBtTApGbHVpZHM6IDIuNSBMIGNyeXN0YWxsb2lkClVyaW5lIE91dHB1dDogMjUwIG1MIGludHJhLW9wIGFmdGVyIHJlcGVyZnVzaW9uCkNvbXBsaWNhdGlvbnM6IE5vbmUKClNwZWNpbWVuczogTm9uZQpEcmFpbnM6IEpQIGRyYWluIGluIGxlZnQgaWxpYWMgZm9zc2EKCkRpc3Bvc2l0aW9uOiBUbyBJQ1UgcG9zdC1vcCwgZXh0dWJhdGVkLCBoZW1vZHluYW1pY2FsbHkgc3RhYmxlLgo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-9-1-2 (2023-09-01)"
+            }
+        }
+    ]
+}

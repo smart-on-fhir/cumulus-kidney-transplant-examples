@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-2-3-7", "subject": {"reference": "Patient/patient-2"}, "encounter": {"reference": "Encounter/patient-2-3"}, "date": "2025-06-06", "type": {"coding": [{"system": "http://loinc.org", "display": "Nephrology Progress Note POD#3 \u2013 start tacrolimus; target trough 8\u201310 ng/mL"}]}, "content": [{"attachment": {"data": "TmVwaHJvbG9neSBQcm9ncmVzcyBOb3RlIFBPRCMzCgpEYXRlOiAyMDI1LTA2LTA2CgpTdGF0dXM6IFN0YWJsZS4gVXJpbmUgb3V0cHV0IDIuNSBtTC9rZy9oci4gQ3JlYXRpbmluZSB0cmVuZGluZyBkb3duIHRvIDEuOSBtZy9kTC4KCkV4YW06IE5vIGdyYWZ0IHRlbmRlcm5lc3MuIEJQIDExMi83MC4KClRhY3JvbGltdXMgaW5pdGlhdGVkIFBPRCMyLiBGaXJzdCB0cm91Z2ggNi41IG5nL21MIChnb2FsIDjigJMxMCkuIERvc2UgaW5jcmVhc2VkLgoKUGxhbjoKLSBDb250aW51ZSB0YWNyb2xpbXVzLCBNTUYsIHByZWRuaXNvbmUKLSBEYWlseSBsYWJzCi0gSW5mZWN0aW9uIHByb3BoeWxheGlzIHZhbGdhbmNpY2xvdmlyLCBUTVAtU01YIGluaXRpYXRlZAo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-3_document-7.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-2-3-7",
+    "subject": {
+        "reference": "Patient/patient-2"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-2-3"
+    },
+    "date": "2025-06-06",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Nephrology Progress Note POD#3 \u2013 start tacrolimus; target trough 8\u201310 ng/mL"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "TmVwaHJvbG9neSBQcm9ncmVzcyBOb3RlIFBPRCMzCgpEYXRlOiAyMDI1LTA2LTA2CgpTdGF0dXM6IFN0YWJsZS4gVXJpbmUgb3V0cHV0IDIuNSBtTC9rZy9oci4gQ3JlYXRpbmluZSB0cmVuZGluZyBkb3duIHRvIDEuOSBtZy9kTC4KCkV4YW06IE5vIGdyYWZ0IHRlbmRlcm5lc3MuIEJQIDExMi83MC4KClRhY3JvbGltdXMgaW5pdGlhdGVkIFBPRCMyLiBGaXJzdCB0cm91Z2ggNi41IG5nL21MIChnb2FsIDjigJMxMCkuIERvc2UgaW5jcmVhc2VkLgoKUGxhbjoKLSBDb250aW51ZSB0YWNyb2xpbXVzLCBNTUYsIHByZWRuaXNvbmUKLSBEYWlseSBsYWJzCi0gSW5mZWN0aW9uIHByb3BoeWxheGlzIHZhbGdhbmNpY2xvdmlyLCBUTVAtU01YIGluaXRpYXRlZAo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-2-3-7 (2025-06-06)"
+            }
+        }
+    ]
+}

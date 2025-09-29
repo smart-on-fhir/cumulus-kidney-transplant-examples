@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-1-1-3", "subject": {"reference": "Patient/patient-1"}, "encounter": {"reference": "Encounter/patient-1-1"}, "date": "2025-06-03", "type": {"coding": [{"system": "http://loinc.org", "display": "Immediate Post-Op ICU Admission Note \u2013 stable hemodynamics, good Doppler signals"}]}, "content": [{"attachment": {"data": "SW1tZWRpYXRlIFBvc3TigJFPcCBJQ1UgQWRtaXNzaW9uIE5vdGUg4oCTIHN0YWJsZSBoZW1vZHluYW1pY3MsIGdvb2QgRG9wcGxlciBzaWduYWxzCkVuY291bnRlcjogMSB8IERvY3VtZW50OiAzIHwgRGF0ZTogMjAyNS0wNi0wMwpQYXRpZW50OiBNYXNvbiBSaXZlcnMgKE1hbGUsIERPQiAyMDE2LTExLTA4KQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpJbnRlcnZhbCBFdmVudHMKLS0tLS0tLS0tLS0tLS0tClVuZXZlbnRmdWwgT1IgY291cnNlOyBpbW1lZGlhdGUgdXJpbmUgb3V0cHV0ID4gMiBtTC9rZy9oci4KClZpdGFsIFNpZ25zCi0tLS0tLS0tLS0tCkJQIDEwNC82NCwgSFIgOTgsIFJSIDIwLCBUIDM2LjjCsEMsIFNwT+KCgiA5OCUgUkEuCgpQaHlzaWNhbCBFeGFtCi0tLS0tLS0tLS0tLS0KQWxsb2dyYWZ0IGZvc3NhIHNvZnQ7IGluY2lzaW9uIGNsZWFuL2RyeTsgZHJhaW4gd2l0aCBtaW5pbWFsIHNlcm9zYW5ndWlub3VzIG91dHB1dC4KCk1lZGljYXRpb25zCi0tLS0tLS0tLS0tCkFURyBpbmZ1c2lvbiBQT0QwCk1ldGh5bHByZWRuaXNvbG9uZSAxMCBtZy9rZyBJViB4MSB0aGVuIHRhcGVyCk1NRiB0byBzdGFydCB0b25pZ2h0IDUwMCBtZyBQTwpUYWNyb2xpbXVzIHRvIHN0YXJ0IGluIDI0IGhvdXJzClZhbGdhbmNpY2xvdmlyLCBUTVDigJFTTVgsIG55c3RhdGluIHBlciBwcm90b2NvbApBbWxvZGlwaW5lIDIuNSBtZyBkYWlseSwgUFJOIElWIGh5ZHJhbGF6aW5lCgpMYWJzCi0tLS0KU2VydW0gY3JlYXRpbmluZTogMi4xMCBtZy9kTApCVU46IDMyIG1nL2RMClBvdGFzc2l1bTogNC4zIG1tb2wvTApDT+KCgjogMjMgbW1vbC9MClRhY3JvbGltdXMgdHJvdWdoOiAwLjAgbmcvbUwgKGdvYWwgOOKAkzEwKQpXQkM6IDExLjAgeDEwXjMvwrVMIHwgSGdiOiAxMC41IGcvZEwgfCBQbGF0ZWxldHM6IDI5MCB4MTBeMy/CtUwKVXJpbmFseXNpczogbm8gcHJvdGVpbnVyaWEsIG5vIGhlbWF0dXJpYQoKQXNzZXNzbWVudCAmIFBsYW4KLS0tLS0tLS0tLS0tLS0tLS0KSW1tZWRpYXRlIGdyYWZ0IGZ1bmN0aW9uIHdpdGggYnJpc2sgZGl1cmVzaXMuIENvbnRpbnVlIGhlbW9keW5hbWljIG1vbml0b3JpbmcsIHN0cmljdCBJL09zLCBxNmggQk1QLCBtYWludGFpbiBldXZvbGVtaWEuClBhaW4gY29udHJvbCB3aXRoIGFjZXRhbWlub3BoZW4gYW5kIGxvd+KAkWRvc2Ugb3Bpb2lkcyBQUk4uIEJlZ2luIGNsZWFyIGxpcXVpZHM7IGFkdmFuY2UgYXMgdG9sZXJhdGVkLgo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-1_document-3.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-1-1-3",
+    "subject": {
+        "reference": "Patient/patient-1"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-1-1"
+    },
+    "date": "2025-06-03",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Immediate Post-Op ICU Admission Note \u2013 stable hemodynamics, good Doppler signals"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "SW1tZWRpYXRlIFBvc3TigJFPcCBJQ1UgQWRtaXNzaW9uIE5vdGUg4oCTIHN0YWJsZSBoZW1vZHluYW1pY3MsIGdvb2QgRG9wcGxlciBzaWduYWxzCkVuY291bnRlcjogMSB8IERvY3VtZW50OiAzIHwgRGF0ZTogMjAyNS0wNi0wMwpQYXRpZW50OiBNYXNvbiBSaXZlcnMgKE1hbGUsIERPQiAyMDE2LTExLTA4KQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpJbnRlcnZhbCBFdmVudHMKLS0tLS0tLS0tLS0tLS0tClVuZXZlbnRmdWwgT1IgY291cnNlOyBpbW1lZGlhdGUgdXJpbmUgb3V0cHV0ID4gMiBtTC9rZy9oci4KClZpdGFsIFNpZ25zCi0tLS0tLS0tLS0tCkJQIDEwNC82NCwgSFIgOTgsIFJSIDIwLCBUIDM2LjjCsEMsIFNwT+KCgiA5OCUgUkEuCgpQaHlzaWNhbCBFeGFtCi0tLS0tLS0tLS0tLS0KQWxsb2dyYWZ0IGZvc3NhIHNvZnQ7IGluY2lzaW9uIGNsZWFuL2RyeTsgZHJhaW4gd2l0aCBtaW5pbWFsIHNlcm9zYW5ndWlub3VzIG91dHB1dC4KCk1lZGljYXRpb25zCi0tLS0tLS0tLS0tCkFURyBpbmZ1c2lvbiBQT0QwCk1ldGh5bHByZWRuaXNvbG9uZSAxMCBtZy9rZyBJViB4MSB0aGVuIHRhcGVyCk1NRiB0byBzdGFydCB0b25pZ2h0IDUwMCBtZyBQTwpUYWNyb2xpbXVzIHRvIHN0YXJ0IGluIDI0IGhvdXJzClZhbGdhbmNpY2xvdmlyLCBUTVDigJFTTVgsIG55c3RhdGluIHBlciBwcm90b2NvbApBbWxvZGlwaW5lIDIuNSBtZyBkYWlseSwgUFJOIElWIGh5ZHJhbGF6aW5lCgpMYWJzCi0tLS0KU2VydW0gY3JlYXRpbmluZTogMi4xMCBtZy9kTApCVU46IDMyIG1nL2RMClBvdGFzc2l1bTogNC4zIG1tb2wvTApDT+KCgjogMjMgbW1vbC9MClRhY3JvbGltdXMgdHJvdWdoOiAwLjAgbmcvbUwgKGdvYWwgOOKAkzEwKQpXQkM6IDExLjAgeDEwXjMvwrVMIHwgSGdiOiAxMC41IGcvZEwgfCBQbGF0ZWxldHM6IDI5MCB4MTBeMy/CtUwKVXJpbmFseXNpczogbm8gcHJvdGVpbnVyaWEsIG5vIGhlbWF0dXJpYQoKQXNzZXNzbWVudCAmIFBsYW4KLS0tLS0tLS0tLS0tLS0tLS0KSW1tZWRpYXRlIGdyYWZ0IGZ1bmN0aW9uIHdpdGggYnJpc2sgZGl1cmVzaXMuIENvbnRpbnVlIGhlbW9keW5hbWljIG1vbml0b3JpbmcsIHN0cmljdCBJL09zLCBxNmggQk1QLCBtYWludGFpbiBldXZvbGVtaWEuClBhaW4gY29udHJvbCB3aXRoIGFjZXRhbWlub3BoZW4gYW5kIGxvd+KAkWRvc2Ugb3Bpb2lkcyBQUk4uIEJlZ2luIGNsZWFyIGxpcXVpZHM7IGFkdmFuY2UgYXMgdG9sZXJhdGVkLgo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-1-1-3 (2025-06-03)"
+            }
+        }
+    ]
+}

@@ -1,1 +1,28 @@
-{"resourceType": "DocumentReference", "id": "patient-1-5-14", "subject": {"reference": "Patient/patient-1"}, "encounter": {"reference": "Encounter/patient-1-5"}, "date": "2025-06-28", "type": {"coding": [{"system": "http://loinc.org", "display": "Virology Panel \u2013 BK PCR not detected, CMV PCR not detected"}]}, "content": [{"attachment": {"data": "Vmlyb2xvZ3kgUGFuZWwg4oCTIEJLIFBDUiBub3QgZGV0ZWN0ZWQsIENNViBQQ1Igbm90IGRldGVjdGVkCkVuY291bnRlcjogNSB8IERvY3VtZW50OiAxNCB8IERhdGU6IDIwMjUtMDYtMjgKUGF0aWVudDogTWFzb24gUml2ZXJzIChNYWxlLCBET0IgMjAxNi0xMS0wOCkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKUmVzdWx0cwotLS0tLS0tCkJLIHZpcnVzIFBDUjogTm90IGRldGVjdGVkLiBDTVYgUENSOiBOb3QgZGV0ZWN0ZWQuCgpQbGFuCi0tLS0KQ29udGludWUgbW9udGhseSBzY3JlZW5pbmcgeCA2IG1vbnRoczsgbm8gY2hhbmdlIHRvIHByb3BoeWxheGlzLgo=", "contentType": "text/plain; charset=utf-8", "title": "encounter-5_document-14.txt"}}]}
+{
+    "resourceType": "DocumentReference",
+    "id": "patient-1-5-14",
+    "subject": {
+        "reference": "Patient/patient-1"
+    },
+    "encounter": {
+        "reference": "Encounter/patient-1-5"
+    },
+    "date": "2025-06-28",
+    "type": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "display": "Virology Panel \u2013 BK PCR not detected, CMV PCR not detected"
+            }
+        ]
+    },
+    "content": [
+        {
+            "attachment": {
+                "data": "Vmlyb2xvZ3kgUGFuZWwg4oCTIEJLIFBDUiBub3QgZGV0ZWN0ZWQsIENNViBQQ1Igbm90IGRldGVjdGVkCkVuY291bnRlcjogNSB8IERvY3VtZW50OiAxNCB8IERhdGU6IDIwMjUtMDYtMjgKUGF0aWVudDogTWFzb24gUml2ZXJzIChNYWxlLCBET0IgMjAxNi0xMS0wOCkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKUmVzdWx0cwotLS0tLS0tCkJLIHZpcnVzIFBDUjogTm90IGRldGVjdGVkLiBDTVYgUENSOiBOb3QgZGV0ZWN0ZWQuCgpQbGFuCi0tLS0KQ29udGludWUgbW9udGhseSBzY3JlZW5pbmcgeCA2IG1vbnRoczsgbm8gY2hhbmdlIHRvIHByb3BoeWxheGlzLgo=",
+                "contentType": "text/plain; charset=utf-8",
+                "title": "patient-1-5-14 (2025-06-28)"
+            }
+        }
+    ]
+}
