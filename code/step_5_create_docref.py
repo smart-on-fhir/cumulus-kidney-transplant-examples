@@ -3,7 +3,6 @@ import base64
 import hashlib
 import json
 from enum import Enum
-from turtledemo.paint import switchupdown
 from typing import Any
 from pathlib import Path
 import pandas as pd
@@ -36,16 +35,16 @@ def map_id(*parts, id_type=IDType.simple) -> str:
     else:
         return simple_id(*parts)
 
-def simple_id(*parts):
+def simple_id(*parts) -> str:
     return SEPERATOR.join(str(p) for p in parts)
 
-def hash_id(*parts, length=10):
+def hash_id(*parts, length=10) -> str:
     text = SEPERATOR.join(str(p) for p in parts)  # join patient, encounter, and/or document.
     return hashlib.sha1(text.encode()).hexdigest()[:length]
 
-def uuid_id(*parts):
+def uuid_id(*parts) -> str:
     text = simple_id(*parts)
-    return uuid.uuid5(NAMESPACE, text)
+    return str(uuid.uuid5(NAMESPACE, text))
 
 def make_map_csv(output_path: Path | str, id_type = None) -> pd.DataFrame:
     """

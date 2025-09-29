@@ -20,17 +20,17 @@ def read_csv(file_csv: Path | str) -> DataFrame:
 
 def str_patient(patient_num) -> str:
     if 'patient' not in str(patient_num):
-        return f'patient_{patient_num}'
+        return f'patient-{patient_num}'
     return patient_num
 
 def str_encounter(encounter_num) -> str:
     if 'encounter' not in str(encounter_num):
-        return f'encounter_{encounter_num}'
+        return f'encounter-{encounter_num}'
     return encounter_num
 
 def str_document(document_num) -> str:
     if 'document' not in str(document_num):
-        return f'document_{document_num}'
+        return f'document-{document_num}'
     return document_num
 
 def dir_examples() -> Path:
@@ -57,7 +57,7 @@ def file_documents_csv(patient_num) -> Path:
 def file_document_txt(patient_num, encounter_num, document_num) -> Path:
     encounter_num = str_encounter(encounter_num)
     document_num = str_document(document_num)
-    return dir_documents(patient_num)/ f'{encounter_num}-{document_num}.txt'
+    return dir_documents(patient_num)/ f'{encounter_num}_{document_num}.txt'
 
 def read_patients_csv() -> DataFrame:
     return read_csv(file_patients_csv())
