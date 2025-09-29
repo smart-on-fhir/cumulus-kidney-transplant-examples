@@ -20,7 +20,7 @@ Will generate prompts for each patient in [patients.csv](../examples/patients.cs
 
 The prompt will use the template from [step_1_prompt.txt](step_1_prompt.txt) . 
 
-Paste your `examples`/**patient_num**/`step1_prompt.txt` into https://chatgpt.com/
+Paste your `examples`/**patient-num**/`step1_prompt.txt` into https://chatgpt.com/
 
 ### 2. ChatGPT download 
 
@@ -43,16 +43,16 @@ Even GPT5 "_can make mistakes_".
 $`python3` [step_4_crosscheck.py](step_4_crosscheck.py)
 
 ```
-✅  patient_1
-✅  patient_2
-✅  patient_3
-✅  patient_4
-✅  patient_5
-✅  patient_6
-✅  patient_7
-✅  patient_8
-✅  patient_9
-✅  patient_10
+✅  patient-1
+✅  patient-2
+✅  patient-3
+✅  patient-4
+✅  patient-5
+✅  patient-6
+✅  patient-7
+✅  patient-8
+✅  patient-9
+✅  patient-10
 ```
 
 ### 5. Create FHIR DocumentReference  
