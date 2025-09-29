@@ -1,3 +1,28 @@
 Discharge Summary – Post-Kidney Transplant
 
-Full note text as provided earlier.
+Admission Date: 2025-05-29
+Discharge Date: 2025-06-02
+Primary Diagnosis: ESRD due to IgA nephropathy, status post deceased donor kidney transplant
+Secondary Diagnoses: Hypertension, secondary hyperparathyroidism
+
+Hospital Course:
+Patient admitted for deceased donor kidney transplant on 5/29.
+Intraoperative course was uncomplicated. Immediate urine output noted.
+Post-op course notable for improving creatinine from 8.6 → 2.1 mg/dL by discharge.
+Immunosuppression induction with basiliximab + steroids; transitioned to tacrolimus, MMF, and prednisone taper.
+Foley removed POD#3; good spontaneous voiding.
+JP drain removed POD#4.
+No infectious complications.
+
+Discharge Medications:
+Tacrolimus 3 mg BID (target trough 8–10 ng/mL)
+MMF 1 g BID
+Prednisone taper starting 20 mg daily
+Valganciclovir 900 mg daily (CMV prophylaxis)
+TMP-SMX SS daily (PJP prophylaxis)
+Amlodipine 10 mg daily
+
+Instructions:
+Follow-up in transplant clinic in 3 days.
+Labs twice weekly for the first month.
+Strict adherence to immunosuppression emphasized.

@@ -1,3 +1,19 @@
 Transplant Nephrology Clinic Note – Week 8, rising BK (5.0e3 copies/mL); DSA negative
 
-Full note text as provided earlier.
+Subjective:
+Patient states adherence is perfect, pillbox used daily. No missed doses. No fever, cough, dysuria, or abdominal pain.
+
+Objective:
+BP 126/72, HR 70
+Incision fully healed
+Labs: creatinine 1.4 mg/dL (stable), tacrolimus trough 8.1 ng/mL
+BK PCR: 5.0 × 10³ copies/mL (up from 1.2 × 10³)
+CMV PCR: negative
+DSA: negative
+
+Assessment/Plan:
+Rising BK viremia, currently 5.0e3 copies/mL.
+MMF dose already reduced last visit; monitor for effect.
+Continue tacrolimus at current dose, prednisone maintenance.
+Repeat BK PCR and creatinine in 2 weeks.
+Consider kidney biopsy if creatinine rises or BK exceeds 1.0 × 10⁴.

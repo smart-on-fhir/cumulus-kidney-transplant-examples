@@ -1,3 +1,19 @@
 Transplant Nephrology Clinic Note – Week 14, BK <1.0e3 copies/mL; Cr 1.3; DSA negative
 
-Full note text as provided earlier.
+Subjective:
+Patient states she is feeling well, adherent with all meds. Denies fever, dysuria, cough, or GI upset.
+
+Objective:
+BP 124/72, HR 68
+Weight stable
+Labs: creatinine 1.3 mg/dL (improved), tacrolimus trough 8.0 ng/mL
+BK PCR: <1.0 × 10³ copies/mL
+CMV PCR: negative
+DSA: negative
+
+Assessment/Plan:
+BK viremia resolved to low level, creatinine stable at 1.3 mg/dL.
+Graft function preserved, no evidence of rejection.
+Continue tacrolimus, prednisone, and MMF at reduced dose.
+Continue prophylaxis per protocol.
+Transition to monthly follow-up if stability maintained.
