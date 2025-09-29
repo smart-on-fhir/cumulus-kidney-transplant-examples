@@ -61,7 +61,7 @@ def make_map_csv(output_path: Path | str, id_type = None) -> pd.DataFrame:
             docref_list.append({
                 "patient_num":      patient_num,
                 "subject_id":       map_id(patient_num, id_type=id_type),
-                "encounter_num":    patient_num,
+                "encounter_num":    row.encounter_num,
                 "encounter_id":     map_id(patient_num, row.encounter_num, id_type=id_type),
                 "document_num":     row.document_num,
                 "documentref_id":   map_id(patient_num, row.encounter_num, row.document_num, id_type=id_type),
