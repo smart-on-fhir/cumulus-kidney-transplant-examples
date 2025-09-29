@@ -1,5 +1,6 @@
 import pandas as pd
 import examples
+import make_markdown
 
 def crosscheck_encounter_date(patient_num):
     encounters_path = examples.file_encounters_csv(patient_num)
@@ -33,5 +34,6 @@ if __name__ == "__main__":
         crosscheck_txt(patient_num)
         crosscheck_encounter_date(patient_num)
         print('✅ ', patient_num)
+    make_markdown.make_readme()
 
 
