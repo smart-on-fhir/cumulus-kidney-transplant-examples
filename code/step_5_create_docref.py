@@ -26,10 +26,13 @@ def map_id(*parts, id_type=IDType.simple) -> str:
     :param id_type: simple, hash, or uuid
     :return: str Identifier for resource
     """
+    if isinstance(id_type, str):
+        id_type = IDType[id_type]  # convert string -> Enum
+
     if id_type == IDType.hash:
         return hash_id(*parts)
     if id_type == IDType.uuid:
-        return hash_id(*parts)
+        return uuid_id(*parts)
     else:
         return simple_id(*parts)
 
@@ -44,7 +47,7 @@ def uuid_id(*parts):
     text = simple_id(*parts)
     return uuid.uuid5(NAMESPACE, text)
 
-def make_map_csv(output_path: Path | str, id_type:IDType = None) -> pd.DataFrame:
+def make_map_csv(output_path: Path | str, id_type = None) -> pd.DataFrame:
     """
     # CSV -> FHIR for Cumulus Chart Review
     # https://docs.smarthealthit.org/cumulus/chart-review/
@@ -126,5 +129,5 @@ if __name__ == "__main__":
     map_csv_file = examples.dir_fhir() / 'mapping.csv'
     fhir_ndjson_dir = examples.dir_fhir() / 'ndjson'
     fhir_ndjson_dir.mkdir(parents=True, exist_ok=True)
-    make_map_csv(map_csv_file, id_type=IDType.uuid)
+    make_map_csv(map_csv_file, id_type=IDType.simple)
     make_fhir_ndjson(map_csv_file, fhir_ndjson_dir)
