@@ -1,6 +1,6 @@
 Generate realistic, real-world, EHR clinical text for each document in "documents.csv".
 
-Output each document to a txt file using the naming convention: encounter_num-document_num.txt
+Output each document to a txt file using the naming convention: encounter-num_document-num.txt
 Each txt file will be named like this:
 encounter-1_document-1.txt
 encounter-1_document-2.txt
