@@ -1,3 +1,21 @@
 Inpatient Nephrology Progress Note – POD#1: urine output improving
 
-Full note text as provided earlier.
+Subjective:
+Patient reports mild incisional pain controlled with meds, no fevers/chills, no shortness of breath.
+
+Objective:
+
+Vitals stable
+UOP: 3.5 L in last 24h
+Creatinine 6.2 mg/dL (down from 7.9)
+Tacrolimus level pending (first dose this AM)
+JP drain output minimal
+CXR clear
+
+Assessment/Plan:
+POD#1 s/p deceased donor kidney transplant with good urine output, creatinine trending down.
+Continue tacrolimus, MMF, steroid taper.
+Continue infection prophylaxis.
+Monitor electrolytes, strict I/O.
+Encourage ambulation.
+Discharge planning pending stability.

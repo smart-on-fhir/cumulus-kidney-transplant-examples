@@ -103,7 +103,7 @@ def make_fhir_documentreference(row: pd.Series) -> dict[str, Any]:
     attachment: dict[str, Any] = {
         "data": base64.standard_b64encode(file_content).decode("ascii"),
         "contentType": f"{mimetype}; charset={encoding}",
-        "title": Path(row['path']).name
+        "title": f"{row['documentref_id']} ({row['date']})",
     }
 
     doc_ref: dict[str, Any] = {

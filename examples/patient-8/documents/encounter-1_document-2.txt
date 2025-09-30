@@ -1,3 +1,25 @@
 Transplant Surgery Operative Note – Deceased Donor Kidney Transplant (right iliac fossa)
 
-Full note text as provided earlier.
+Pre-Op Diagnosis: ESRD due to IgA nephropathy
+Post-Op Diagnosis: Same
+Procedure: Right iliac fossa kidney transplant, ureteroneocystostomy with stent placement
+Surgeon: Dr. [Name]
+Assistants: Dr. [Resident]
+
+Operative Details:
+
+Deceased donor left kidney prepared on back table; single artery, single vein, single ureter.
+
+Anastomosed renal vein to external iliac vein, renal artery to external iliac artery.
+
+Warm ischemia time: 32 minutes. Cold ischemia time: 13 hours.
+
+Ureter implanted into bladder with double-J stent.
+
+Immediate reperfusion with brisk urine output noted.
+
+Estimated blood loss 150 mL. No complications.
+
+Specimens: None
+Drains: JP drain in pelvis
+Disposition: Stable to PACU/ICU

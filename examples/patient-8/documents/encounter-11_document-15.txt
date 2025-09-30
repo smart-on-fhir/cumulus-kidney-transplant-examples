@@ -1,3 +1,19 @@
 Transplant Nephrology Clinic Note – Week 12, BK down-trending (3.2e3 copies/mL)
 
-Full note text as provided earlier.
+Subjective:
+Patient adherent, continues pillbox. No new symptoms. Energy level improved compared to prior visit.
+
+Objective:
+BP 128/74, HR 72
+Creatinine 1.4 mg/dL (stable)
+Tacrolimus trough 7.9 ng/mL
+BK PCR: 3.2 × 10³ copies/mL (down from 8.2 × 10³)
+CMV PCR: negative
+DSA: negative
+
+Assessment/Plan:
+BK viral load decreasing after MMF reduction, kidney function stable.
+Continue current regimen (tacrolimus, prednisone, MMF at reduced dose).
+No indication for biopsy at this time.
+Continue routine infection prophylaxis.
+Return in 2 weeks with labs.
