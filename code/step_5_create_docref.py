@@ -90,7 +90,7 @@ def make_fhir_ndjson(csv_path: Path, output_dir: Path) -> None:
         out_file: Path = output_dir / f"{row['subject_id']}_{row['documentref_id']}.ndjson"
         out_file.parent.mkdir(parents=True, exist_ok=True)
         with open(out_file, "w", encoding="utf-8") as f:
-            json.dump(resource, f, indent=4)
+            json.dump(resource, f)
     print('✅ ', output_dir)
 
 def make_fhir_documentreference(row: pd.Series) -> dict[str, Any]:
