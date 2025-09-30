@@ -1,0 +1,44 @@
+Pre-Operative History & Physical
+Patient: Anthony Delgado
+MRN: [Redacted]
+Date: 2025-06-10
+Attending: Dr. Smith, Transplant Surgery
+
+Chief Complaint:
+End-stage renal disease secondary to type 2 diabetes mellitus, presenting for kidney transplant evaluation.
+
+History of Present Illness:
+Mr. Delgado is a 57-year-old male with a 20-year history of poorly controlled type 2 diabetes complicated by retinopathy, neuropathy, and nephropathy. He has been on hemodialysis for 3 years, three times weekly. He presents today for pre-operative evaluation in anticipation of a deceased donor kidney transplant scheduled for tomorrow. He reports fatigue and pruritus but denies chest pain or shortness of breath. No active infections. Last dialysis was yesterday.
+
+Past Medical History:
+- Type 2 diabetes mellitus, insulin dependent
+- Hypertension
+- Hyperlipidemia
+- Diabetic retinopathy
+- ESRD on hemodialysis
+
+Past Surgical History:
+- AV fistula creation, 2022
+- Cataract extraction, left eye
+
+Medications:
+- Insulin glargine 20 units qHS
+- Insulin lispro with meals (sliding scale)
+- Amlodipine 10 mg daily
+- Atorvastatin 40 mg nightly
+- Sevelamer 800 mg TID with meals
+
+Allergies:
+- NKDA
+
+Physical Exam:
+Vital signs stable. Lungs clear. Cardiac exam regular rhythm. Abdomen soft, non-tender. AV fistula in left arm with good thrill.
+
+Labs:
+Cr 7.8 mg/dL, BUN 65 mg/dL, HbA1c 8.2%, K 4.9 mmol/L. LFTs within normal limits.
+
+Assessment:
+57M with ESRD secondary to diabetic nephropathy, cleared for kidney transplantation.
+
+Plan:
+Proceed with deceased donor kidney transplant on 2025-06-11. Patient consent obtained after discussion of risks including infection, rejection, and immunosuppression side effects.

@@ -1,0 +1,15 @@
+Transplant Clinic Note
+
+Date: 2025-07-29
+
+Interval History: Patient reports resolution of dysuria after antibiotics. No fever. Parents note mild tremor but no missed medications.
+
+Exam: BP 108/66, weight 33 kg. Incision well-healed, graft nontender.
+
+Labs: Creatinine 1.0 mg/dL. Tacrolimus trough 12.3 ng/mL (above goal). DSA negative.
+
+Plan:
+- Reduce tacrolimus dose from 2 mg BID to 1.5 mg BID.
+- Continue MMF and prednisone.
+- Continue infection prophylaxis.
+- Repeat tacrolimus trough in 1 week.

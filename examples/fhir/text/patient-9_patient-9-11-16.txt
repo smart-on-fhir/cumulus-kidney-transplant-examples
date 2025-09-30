@@ -1,0 +1,18 @@
+Clinic Progress Note – 9 months; stable function; DSA negative
+
+Date: 6/12/2024
+
+Subjective: Patient reports feeling well. Denies missed doses in last month, though admits he occasionally takes tacrolimus late at night after long workdays.
+
+Objective:
+- Vitals: BP 126/78, HR 76, Temp 36.8C
+- Exam: Well-appearing, no edema, graft nontender.
+- Labs: Creatinine 1.4 mg/dL, Tacrolimus trough 7.2 ng/mL.
+- Urine protein/Cr: 0.12.
+- DSA: Negative.
+
+Assessment/Plan:
+- Stable graft function, target trough achieved.
+- Continue current immunosuppression regimen.
+- Reinforce consistent timing of tacrolimus doses.
+- Return in 3 months.

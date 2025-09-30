@@ -1,0 +1,13 @@
+Renal Doppler Ultrasound Report
+Patient: Anthony Delgado
+Date: 2025-07-25
+Radiologist: Dr. Nguyen
+
+Indication:
+1-month post-kidney transplant monitoring.
+
+Findings:
+Right iliac fossa transplant kidney visualized. Size 11.2 cm. Corticomedullary differentiation preserved. No hydronephrosis. Resistive indices 0.65–0.72, within normal limits. Renal vein patent with normal flow. No perinephric collections.
+
+Impression:
+Normal renal Doppler ultrasound with preserved graft perfusion and no evidence of obstruction or vascular compromise.

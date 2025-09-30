@@ -1,0 +1,20 @@
+Nephrology Note – Steroid Pulse Plan
+
+Patient: Jordan Reyes
+Date: 2024-10-14
+
+Interval History:
+Patient clinically well, asymptomatic. Biopsy consistent with borderline TCMR (Banff i1, t1). No ABMR.
+
+Assessment:
+- Borderline acute cellular rejection, subclinical
+- Stable renal function (creatinine 1.7 mg/dL)
+- Immunosuppression otherwise therapeutic
+
+Plan:
+- Methylprednisolone 500 mg IV daily x 3 doses
+- Continue tacrolimus with target trough 7–9
+- Continue MMF 1 g BID
+- Resume prednisone taper thereafter
+- Monitor BP, glucose during steroid course
+- Repeat DSA in 4 weeks

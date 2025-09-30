@@ -1,0 +1,47 @@
+Transplant Surgery Operative Note – Deceased Donor Kidney Transplant (right iliac fossa)
+Encounter: 1 | Document: 2 | Date: 2025-06-03
+Patient: Mason Rivers (Male, DOB 2016-11-08)
+-------------------------------------------------------------------------------
+
+Procedure
+---------
+Deceased donor kidney transplant with ureteroneocystostomy and double‑J stent placement.
+
+Surgeon/Assistants
+------------------
+Attending pediatric transplant surgeon, fellow, scrub nurse.
+
+Anesthesia
+----------
+General endotracheal.
+
+Findings
+--------
+Donor left kidney single artery, single vein, single ureter. Allograft well perfused after reperfusion with prompt
+urine production. No anatomical variants or vascular anomalies encountered.
+
+Technique
+---------
+Right lower quadrant Gibson incision. External iliac artery and vein prepared. End‑to‑side venous and arterial
+anastomoses with 6‑0 Prolene. Warm ischemia 28 minutes; cold ischemia 9 hours 12 minutes. Ureteroneocystostomy
+(Lich‑Gregoir) over 4.7 Fr stent. 15 Fr Blake drain placed. Hemostasis achieved.
+
+Implant Details
+---------------
+Deceased donor (KDPI 18%), CMV D+/R+, EBV D+/R+
+
+Estimated Blood Loss
+--------------------
+60 mL; no transfusion required.
+
+Specimens
+---------
+None.
+
+Complications
+-------------
+None.
+
+Disposition
+-----------
+Extubated in OR; to PICU in stable condition with good Doppler signals.

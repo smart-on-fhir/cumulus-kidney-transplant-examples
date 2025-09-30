@@ -1,0 +1,21 @@
+Pathology Final Diagnosis – no acute rejection, Banff i0 t0 v0, mild IFTA (<5%)
+Encounter: 8 | Document: 23 | Date: 2025-09-10
+Patient: Mason Rivers (Male, DOB 2016-11-08)
+-------------------------------------------------------------------------------
+
+Specimen
+--------
+Renal allograft core needle biopsies, adequate sample (>10 glomeruli).
+
+Microscopy
+----------
+Interstitium with minimal inflammation (i0), tubulitis absent (t0), intimal arteritis absent (v0).
+C4d negative by immunohistochemistry; no peritubular capillaritis (ptc0); cg0; ci0‑1/ct0‑1 mild IFTA (<5%).
+
+Diagnosis
+---------
+No evidence of acute T‑cell or antibody‑mediated rejection. Mild chronic changes only.
+
+Comment
+-------
+Findings consistent with stable early post‑transplant course under adequate immunosuppression.

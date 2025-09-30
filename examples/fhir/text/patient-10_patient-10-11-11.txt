@@ -1,0 +1,7 @@
+Hospital Discharge Summary – 2020-10-20
+Patient: Avery Chen
+Admission: 2020-10-02    Discharge: 2020-10-20
+Reason for admission: Antibody-mediated rejection (AMR).
+Hospital Course: Completed 5 sessions of plasmapheresis, IVIG infusions, and a single rituximab dose. No infusion reactions noted. Patient remained afebrile, hemodynamically stable. Creatinine improved from 2.3 to 1.9 mg/dL. Tacrolimus titrated to trough goal 8–12 ng/mL (discharge trough 9.2).
+Discharge Medications: Tacrolimus 4 mg BID, MMF 1 g BID, prednisone taper, TMP-SMX, valganciclovir.
+Plan: Weekly labs, clinic follow-up in 2 weeks. Reinforce adherence importance.
