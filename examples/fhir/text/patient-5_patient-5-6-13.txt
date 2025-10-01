@@ -1,6 +1,0 @@
-Encounter 6 - Document 13: Viral Monitoring Panel
-
-CMV PCR: Negative (<200 copies/mL).
-EBV PCR: Negative (<200 copies/mL).
-BK PCR: Negative (<500 copies/mL).
-Interpretation: No active viral replication detected.

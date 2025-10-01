@@ -1,8 +1,0 @@
-Patient: Avery Chen, 35M with ESRD secondary to biopsy-proven IgA nephropathy, on hemodialysis since 2018. Admitted for deceased donor kidney transplant (DDKT).
-HPI: Progressive renal failure, multiple hospitalizations for fluid overload. Last dialysis yesterday. No recent infections. PRA 12%, current crossmatch negative.
-PMH: Hypertension, anemia of CKD. No CAD.
-Meds: Amlodipine, epoetin alfa, sevelamer.
-Allergies: NKDA.
-Exam: Stable vitals, lungs clear, no edema, AV fistula left forearm functioning.
-Labs: Cr 6.2 mg/dL, K 4.9, Hgb 9.1, WBC 6.0, INR 1.0.
-Plan: Proceed with DDKT, right iliac fossa placement. Peri-op ATG induction, methylpred, start tacrolimus post-op.

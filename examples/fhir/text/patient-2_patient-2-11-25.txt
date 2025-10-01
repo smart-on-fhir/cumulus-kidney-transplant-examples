@@ -1,9 +1,0 @@
-Infection Surveillance
-
-Date: 2025-08-26
-
-Results:
-- CMV PCR: Not detected
-- BK virus PCR: 650 copies/mL (low-level viremia)
-
-Interpretation: No evidence of CMV viremia. Low-level BK viremia detected, below treatment threshold. Plan to repeat in 2 weeks.

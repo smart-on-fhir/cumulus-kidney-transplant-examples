@@ -1,6 +1,0 @@
-Encounter 8 - Document 16: Acute Clinic Visit
-
-Presentation: Called clinic for mild rise in creatinine (1.6 to 2.1). Tacrolimus trough 14.5. No fever, urine output stable.
-Exam: BP 148/92, incision well healed.
-Assessment: Likely tacrolimus nephrotoxicity.
-Plan: Reduce tacrolimus dose, repeat labs in 48h. Renal ultrasound ordered.

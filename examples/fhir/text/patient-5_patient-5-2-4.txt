@@ -1,6 +1,0 @@
-Encounter 2 - Document 4: Immunosuppression Initiation Plan
-
-Induction: Basiliximab POD 0 and 4.
-Maintenance: Tacrolimus (target trough 8–10 ng/mL), Mycophenolate mofetil 1g BID, Prednisone taper starting 20 mg daily.
-Prophylaxis: TMP-SMX SS daily, valganciclovir 450 mg daily, fluconazole 100 mg weekly.
-Counseling: Importance of adherence discussed with patient and family.

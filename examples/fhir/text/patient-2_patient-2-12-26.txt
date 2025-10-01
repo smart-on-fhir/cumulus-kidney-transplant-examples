@@ -1,9 +1,0 @@
-Interventional Radiology Procedure Note
-
-Date: 2025-09-09
-
-Procedure: Ultrasound-guided percutaneous biopsy of transplant kidney.
-
-Details: Two cores obtained from cortex. Adequate tissue. No immediate complications. Post-procedure monitoring initiated.
-
-Disposition: Stable. Bedrest x2 hours.

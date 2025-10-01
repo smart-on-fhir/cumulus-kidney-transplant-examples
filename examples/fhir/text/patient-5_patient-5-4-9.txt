@@ -1,6 +1,0 @@
-Encounter 4 - Document 9: Laboratory Results
-
-CMP: Cr 1.9, K 4.4, ALT 22.
-CBC: WBC 4.8, Hgb 10.2, Plt 210.
-UA: Negative protein, no hematuria.
-Tacrolimus trough: 11.2 ng/mL (goal 8–10).

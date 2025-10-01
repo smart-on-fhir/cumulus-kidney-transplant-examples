@@ -1,9 +1,0 @@
-Urine Culture Result
-
-Date: 2025-07-15
-
-Specimen: Midstream urine.
-
-Result: E. coli 50,000–100,000 CFU/mL. Susceptibility: Sensitive to cephalexin, ceftriaxone, nitrofurantoin. Resistant to ampicillin.
-
-Impression: E. coli urinary tract infection, susceptible to empiric therapy already initiated.

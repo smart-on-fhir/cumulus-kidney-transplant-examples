@@ -1,5 +1,0 @@
-Encounter 10 - Document 21: Pathology Report
-
-Specimen: Renal allograft biopsy, 2 cores.
-Findings: Mild interstitial fibrosis and tubular atrophy (<10%). No acute rejection. Banff: i0, t0, v0, g0, ptc0, C4d negative.
-Diagnosis: No evidence of rejection. Minimal chronic changes.
