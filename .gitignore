@@ -163,3 +163,4 @@ cython_debug/
 .env
 .env.*
 !.env.template
+examples/fhir/text
